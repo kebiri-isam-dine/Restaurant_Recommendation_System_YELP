@@ -1,0 +1,962 @@
+business_id:ID(restaurant),name,address,city,stars,review_count,categories,RangePrice,Ambiences,Nb_Ambiences,Nb_categories
+Dy91wdWkwtI_qgjAIZ0Niw,Taqueria Los Primos,3322 Old Capitol Trl,Wilmington,4.0,23,"Mexican, Restaurants",1.0,['divey'],1,2
+_Oksx3ALgKLRVxeAR8l_qA,V-Trap Kitchen and Lounge,607 N Lincoln St,Wilmington,5.0,13,"Restaurants, Mexican, Arts & Entertainment, Event Planning & Services, Italian, Gluten-Free, Nightlife, Lounges, Vegan, Bars, Caterers, Vegetarian",2.0,['classy'],1,12
+_NhT0A3LUEd75L_cEXf2_A,Season's Pizza,1721 W Gilpin Dr,Wilmington,3.0,7,"Restaurants, Pizza",,[''],1,2
+A_-Vv5oKZNqxsV69_7E2KQ,8th & Union Kitchen,801 N Union St,Wilmington,3.5,177,"Vietnamese, Asian Fusion, Bars, American (New), Restaurants, Breakfast & Brunch, Nightlife, Thai, Gluten-Free",2.0,"['trendy', 'classy', 'casual']",3,9
+JNH-hcySeuGmtI_t8dG3Dw,Del Rose Cafe,1707 Delaware Ave,Wilmington,4.0,8,"Restaurants, Italian",2.0,[],0,2
+ekBvLA43oEWEswUXZI0bYQ,Shawerma Palace,311 N King St,Wilmington,4.5,8,"Restaurants, Middle Eastern",,[],0,2
+5R6YO6K9PkthkTbXqV9slQ,Sakura Japanese Restaurant,4713 Kirkwood Hwy,Wilmington,4.0,86,"Japanese, Restaurants, Sushi Bars, Noodles",2.0,"['casual', 'classy']",2,4
+iXemjTj5TOByT1-cNTSaDw,PureBread Deli,1309 Churchmans Rd,Newark,4.0,64,"Food, Bakeries, Delis, Sandwiches, Restaurants",1.0,"['casual', 'classy']",2,5
+5ODCsQbRdsFIWlypGF3iUw,Brandywine Brewing Company Restaurant & Brewery,"3801 Kennett Pike, Ste E155",Wilmington,3.0,28,"Food, American (Traditional), Breweries, Restaurants",2.0,['trendy'],1,4
+s-7Q1GAQmB-Qsm_UwviHVA,Lone Star Steakhouse,113 S. Dupont Highway,New Castle,2.0,15,"Steakhouses, Restaurants, Seafood, American (Traditional)",2.0,[],0,4
+59fWFpyDg01BTEH-Hh6jdw,McDonald's,2702 Philadelphia Pike,Claymont,1.5,25,"Food, Coffee & Tea, Fast Food, Burgers, Restaurants",1.0,[],0,5
+YdpDpp130fxiX2DUdQLSqg,Bardea Food & Drink,620 N Market St,Wilmington,4.5,181,"Bars, Restaurants, Nightlife, Italian",2.0,['classy'],1,4
+EROSyhoWNCUH53NrDrsHgQ,Mary's Kountry Kitchen,222 Main St,Wilmington,4.0,50,"Restaurants, American (Traditional), Diners, Breakfast & Brunch",1.0,['casual'],1,4
+Vo4NZBtF3mr6EJitNnq-Wg,Pizzeria Maki,"4007 Kennett Pike, Ste A",Greenville,5.0,13,"Restaurants, Pizza, Salad, Sushi Bars",,[''],1,4
+xNWueX3uZjmixQUkY38GzQ,KFC,1925 Lancaster Ave,Wilmington,3.0,5,"Restaurants, Chicken Wings, Fast Food, Chicken Shop",1.0,[''],1,4
+sFtEbnWDtIADseyr8Lx6Qw,Spice N' Nice,3125 New Castle Ave,New Castle,5.0,11,"Caribbean, Restaurants, Food",1.0,[],0,3
+ulwns2OavT81v6zG-Sk6ng,Wawa,7 E Commons Blvd,New Castle,3.0,8,"Food, Automotive, Sandwiches, Convenience Stores, Coffee & Tea, Gas Stations, Restaurants",1.0,[],0,7
+B6zs6ywn7TfhOmmDtuWQkw,Farm a Sea Bistro & Crafthouse,56 S Old Baltimore Pike,Newark,3.0,28,"Beer Bar, Cafes, Bars, Pubs, Nightlife, American (New), Brasseries, Restaurants",2.0,[],0,8
+qmDm7guS7TAZTSDFYY2bug,Pizza Hut,3611 Kirkwood Hwy,Wilmington,1.5,45,"Pizza, Chicken Wings, Restaurants, Italian",1.0,[],0,4
+SkWaAf50KiN2m0zXfnAuiA,Luigi's Cafe,723 Ace Memorial Dr,Hockessin,4.5,63,"Cheesesteaks, Restaurants, Italian, Pizza, Salad",2.0,['casual'],1,5
+D392vqhMjDPkHw1U8p66Uw,Maryland Avenue Sub Shop,623 Maryland Ave,Wilmington,4.0,15,"Sandwiches, Restaurants, Cheesesteaks",1.0,[],0,3
+O1gJVygW6UVgKCpErmYZfw,Subway Restaurants,1710 Marsh Rd,Wilmington,2.5,7,"Restaurants, Fast Food, Sandwiches",1.0,[],0,3
+ggJXlslLYndvE7n3hgJBCQ,Capital One 360 Café,802 Delaware Ave,Wilmington,4.0,5,"Financial Services, Food, Restaurants, Cafes, Banks & Credit Unions, Coffee & Tea",1.0,[''],1,6
+CKKY7kxtznKVzm9FBzAL4w,Little Caesars Pizza,2500 Foulk Rd,Wilmington,2.0,14,"Food, Italian, Pizza, Restaurants",1.0,['classy'],1,4
+Q4OTSH9DaoeqtYcg6qYtZg,Subway,"4721 Kirkwood Hwy, Unit  5",Wilmington,1.0,5,"Fast Food, Sandwiches, Restaurants",1.0,[''],1,3
+OlOVRlcEstxKK_6hMjy63A,Hollywood Grill,1811 Concord Pike,Wilmington,3.5,190,"Restaurants, Diners",2.0,['casual'],1,2
+eNxh94Ogxwuomg7JsZu98w,Adda - Indian Grill,4621 Ogletown Stanton Rd,Newark,2.5,11,"Restaurants, Indian",,[''],1,2
+o8JeOB8HTa5HYHg6hfqTHw,Walt's Chicken Express,103 N Lincoln St,Wilmington,4.0,51,"Restaurants, Fast Food, Soul Food, Southern",1.0,['divey'],1,4
+7Ld1DxAhSlGSateku0iqbg,Ristorante Attilio,1900 Lancaster Ave,Wilmington,4.0,50,"Restaurants, Italian",2.0,['classy'],1,2
+7O7YHTUB3uqXHsQSLKR0SA,El Jefe Restaurant & Mexican Grill,110 Astro Shopping Ctr,Newark,3.5,69,"Nightlife, Mexican, Restaurants, Dive Bars, Bars",2.0,['casual'],1,5
+MZW_eTFYFBvHYg5OFqDRCA,Red Robin Gourmet Burgers and Brews,6100 Brandywine Pkwy,Wilmington,3.0,118,"Burgers, American (Traditional), Restaurants",2.0,['casual'],1,3
+i2qrXvLkhyG4xyRI-ddcZA,Baja Fresh,"530 Jfk Memorial Hwy, # I-95, Delaware Welcome Center",Newark,2.5,17,"Event Planning & Services, Caterers, Mexican, Restaurants, Tex-Mex, Fast Food",1.0,[],0,6
+yDiWYpuzRxcTgSi_O4JZpQ,Masala Kitchen,110 N Dupont Hwy,New Castle,4.5,79,"Vegetarian, Ethnic Food, Food, Specialty Food, Restaurants, Fruits & Veggies, Indian, Vegan",1.0,"['classy', 'casual']",2,8
+ThZyytdc_kj2uBYFiSao-A,Arner's Restaurant,201 N Dupont Hwy,New Castle,2.0,57,"Food, American (Traditional), American (New), Bakeries, Salad, Breakfast & Brunch, Restaurants",2.0,['casual'],1,7
+uoMWvXch6sWnI9FMsE_-Vg,Cafe Napoli Restaurant & Pizzeria,4391 Kirkwood Hwy,Wilmington,4.0,114,"Pizza, Restaurants, Italian",2.0,['casual'],1,3
+02kw1y-cUK5v_u5BaAQvjg,Arby's,134 N Dupont Hwy,New Castle,3.0,9,"Restaurants, American (New), Sandwiches, Fast Food",1.0,[],0,4
+fCFUlCHG4spZ3O0vbqnYjA,Pat's Pizzeria,2008 W Newport Pike,Wilmington,2.0,5,"Pizza, Restaurants",,[''],1,2
+LSxmfbgcZLdQ5ai2vf2nmA,Zaikka Indian Grill,1253 Churchmans Rd,Newark,3.5,69,"Vegetarian, Indian, Restaurants, Vegan, Fast Food",1.0,['casual'],1,5
+psD0qpCK-iENFO9c8hmnkw,Famous Crab Cakes,651 Naamans Rd,Claymont,3.5,37,"Restaurants, Seafood, Sandwiches",2.0,['casual'],1,3
+c4D851qxOujE5KTH8upXTA,Wendy's,90 University Plaza,Newark,2.0,23,"Restaurants, Burgers, Fast Food",1.0,[],0,3
+5RtAJPXFLTzwALIe1mtNuA,Piree's Piri Piri Grill,5335A Limestone Rd,Wilmington,4.0,77,"Sandwiches, Chicken Shop, Restaurants, Salad, Chicken Wings",2.0,"['trendy', 'casual']",2,5
+xtbAqP_Ftb3kYJ53Hv6H5w,Top China Buffet,1714 Marsh Rd,Wilmington,2.5,5,"Restaurants, Chinese",,[''],1,2
+ZB2T9dwB4vhHPsJC_4eOnw,Nordstrom,100 Christiana Mall,Newark,4.0,24,"Children's Clothing, Comfort Food, Fashion, Department Stores, Beauty & Spas, Women's Clothing, Restaurants, Men's Clothing, Cosmetics & Beauty Supply, Shopping",3.0,[''],1,10
+mtowE4p6gOgyGrHAsMz-rg,Eeffoc Cafe,1428 N Clayton St,Wilmington,3.0,31,"Food, Restaurants, Breakfast & Brunch, Sandwiches, Coffee & Tea",1.0,['casual'],1,5
+f9iPWhAeA_IKCF-aPcud1A,Philippine Bread House And Restaurant,"3317 Old Capitol Trl, Ste D",Wilmington,3.5,7,"Restaurants, Filipino, Food, Bakeries",2.0,[],0,4
+ccEgmgcc5uLJejser0UD0g,New Castle Bagels & Deli,1420 N Dupont Hwy,New Castle,4.0,21,"Food, Breakfast & Brunch, Bagels, Restaurants, Delis",1.0,[],0,5
+oS70RVt-RegY3Ts0hLASQA,Saap Lao Thai Cuisine,287 Christiana Rd,New Castle,4.5,63,"Restaurants, Thai, Laotian",2.0,['casual'],1,3
+N-_ilHVIMQqzkga7nHfA8A,La Tonalteca,1724 W Newport Pike,Wilmington,3.0,6,"Mexican, Restaurants",2.0,[''],1,2
+VMiDHHR-JHgB4ZoVluxpLQ,La Tolteca,1724 W Newport Pike,Wilmington,3.0,6,"Restaurants, Mexican",1.0,['divey'],1,2
+ixsljpxu56VCTtayIELqUg,Tokyo Sushi,3 S Orange St,Wilmington,3.5,17,"Sushi Bars, Restaurants",2.0,['casual'],1,2
+3zWNxtRhyR4rLPfXyQgSyw,Wawa,4555 New Linden Hill Rd,Wilmington,3.0,10,"Restaurants, Coffee & Tea, Sandwiches, Delis, Food",1.0,[],0,5
+XF86J5bJKkmueBL-PmPbcg,Subway,1012 Wilmington Ave,Wilmington,2.5,7,"Sandwiches, Restaurants, Fast Food",1.0,[],0,3
+OGbdvZAvSZ30l8sde9GSwQ,Mr. Pasta,1607 Philadelphia Pike,Wilmington,4.0,39,"Event Planning & Services, Restaurants, Caterers, Italian",1.0,['casual'],1,4
+wWcETNWBnFEi1J_W_9hXJA,El Fogon De Tato,2304 Kirkwood Hwy,Wilmington,5.0,6,"Puerto Rican, Restaurants, Latin American, Caribbean",,[''],1,4
+DAcqRGI_u8yNCcUIczfNxA,Wawa,4030 Concord Pk,Talleyville,4.0,11,"Delis, Food, Automotive, Car Dealers, Restaurants, Convenience Stores, Coffee & Tea, Gas Stations, Sandwiches",2.0,[],0,9
+gTM5c2B3X2nEvYg6Jlw_EA,The Mayne Dish,2202 Kirkwood Hwy,Wilmington,4.5,25,"Caribbean, American (New), Restaurants",,[],0,3
+k9W1gDPg4TziOTqY_xjTyQ,Friendly's,5331 Brandywine Pkwy,Wilmington,3.0,35,"Food, American (Traditional), Ice Cream & Frozen Yogurt, Burgers, Diners, Restaurants",2.0,[],0,6
+hFa7UxRZgJDQJ3UBhQsu9A,Piccolina Toscana,1412 N Dupont St,Wilmington,3.5,99,"Restaurants, Italian, Nightlife, Bars",2.0,['classy'],1,4
+_BqPnypB6wPZRPbEqtKy6A,Grotto Pizza,2015 Concord Pike,Wilmington,2.5,63,"Burgers, Sandwiches, Restaurants, Pizza",2.0,['casual'],1,4
+sKQ0KYon7eT6xEnCpb18aw,Chili's,4147 Concord Pike,Wilmington,3.0,25,"Restaurants, Nightlife, American (Traditional), Tex-Mex, Bars",2.0,['casual'],1,5
+MmFNgQrsPrFWUx6Wr3KS1w,Stoltzfus Sausage Sandwiches,"110 N Dupont Hwy, Ste 186, New Castle Farmers Market",New Castle,4.5,9,"Food, Sandwiches, Restaurants, Specialty Food, Meat Shops",1.0,[],0,5
+UZkuF34Plfao49I9dylzXg,QDOBA Mexican Eats,"5609 Concord Pike, Unit 7a",Wilmington,3.0,18,"Restaurants, Mexican, Fast Food, Event Planning & Services, Caterers",1.0,[],0,5
+iCfB58Cvb_rw_SDAgPXLfA,Russell's Quality Food,1204 Centerville Rd,Wilmington,4.5,103,"Barbeque, Breakfast & Brunch, Burgers, Restaurants, Local Flavor",1.0,['casual'],1,5
+sTQZ6WHggp7pBnn7mW7y0w,Dreamers Cafe,2095 Philadelphia Pike,Claymont,3.0,11,"Restaurants, Sandwiches, Cafes",,[],0,3
+citzbW-2MVEZRNBqpVO-Jw,Buffalo Wild Wings,2062 Limestone Rd,Wilmington,3.0,48,"American (Traditional), Restaurants, Chicken Wings, Sports Bars, Bars, Burgers, Nightlife",2.0,['casual'],1,7
+jVJH1KfitQi87MYMh6vyMg,Anthony's Coal Fired Pizza,4805 Limestone Rd,Pike Creek,4.0,119,"Pizza, Nightlife, Italian, Restaurants, Bars",2.0,['casual'],1,5
+iJKOUYgigs4VYsWny6AtEA,Ciao's Trolley Pizza & Grill,1600 Delaware Ave,Wilmington,4.0,77,"Restaurants, Pizza",1.0,['casual'],1,2
+W6S482dRQ_9nCcLjfv8VNg,Bawarchi Indian Restaurant,2909 Concord Pike,Wilmington,3.5,101,"Indian, Chinese, Restaurants",2.0,['casual'],1,3
+XYoyLbHwbBJShaZltxsAYQ,Popeye's,530 Jfk Memorial Hwy,Newark,1.5,10,"Southern, Restaurants, Fast Food",1.0,[],0,3
+7ELSYoA2CZx8UPSLrvhOXg,C & C Country Maid,260 University Plz,Newark,4.0,10,"Restaurants, Delis",1.0,[],0,2
+1Ye_elsSB-XjKgWAHDwPbw,Applebee's Grill + Bar,105 Wilton Blvd,New Castle,2.0,35,"Restaurants, Bars, American (New), Nightlife, American (Traditional), Sports Bars, Steakhouses, Burgers",2.0,['casual'],1,8
+fLeD_h6uD4yEN2ciI08RiA,Bubble Shack,3205 Concord Pike,Wilmington,4.5,97,"Sandwiches, Asian Fusion, Food, Vietnamese, Restaurants, Bubble Tea",1.0,['casual'],1,6
+JaHuWM3Tp1aG7NW66mhutw,McDonald's,3014 New Castle Ave,New Castle,2.0,6,"Restaurants, Fast Food, Burgers",1.0,[''],1,3
+5IFqqWJTaPNoY2ZgRlX73w,Cafe Verdi Restaurant,"12A Trolley Sq, Ste A",Wilmington,3.0,44,"Restaurants, Italian, Pizza",2.0,[],0,3
+MTjS4g__WMgA-PPMjCL4fQ,Popeyes Louisiana Kitchen,1505 Dupont Hwy,New Castle,2.0,21,"Chicken Wings, American (Traditional), Fast Food, American (New), Restaurants",1.0,[],0,5
+19fHbf0qzihtEtXQZ2ntww,Walter's Steakhouse,802 N Union St,Wilmington,4.0,73,"Nightlife, Steakhouses, Bars, Restaurants, Seafood",3.0,['classy'],1,5
+ScXJHSCceQao6K87VK199Q,Mona Lisa,607 N Lincoln St,Wilmington,4.0,18,"Restaurants, Italian",2.0,[],0,2
+8zJsbIVBXDoGaEmQNicjdg,Fusion Spice Bar & Grille,"2801 Lancaster Ave, Ste C",Wilmington,3.5,7,"Latin American, New Mexican Cuisine, Nightlife, Restaurants, African, Bars",,[],0,6
+Y4eaKcLP0hCIfvhknOT4uQ,Crossroads Restaurant,4579 Kirkwood Hwy,Wilmington,3.5,103,"Breakfast & Brunch, Food, Diners, Ice Cream & Frozen Yogurt, Restaurants, American (New)",2.0,['casual'],1,6
+5cvVmZYhYr1P0ot0ed2lJQ,Riverfront Bakery,313 S Justison St,Wilmington,4.5,32,"Coffee & Tea, Food, Breakfast & Brunch, Bakeries, Restaurants",,[''],1,5
+oQcV39W4ApVURMAXd7qhzw,Masala Kitchen,825 N Market St,Wilmington,4.0,32,"Indian, Restaurants, Vegetarian, Vegan",1.0,['classy'],1,4
+dsglOxl3QNlMzidRhZ4NWw,Papa John's Pizza,"4140 Ogletown Stanton Road, Suite 20",Newark,2.0,13,"Restaurants, Pizza",1.0,[''],1,2
+O7vMyd_Lg2-1DTW8VPFwcQ,Three Countries Pizzeria,202 E 6th St,New Castle,3.5,13,"American (New), Mexican, Pizza, Restaurants",1.0,[],0,4
+8k3m4HBZB0h--N98bV4j8Q,Chick-fil-A,204 Christiana Mall,Newark,3.5,18,"Event Planning & Services, Caterers, Chicken Shop, Chicken Wings, Restaurants, Fast Food",1.0,[],0,6
+VHJBGikBqXpdc6mc7qtQ8g,Simba Tropical Grill,333 Naamans Rd,Claymont,3.5,7,"Restaurants, African, American (New)",2.0,['casual'],1,3
+gdV2mdEGR_kPA9EW6r2Qeg,China Inn,601 Maryland Ave,Wilmington,2.5,7,"Chinese, Restaurants",1.0,[''],1,2
+ilriW8ywq5HFs56Ux8pftw,Ciro Forty Acres,1836 Lovering Ave,Wilmington,3.5,36,"Cafes, Coffee & Tea, Food, Italian, Restaurants, Breakfast & Brunch",2.0,[''],1,6
+hAV6BW2gfdtbDhxeBJUvIQ,Lucy's Pizza & Restaurant,3840 N Market St,Wilmington,3.5,27,"Restaurants, Pizza",1.0,[],0,2
+MkYu8dMDQFX830cIqMo90Q,Old Country Buffet,1325 New Churchmans Rd,Newark,3.5,40,"Salad, American (New), Breakfast & Brunch, Restaurants, Buffets, American (Traditional)",2.0,[],0,6
+pp79bmyve2egmM1_9Rh9Fg,Margaux,902 N Market St,Wilmington,3.5,16,"Cocktail Bars, French, Restaurants, Bars, Nightlife, Brasseries",,[''],1,6
+Z5gHx5r8Amn_LB4eNSJs_A,Adobo Alley,1700 Kirkwood Hwy,Wilmington,4.5,39,"Event Planning & Services, Caterers, Restaurants, Sandwiches, Breakfast & Brunch, Chicken Wings, Filipino, American (New)",,[],0,8
+wlzn5BhVMS2Kz3BYcTZIRg,I M Coffee,1105 N Market St,Wilmington,4.0,6,"Sandwiches, Juice Bars & Smoothies, Coffee & Tea, Food, Restaurants",,[''],1,5
+sHRfeIQg6FMhjKkiNfaLgw,Captain's Catch Seafood,5828 Kirkwood Hwy,Wilmington,3.5,12,"Seafood Markets, Delis, Restaurants, Food, Specialty Food, Seafood",3.0,[''],1,6
+fd_fNaeZxcZfUza3K6Be9w,Marias Pizza & Pasta,723 Ace Memorial Dr,Hockessin,4.0,12,"Italian, Restaurants",2.0,['casual'],1,2
+N-EQ9UDuFHT9RyC1JFX5pQ,Pete's Pizza,2625 N Market St,Wilmington,2.0,36,"Restaurants, Pizza",1.0,[],0,2
+yQFHhWKAr2f8LNQvq-8NxQ,Brown Bag Deli and Grocery,301 E 9th St,Wilmington,4.5,6,"Delis, Sandwiches, Restaurants",1.0,[],0,3
+NBPOJO1QZE_65BM4qmQahQ,Golden Castle Diner Restaurant,2722 Concord Pike,Wilmington,3.5,12,"Restaurants, Diners",1.0,[],0,2
+4VGEq2AHUw3uP2L51S8raw,Cafe Scalessas,504 Greenhill Ave,Wilmington,3.5,7,"Restaurants, Italian",2.0,['casual'],1,2
+XOOsIjiMVQYB3An7z89Mnw,Piri Piri Grill,5335 Limestone Rd,Wilmington,4.5,6,"Barbeque, Restaurants, Chicken Shop",,[''],1,3
+TUU1mt51yasYH0QYwzKTEg,Pachamama Rotisserie Chicken,3 S Orange St,wilmington,4.0,61,"Mexican, Barbeque, Restaurants, Caribbean, Latin American, Peruvian",,['casual'],1,6
+1C1zjPi4rYwgGr8kD-1pwA,Panera Bread,2311 Concord Pike,Wilmington,2.5,47,"Sandwiches, Food, Breakfast & Brunch, Bakeries, Bagels, Restaurants, Soup, Salad",1.0,[],0,8
+QrCC-AbRjY8J0jw-aBcotQ,Wingstop,"4723 Kirkwood Hwy, Ste C",Wilmington,3.0,8,"Chicken Wings, Restaurants",,[''],1,2
+G01vpgoEWyYxESzZEij5sA,Five Guys,2217 Concord Pike,Wilmington,3.5,55,"Burgers, Restaurants, American (New), Fast Food",1.0,['casual'],1,4
+koYe0Xt78lAigCvFRiCw8w,Zoup!,2136 Fashion Center Blvd,Newark,4.5,76,"Soup, Salad, Sandwiches, Restaurants",1.0,['casual'],1,4
+yn57lTycvUvogODsFEyWVQ,Palace Of Asia,3421 Kirkwood Hwy,Wilmington,3.0,61,"Pakistani, Restaurants, Indian",2.0,['casual'],1,3
+LdGu5XlzAX0XalxAUMMdwA,Kuteer,54 Carpenter Plz,Wilmington,4.5,13,"Food, Indian, Restaurants",2.0,[],0,3
+tvlElS5cQ6YVEVOb34ujqQ,Coffee Beanery,"4737 Concord Pike, Ste 620, Concord Mall",Wilmington,3.5,9,"Food, Coffee & Tea, Restaurants",1.0,[''],1,3
+HurD0KDmuuHVNnh1lGb_OQ,Dragon Cuisine,401 N Market St,Wilmington,3.5,15,"Restaurants, Chinese, American (Traditional)",1.0,[],0,3
+cbfQNOgUYCu3Isfa6icYgQ,El Patron Restaurant,1718 W Gilpin Dr,Wilmington,4.5,18,"Restaurants, Mexican",1.0,[],0,2
+hrPLZ99KVPz_7yxZVfc9kA,Applebee's Grill + Bar,900 Churchman's Rd,Newark,3.0,37,"Restaurants, Burgers, Bars, Steakhouses, American (Traditional), Nightlife, Sports Bars",2.0,['casual'],1,7
+E55sNGuWYTRlH3r6_5OlOg,Domaine Hudson,1314 N Washington St,Wilmington,4.5,150,"Local Flavor, American (New), Restaurants, Desserts, Nightlife, Bars, Wine Bars, Food",3.0,"['intimate', 'classy']",2,8
+hF-Ndu77yzspMkDZv9bWzg,Carmen's Kitchen,1644 W 4th St,Wilmington,4.5,12,"Restaurants, Caribbean, Specialty Food, Puerto Rican, Food, Imported Food, Ethnic Food, Latin American, Cuban",1.0,[''],1,9
+uH_nXWJn51aHspawHb-GBA,Rosenfeld's Jewish Delicatessen,1204 Washington St,Wilmington,3.0,30,"Restaurants, Sandwiches, Kosher, Caterers, Event Planning & Services, Delis",,[''],1,6
+41lJbk2WXU3R0GKDKxRFPA,Himalaya Indian Restaurant,2671 Kirkwood Hwy,Newark,3.5,11,"Indian, Pakistani, Restaurants",2.0,[],0,3
+H2HZ5Rz01L2xLzjJR8sQ-g,Chick-fil-A,"4737 Concord Pike, Ste 760",Wilmington,3.5,23,"Event Planning & Services, Caterers, Chicken Shop, Fast Food, American (Traditional), Restaurants",1.0,[],0,6
+8vvMGaJ5biveUVE6-yTipQ,FireStone Roasting House,110 S West St,Wilmington,2.5,132,"Music Venues, Sports Bars, Bars, American (New), Nightlife, Pizza, Restaurants, Arts & Entertainment",2.0,['trendy'],1,8
+sTvFxzQU_4bm-owSJXx0MQ,Cromwell's American Tavern and Taqueria,3858 Kennett Pike,Greenville,3.0,94,"Nightlife, Bars, Mexican, American (New), Restaurants",2.0,['casual'],1,5
+p_iyQ6Mo33ZbGS5k5_bTng,Burger King,1530 N Du Pont Hwy,New Castle,2.0,11,"Hot Dogs, Fast Food, Restaurants, Burgers",1.0,[''],1,4
+qFsh80AAL90tkOc0n98bqg,El Diablo Burritos,13A Trolley Sq,Wilmington,4.5,303,"Tex-Mex, Tacos, Fast Food, Southern, Mexican, Restaurants",1.0,['casual'],1,6
+-AxGGm4yvhedkmN1glW1Xw,Ming Kitchen,150 Salem Church Rd,Newark,2.5,14,"Chinese, Restaurants",2.0,[],0,2
+jpEhAUyitrgwDatsgeBgXg,Bangkok House Restaurant,104 N Union St,Wilmington,4.0,76,"Restaurants, Thai",2.0,['casual'],1,2
+shIAkjO9IFa4yTM5EENPTQ,PureBread Deli,"500 Delaware Ave, Ste 100",Wilmington,4.0,41,"Cafes, Restaurants, Delis, Soup, Sandwiches, Salad",1.0,['casual'],1,6
+OpUoLGa5NwOzuPutIAa1vA,Hyderabad House,4621 Stanton Ogletown Rd,Newark,3.0,59,"Indian, Restaurants",2.0,[],0,2
+h3DUMo4oWyVQ9ZfGar6vPg,Harry's Savoy Grill,2020 Naamans Rd,Wilmington,3.5,204,"Restaurants, Seafood, Steakhouses, American (Traditional)",3.0,"['upscale', 'classy']",2,4
+KnXW9AQKAlGmQ9AU_77B5Q,Asian Kitchen,704 Lantana Dr,Hockessin,3.5,9,"Japanese, Thai, Food, Nightlife, Asian Fusion, Restaurants, Bars",2.0,[''],1,7
+nrlYIT438hkDub2ifE8DHg,Mr Wish,132 Christiana Mall,Newark,4.5,21,"Food, Restaurants, Bubble Tea, Cafes, Juice Bars & Smoothies",1.0,[''],1,5
+JQ__Ee1Uuw8bWUu8E2CjBQ,Hong Kong Chinese Food Pick Up,28A Trolley Sq,Wilmington,3.5,37,"Restaurants, Chinese",1.0,[],0,2
+edFDP6O_R4n9BUXDMFqApw,Jake's Wayback Burgers,2095 Philadelphia Pike,Claymont,3.0,16,"Restaurants, Burgers",1.0,[],0,2
+VVqQvn29cQ2LZXJ_9rPa-g,Celebrations on Market,340 S Market St,Wilmington,4.5,7,"Restaurants, Soul Food, Event Planning & Services, American (New), Venues & Event Spaces, Nightlife, Salad, Cajun/Creole, Bars, Lounges, Caterers, Caribbean, Party & Event Planning, Southern",2.0,[],0,14
+uyXVm7lhbR26t5Jy20VYPg,Bertucci's Italian Restaurant,201 W Main St,Newark,3.5,78,"Pizza, Restaurants, Italian",2.0,['casual'],1,3
+Nvy1jETQItFjG0oyjpGk7w,Farmer & the Cow,413 N Market St,Wilmington,4.0,247,"Burgers, Beer, Wine & Spirits, Nightlife, Restaurants, Cocktail Bars, Food, Bars, Juice Bars & Smoothies, Salad",2.0,"['hipster', 'trendy', 'casual']",3,10
+AjxhKYSbc1NrGOxAcqxb9w,Biden Welcome Center,530 Jfk Memorial Hwy,Newark,3.5,216,"Visitor Centers, Travel Services, Hotels & Travel, Food Stands, Restaurants, Shopping, Shopping Centers",1.0,['casual'],1,7
+52RFRa6UlbIxy8EnWJQpjg,La Tonalteca - Christiana,1237 Churchmans Rd,Newark,3.0,91,"Tex-Mex, Latin American, Restaurants, Mexican",2.0,['casual'],1,4
+_ju1BXAF5g5QtAFfZZKO1g,Brew Ha Ha,3838 Kennett Pike,Greenville,4.0,80,"Food, Breakfast & Brunch, American (New), Restaurants, Coffee & Tea",2.0,['hipster'],1,5
+IugPZVHmgdGvOmNVi07ueg,La Tonalteca - Hockessin,700 Lantana Dr,Hockessin,3.0,36,"Restaurants, Tex-Mex, Vegetarian, Mexican",2.0,['casual'],1,4
+f4ykOH9Z-87b2l3Ea4HDPA,Hooters,194 S Dupont Hwy,New Castle,2.5,37,"Sandwiches, Restaurants, Chicken Wings, Burgers, American (Traditional), Sports Bars, Bars, Nightlife",2.0,['casual'],1,8
+MIK2lBW3eFpPcy0vKxPS6w,Bugaboo Creek Steak House,1323 New Churchmans Rd,Newark,3.0,51,"Restaurants, American (Traditional), Steakhouses",2.0,['casual'],1,3
+FGPFf3cZ0djSKNXNDY8IqQ,ShopRite of Brandywine Commons,1300 Rocky Run Pkwy,Wilmington,2.0,42,"Drugstores, Shopping, Grocery, Delis, Food, Bakeries, Restaurants",2.0,[''],1,7
+sX_vxWQuZu_EA1bkCX95Yw,Tonic Seafood & Steak,111 W 11th St,Wilmington,4.0,122,"Caterers, Event Planning & Services, Bars, Nightlife, Burgers, Restaurants, Steakhouses, Sports Bars, American (Traditional)",3.0,['casual'],1,9
+mtXTk0-IRTS8d0w16ihRPw,Dunkin',4639 Ogletown Stanton Rd,Newark,2.0,5,"Restaurants, Coffee & Tea, Donuts, Food",1.0,[''],1,4
+ucDPodtTLX7LHZnigGRa4Q,James Street Tavern,2 S James St,Newport,3.5,37,"Music Venues, Restaurants, Arts & Entertainment, American (Traditional), Nightlife, Bars, Sandwiches",2.0,"['classy', 'casual']",2,7
+LwXkXDdsu1yWWcWAbt2fYw,Mazzella's Italian Restaurant,729 Philadelphia Pike,Wilmington,4.0,151,"Sandwiches, Pizza, Italian, Restaurants",2.0,['casual'],1,4
+Cv4QFI1gGGrgRSVnMU0qug,Olive Garden Italian Restaurant,305 Rocky Run Pkwy,Talleyville,3.5,67,"Salad, Restaurants, Italian, Bars, Soup, Nightlife, Wine Bars",2.0,['casual'],1,7
+PHaAnZO3jkJeVaekf2zT4A,Boston Market,1611 Pennsylvania Ave,Wilmington,3.0,12,"Comfort Food, Restaurants, American (Traditional), Caterers, Chicken Shop, Sandwiches, Event Planning & Services",2.0,[''],1,7
+UtVv2dVuHqpaJqnRwismiA,Steak Works,2207 Silverside Rd,Wilmington,3.5,24,"Pizza, Sandwiches, Restaurants",2.0,[],0,3
+Il3GDb6A7rGSYdt89Wb0Fw,Paris Pizza,1735 Marsh Rd,Wilmington,3.0,32,"Chicken Wings, Restaurants, Sandwiches, Cheesesteaks, Pizza",1.0,['casual'],1,5
+QpQ8CxC14jnNOdb7B2R6zQ,Uschy's Cafe,913 N Market St,Wilmington,4.5,12,"Restaurants, Food, German",2.0,['casual'],1,3
+CZ2KPQtt0ah0up00YK0Ypg,2 Fat Guys American Grill,701 Ace Memorial Dr,Hockessin,3.5,69,"Nightlife, Restaurants, Sports Bars, American (New), Bars",2.0,['casual'],1,5
+-eJJKj0ClOvumIYksYSdcQ,Puff Daddy's Sandwich Shop,Mill Rd,Wilmington,4.0,5,"Breakfast & Brunch, Italian, Sandwiches, Restaurants, Food",,[''],1,5
+081vVr80-uscqGGaFAxKfQ,Goat Kitchen and Bar,1845 Marsh Rd,Wilmington,4.0,198,"Nightlife, Vegetarian, American (New), Bars, Burgers, Restaurants",2.0,"['classy', 'casual']",2,6
+1DCPuF0_VZNLRvHEAVJJng,BellaVista Trattoria & Pizzeria,5337B Limstone Rd,Wilmington,3.5,29,"Pizza, Event Planning & Services, Italian, Restaurants, Seafood, Caterers",2.0,['casual'],1,6
+zUMbBbxlBY0_hbAclEwDmA,Panaderia Y Taqueria Lili,2622 Kirkwood Hwy,Newark,4.5,8,"Restaurants, Mexican",,[''],1,2
+UXJEQycac7JKyyTVDjWBdA,California Pizza Kitchen at Christiana,325 Christiana Mall,Newark,3.0,79,"Salad, Pizza, American (Traditional), American (New), Restaurants",2.0,['casual'],1,5
+HsCX4E7_k-XXS-1iTz17CA,Go Vegan Philly,607 N Lincoln St,Wilmington,5.0,21,"Bakeries, Burgers, Vegan, Restaurants, Food, Juice Bars & Smoothies",,[''],1,6
+W6Nc9Lt4n89sEBXqpCIGrA,Pat's Pizza Hockessin,7288 Lancaster Pike,Hockessin,3.0,14,"Pizza, Soup, Sandwiches, Restaurants, Chicken Wings, Salad",2.0,[],0,6
+Z_xbp4N5MDssZxdUohybTg,Main Event Newark,2900 Fashion Center Blvd,Newark,2.5,140,"Arcades, American (Traditional), Restaurants, Active Life, Bowling, Arts & Entertainment",2.0,[],0,6
+hBmWWvU6BSL6i_eYapOFGQ,The Greene Turtle Sports Bar & Grille,425 Stanton Christiana Rd,Christiana,3.0,73,"Sports Bars, Nightlife, Restaurants, Bars, American (Traditional), Burgers",2.0,['casual'],1,6
+YJgLVtH4IFzRTrlvTO2_Cw,Christa-Bell's Caribbean Cuisine,414 N Union St,Wilmington,3.5,12,"Caribbean, Restaurants",1.0,[],0,2
+G1M1OJmxp5dPY3rRYpl5WQ,Bob Evans,402 Eagle Run Rd,Newark,2.5,42,"Bed & Breakfast, American (Traditional), Comfort Food, Breakfast & Brunch, Salad, Restaurants, Hotels & Travel",2.0,['casual'],1,7
+jfv6PEdL5KchI-DGJlnbWQ,Dunkin',301 N. Maryland Ave,Wilmington,2.0,5,"Restaurants, Coffee & Tea, Donuts, Food",1.0,[''],1,4
+ExwZRGJcZ7eMfFalfQjhkg,Govatos Candies,800 N Market St,Wilmington,3.5,14,"Food, American (Traditional), Sandwiches, Restaurants, Specialty Food, Candy Stores",2.0,[],0,6
+w0RHRKHj9g2G3H5LcrOiKw,Scratch Magoo's,1709 Delaware Ave,Wilmington,4.0,80,"American (Traditional), Restaurants, Nightlife, Bars, Pubs",2.0,"['trendy', 'casual']",2,5
+RzuUOVjXuyG9b8DctqAgFQ,Wendy's,140 N Dupont Hwy,New Castle,3.0,9,"Fast Food, Restaurants, Burgers",1.0,[],0,3
+ujUb29BOYcUyhMcnqo4bWA,Two Stones Pub,1203 Christiana Rd,Newark,4.0,328,"Restaurants, Gastropubs",2.0,['casual'],1,2
+Vy9VN70aRpIe4yEo55VrWQ,Cafe Riviera,4737 Concord Pike,Wilmington,4.0,59,"Restaurants, Italian, Pizza",1.0,['casual'],1,3
+ULrDH5eEndkbALvYEBhrHw,Party Pizza,212 Boxwood Rd,Wilmington,4.0,26,"Restaurants, Pizza",1.0,['casual'],1,2
+2CCPRNXRO33sYuotGG7MqA,GARRISON DELI,501 West 7 Th Street,New Castle,4.5,7,"Delis, Restaurants",,[''],1,2
+-ShzgoeH2nvGG_TlNfMz2w,Morelia Mexican Restaurant & Bar,4617 Ogletown Stanton Rd,Newark,3.5,69,"Restaurants, Mexican",2.0,['casual'],1,2
+t1KiSVmxADW1LaxA2Wtj9g,Dreamers Cafe,"1312 Philadelphia Pike, Ste 2",Wilmington,4.0,32,"Restaurants, Sandwiches, Cafes",1.0,['casual'],1,3
+jrNAkn21Tjq3n9v2n3m46g,Grapes Real Jamaican Cuisine,2302 N Market St,Wilmington,4.0,11,"Caribbean, Restaurants",1.0,[],0,2
+uAlZsR2u3sArs6vuuHl0mQ,Augusta Grille,1612 N Dupont Hwy,New Castle,3.5,5,"Steakhouses, American (New), Southern, Restaurants, Breakfast & Brunch, American (Traditional)",2.0,[''],1,6
+0XXZSQpSbcbL1i4iK-Ohiw,Embers,630 Naamans Rd,Claymont,3.0,16,"American (New), Restaurants",2.0,[],0,2
+QfaobFtkXhyTirLQLkV82w,J & C Cuisine,290 University Plz,Newark,4.0,29,"Restaurants, Japanese, Chinese",1.0,['casual'],1,3
+2ojUHZ_5H8_S0vh-rXpPfA,Hot Spot Pizza,1127 Churchmans Rd,Newark,3.0,20,"Restaurants, Pizza",2.0,[],0,2
+b8yPm2F9dHjJLu5NF-lneA,Ameritage Bistro,9th St & Orange St,Wilmington,3.5,8,"American (New), Restaurants",3.0,[''],1,2
+k93U5RS4ohNqk9912QcyOw,Capriotti's Sandwich Shop,4132 Ogletown Stanton Rd,Newark,2.0,13,"Restaurants, Sandwiches",1.0,[''],1,2
+gfIj5FvIejEiex4WV04wIQ,Ubon Thai Cuisine,936 Justinson St,Wilmington,3.5,199,"Tapas/Small Plates, Nightlife, Jazz & Blues, Arts & Entertainment, Bars, Thai, Restaurants",2.0,['casual'],1,7
+e1o-2If3E-OY2A_yvamrIQ,Eeffoc's cafe,3 S Orange St,Wilmington,3.5,6,"Farmers Market, Coffee & Tea, Restaurants, Bakeries, Breakfast & Brunch, Food",1.0,[''],1,6
+Pn9_MnhoLrMFdW3AZDORMQ,Lucky's Coffee Shop,4003 Concord Pike,Wilmington,3.5,233,"Burgers, Breakfast & Brunch, Diners, Sandwiches, Restaurants",2.0,['casual'],1,5
+MyNFSdduvVnfeJu5sQfFLg,Giovanni's Place,2066 New Castle Ave,New Castle,1.5,18,"Restaurants, Pizza",2.0,[],0,2
+hZVzFdmKqFDPHleovfGnPA,Jerry Deen's Family Restaurant,4304 N Market St,Wilmington,2.0,5,"Comfort Food, Restaurants, Breakfast & Brunch",1.0,[''],1,3
+H0tVJV7M5lb0bE5vDZd6KQ,Pho Son,4015 Concord Pike,Wilmington,4.0,43,"Vietnamese, Restaurants",,[],0,2
+OJUTu1PAPjljZBwtI5DUdg,Deep Blue Bar & Grill,111 W 11th St,Wilmington,3.5,52,"Seafood, Nightlife, Restaurants, Bars, American (Traditional)",3.0,['classy'],1,5
+W_M-QaSW2y2JfUDRfOZ4-Q,Gallucio's,1709 Lovering Ave,Wilmington,3.0,37,"Burgers, Restaurants, Pizza, Cheesesteaks, Italian",2.0,['casual'],1,5
+OEMBtqjWgHvLOCIjhY_7eA,Sang Hing Chinese Food Take Out,"273 Christiana Rd, Ste 9A",New Castle,4.0,21,"Restaurants, Chinese",1.0,['divey'],1,2
+PhPokNCiFVdOx8BsdPnqeg,Manhattan Bagel,3505 Silverside Road Concord Plaza,Wilmington,4.5,12,"Food, Bagels, Sandwiches, Restaurants, Breakfast & Brunch",1.0,[''],1,5
+zj8HThbzTWvXl7-Dw0_nsQ,Añejo,1717 Delaware Ave,Wilmington,3.0,34,"Restaurants, Mexican",2.0,['casual'],1,2
+zz0l4dUf28wzPAaTdGqsSw,El Pique - Wilmington,805 Old Dupont Rd,Wilmington,4.5,173,"Restaurants, Mexican",2.0,['divey'],1,2
+yzQvpMF2HFZrK4ZL3vV5Ig,El Maguey Mexican Cuisine & Bar,3320 Old Capitol Trl,Wilmington,1.5,6,"Mexican, Restaurants, Bars, Nightlife",,[''],1,4
+SYcdJP123caYVCkZ27BIOw,Southeast Kitchen,1901 Delaware Ave,Wilmington,4.0,239,"Grocery, Food, Asian Fusion, Thai, Restaurants, Vietnamese, Specialty Food",2.0,['casual'],1,7
+BypYxOw7LRO8zjFMxRWdDQ,Pret A Manger,530 Jfk Memorial Hwy,Newark,4.0,8,"Breakfast & Brunch, Food, Coffee & Tea, Sandwiches, Restaurants",,[],0,5
+mskYyOH-xVyBlBn9OLqu4Q,Drip Cafe,144 Lantana Dr,Hockessin,4.0,241,"Breakfast & Brunch, Coffee & Tea, Restaurants, Food",2.0,"['classy', 'casual']",2,4
+3P-5sAQoAyKcoO5e4paG7Q,Little Anthony's Pizza,"287 Christiana Rd, Ste 10",New Castle,4.5,45,"Food, Restaurants, Pizza",1.0,['casual'],1,3
+-G0iVQaYvpZETVKwPVdR9A,Crab Du Jour - Newark,1000 Churchmans Rd,Newark,3.0,68,"Seafood, Restaurants, Bars, Salad, Nightlife, Cajun/Creole",,[''],1,6
+58OuqehnPxdFq8gWR_hBRw,Milk & Honey Coffeehouses,239 N Market St,Wilmington,4.5,9,"Restaurants, Coffee & Tea, Food, Breakfast & Brunch, Cafes",,[''],1,5
+m7gW3sfkxmIeW3dz5XTzTQ,China Dragon,1954 Maryland Ave,Wilmington,4.5,11,"Restaurants, Chinese",1.0,[],0,2
+-zngCcpYYPNXEfwv9NJsIA,China Express,"4737 Concord Pike, Ste 800",Wilmington,3.0,9,"Restaurants, Chinese",1.0,[],0,2
+AVYuQ6DTqpqsB141r3lH4w,Hibachi Grill & Supreme Sushi Buffet,4403 Kirkwood Hwy,Wilmington,3.0,83,"Restaurants, Chinese, Japanese, Buffets",2.0,['casual'],1,4
+lxWMl4ejGvFmihN-qSTNXw,Uncle John's Smokehouse,1700 Wilmington Rd,New Castle,4.5,13,"Food, Barbeque, Smokehouse, Food Trucks, Restaurants",2.0,[],0,5
+gRHfRxTqaf_oUapIB9MMUA,Cosi,3828 Kennett Pike Ste A,Greenville,3.0,8,Restaurants,,[''],1,1
+w2LKdmH6Ytez4ptNdO0Vuw,Pizza Hut,1025 Christiana Rd,Newark,2.0,17,"Chicken Wings, Italian, Pizza, Restaurants",3.0,[''],1,4
+sd0AA8okoNnR7ONkF9AWvw,Cuzino's Pizza & Pasta,2070 Naamans Rd,Wilmington,3.0,41,"Pizza, Restaurants, Italian",2.0,[],0,3
+TYgc71FqGLGiROceq4TP2A,Admiral Taddy's,2601 Governor Printz Blvd,Wilmington,4.5,12,"Specialty Food, Food, Restaurants, Caribbean, Ethnic Food",1.0,[''],1,5
+_I4a0zwTEJsvbLVqM5cS_g,Karribbean Delight,1030 S Market St,Wilmington,3.5,15,"Restaurants, Caribbean",1.0,[],0,2
+qljraKzqFlIONICsRtzSnw,Miller's Ale House,1323 Churchmans Rd,Newark,3.0,143,"American (Traditional), Nightlife, American (New), Restaurants, Sports Bars, Seafood, Bars",2.0,['casual'],1,7
+ML0D_20SZv-Xz0ST74qkuA,Jing Fong Restaurant,2089 Philadelphia Pike,Claymont,3.0,19,"Restaurants, Chinese",1.0,[],0,2
+sl3Lm8ZNuY_oIop0ZFRzuw,Pizza & Pasta,1505 N Dupont Hwy,New Castle,3.5,19,"Restaurants, Pizza",2.0,[],0,2
+5Vp6Pz3AVcqbyDj1ynKOTA,Blue House,1203 Kirkwood Hwy,Wilmington,4.5,6,"Korean, Restaurants",2.0,['casual'],1,2
+tuKYmeiSkAURPQnRDCLBxg,Rivera Taco Express,243 Christiana Rd,New Castle,4.5,42,"Mexican, Restaurants",1.0,['casual'],1,2
+Ixr2-GfYKatXdq1rZnfHiA,Ruby Thai,132 Christiana Mall,Newark,3.5,22,"Restaurants, Thai",1.0,[],0,2
+wkO1a_i1Mzpd-0sbiLa7EA,Little Vinnie's Pizza & Pasta,1706 Faulkland Rd,Wilmington,4.0,56,"Pizza, Restaurants",2.0,['casual'],1,2
+4C0xj95V8-Mp14OixoTUZA,El Maya Mexican Grill,1300 Centerville Rd,Wilmington,3.5,74,"Bars, Mexican, Venues & Event Spaces, Event Planning & Services, Restaurants, Nightlife",2.0,[],0,6
+PtVJoVOcsll8TP2HnArLsw,Tyler's Bar & Grille,5343 Limestone Rd,Wilmington,3.0,80,"Venues & Event Spaces, Nightlife, Restaurants, American (New), American (Traditional), Bars, Event Planning & Services, Beer Bar",2.0,['classy'],1,8
+UxP1VK4lTLKRu9cgjGhdaw,Brew Haha,"5329 Limestone Rd, Ste B",Wilmington,4.0,26,"Restaurants, Coffee & Tea, Food",2.0,[''],1,3
+ijJLd8VHB-vPLWmHyyELYQ,Deerhead Hot Dogs,1233 Churchmans Rd,Newark,4.0,37,"American (Traditional), Chicken Wings, Hot Dogs, Food, Restaurants, Sandwiches, Cheesesteaks, Burgers",1.0,['casual'],1,8
+pkNffAUPpdKaUuUUbhzLmQ,Philly Pretzel Factory,1718 Naamans Rd,Wilmington,2.5,11,"Bakeries, Food, Specialty Food, Restaurants, Pretzels, Hot Dogs",1.0,[''],1,6
+5hID2DruRwIwit0BcLHTaw,Dunkin',201 S Dupont Hwy,New Castle,2.5,9,"Restaurants, Donuts, Food, Coffee & Tea",1.0,[''],1,4
+uMoHJJg3zFNjh09WxN8HWA,Taqueria Atexquita,220 New Castle Ave,New Castle,3.5,5,"Mexican, Sandwiches, Restaurants, Seafood",,[''],1,4
+6Ks2A_uQSvMrDa9_wl5aKg,Sunset Restaurant BBQ and Crabs,3007 New Castle Ave,New Castle,3.5,15,"Restaurants, Barbeque, Nurseries & Gardening, Home & Garden, Soul Food, Seafood, Sandwiches, Shopping",1.0,[],0,8
+4WAgExw8IOQ_mcN1DUy4Iw,Benjamin's On 10th,204 W 10th St,Wilmington,4.0,13,"Fast Food, Sandwiches, Breakfast & Brunch, American (Traditional), Restaurants, Cafes",1.0,[],0,6
+Co47eJ287hxR-9iqhnswcw,Twisted Soul Restaurant & Bar,413 N Market St,Wilmington,3.5,44,"Asian Fusion, Restaurants, Soul Food, American (Traditional), Cajun/Creole",2.0,"['intimate', 'trendy', 'casual']",3,5
+DNvMHI_X3PEi9vTmMHO0Yg,TGI Fridays,128 N Dupont Hwy,New Castle,2.0,75,"American (Traditional), American (New), Restaurants, Bars, Nightlife, Burgers, Sports Bars",2.0,['casual'],1,7
+3VZsvccKrkvmBshoAFrgGw,Dominican Cafe,1223 W 4th St,Wilmington,4.0,14,"Caribbean, Restaurants, Dominican",1.0,[],0,3
+SUththHA3pfnkQT3Tu27IQ,Pat's Pizza & Pasta,606 E Basin Rd,New Castle,3.0,22,"Pasta Shops, Italian, Sandwiches, Specialty Food, Food, Cheesesteaks, Pizza, Restaurants",1.0,[],0,8
+nNKZXzq3kT71E6R3JX9RPg,Grotto Pizza,1819 Pennsylvania Ave,Wilmington,3.0,71,"Pizza, Restaurants, Burgers",2.0,['casual'],1,3
+KrJcaM7Fh-NClOIXfB-s4g,Espresso! Coffee Bar,1201 N Market St,Wilmington,4.5,5,"Cafes, Food, Bakeries, Restaurants, Juice Bars & Smoothies, Coffee & Tea",2.0,[''],1,6
+ctppPuguEKktu2X7SaOf-g,Wendy's,2151 Kirkwood Hwy,Wilmington,3.5,7,"Burgers, Fast Food, Restaurants",1.0,[],0,3
+VlzexKYF6St7-N4tAoGBqg,Pinang Asian Cuisine,218 Louviers Dr,Newark,4.0,142,"Asian Fusion, Thai, Malaysian, Japanese, Restaurants",2.0,['casual'],1,5
+7ABcgM9T7SD7H_-MLy61MQ,Riverfront Market,3 S Orange St,Wilmington,3.5,21,"Shopping Centers, Shopping, Food, Specialty Food, Fruits & Veggies, Sushi Bars, Restaurants",2.0,[''],1,7
+RKgn1CwGm8FCH0hKOTDG3g,Vinoteca 902,902 N Market St,Wilmington,3.5,14,"Mediterranean, Restaurants",3.0,[''],1,2
+TdLZpW0GG0NXsBjtX_SlRg,Hibachi Express,752 E Chestnut Hill Rd,Newark,3.0,21,"Japanese, Restaurants",1.0,[''],1,2
+vMWBVI5ky6c1gfuPB7ZTLQ,Urban Cafe,"1201 N Market St, Ste 110",Wilmington,4.0,17,"Restaurants, Food, Ice Cream & Frozen Yogurt, Caterers, Event Planning & Services, Cafes, Breakfast & Brunch, Sandwiches",1.0,[],0,8
+NQkqbnHOPwvaBGdhP_03qA,Doc's Meat Market,7288 Lancaster Pike,Hockessin,5.0,8,"Meat Shops, Restaurants, Specialty Food, Food, Butcher, Delis",2.0,[''],1,6
+7VrD6atyAIOPJAEdAvsA1g,Capriotti's Sandwich Shop,120 Lantana Dr,Hockessin,3.0,55,"Sandwiches, Delis, Restaurants",1.0,['casual'],1,3
+Hx8DHtPTRq-Qa98fRCTofA,Burger King,101 N Dupont Pkwy,New Castle,2.0,15,"Fast Food, Burgers, Restaurants",1.0,[''],1,3
+HBuQAJvypwNerylr03XqQg,Tokyo Express,4146 Ogletown Stanton Rd,Newark,4.0,53,"Japanese, Sushi Bars, Restaurants",1.0,['casual'],1,3
+gAiAwgSFAzT2yFXyL6dVcg,Moe's Southwest Grill,4717 Kirkwood Hwy,Wilmington,2.0,46,"Tex-Mex, Specialty Food, Mexican, Food, Restaurants",1.0,['casual'],1,5
+T4RdefWsIRfo_36Bv8X15g,Dunkin',1730 Marsh Rd,Wilmington,2.5,8,"Coffee & Tea, Donuts, Restaurants, Food",1.0,[''],1,4
+Te4yTJ7blab4s_JTAF71Iw,Sakura Japanese Sushi Restaurant,1203 Kirkwood Hwy,Wilmington,4.5,178,"Sushi Bars, Noodles, Restaurants, Asian Fusion, Japanese",2.0,[],0,5
+b9cdwGoH4oetEYA5b1YpDw,Limoncello Italian Grill,4621 Ogletown Stanton Rd,Newark,3.5,15,"Restaurants, Italian",2.0,['casual'],1,2
+nUwlAKUoxCJb3SDAxpymbA,Mimi Teriyaki,925 N Orange St,Wilmington,4.5,14,"Chinese, Restaurants, Korean, Japanese",,[],0,4
+ByD67fU4LfLkNMpMZXdAYQ,Zoes Kitchen,2150 Fashion Center Blvd,Newark,3.5,63,"Restaurants, Mediterranean, Greek, Kebab, Steakhouses, Sandwiches",1.0,[],0,6
+5vNalmeJRlPQR0HGfyCq7A,Café Valentina,1323 Mckennans Church Rd,Wilmington,3.5,54,"Italian, Restaurants",2.0,['casual'],1,2
+enWMHykIbIYAX1ChWQURZA,China Inn Restaurant,2308 A Concord Pike,Wilmington,4.0,16,"Chinese, Restaurants",1.0,[],0,2
+fmM5dA09gigXH0nCb9nEvw,Casa Tropical Latin Cuisine,4015 Concord Pike,Wilmington,3.0,11,"Latin American, Restaurants",,[],0,2
+qzNMDrjffJGMa1TVgmdS0g,Nicely's Jamaican Kitchen,301 W 4th St,Wilmington,5.0,12,"Restaurants, Seafood, Caribbean",,[],0,3
+pWIO8FCZqnPxTwt7lURk8w,Smiley's Diner,1025 Christiana Rd,Newark,3.5,80,"Restaurants, Diners",1.0,['casual'],1,2
+YCfMNP_1YCTXTKlrnw44vQ,Brandywine Diner,303 Rocky Run Pkwy,Wilmington,3.5,59,"Diners, Breakfast & Brunch, Greek, Mediterranean, Restaurants",,['casual'],1,5
+1XJ1kOixnDEfnTrRfyjUiw,Delaware Taco Festival,801 Shipyard Dr,Wilmington,2.0,8,"Mexican, Local Flavor, Restaurants, Arts & Entertainment, Festivals",3.0,[],0,5
+JEpsrFGIH4ixJJ4q2yUb_A,Godavari,3615 Kirkwood Hwy,Wilmington,3.5,161,"Beer, Wine & Spirits, Food, Buffets, Indian, Restaurants, Asian Fusion",2.0,['casual'],1,7
+pvwdXO69MQKeAEFwcISnFA,Kabob On Wheels,1401 N Dupont Hwy,Wilmington Manor,5.0,60,"Halal, Food, Afghan, Mediterranean, Restaurants, Food Trucks",1.0,['casual'],1,6
+FJSIOZotIVrgvqMuBQ7y7w,International Super Buffet,2021 Kirkwood Hwy,Wilmington,1.0,7,"Buffets, Asian Fusion, Restaurants, Japanese",2.0,[],0,4
+kMVROdQZoNoQBmvvpe78LA,Al Chu’s Sushi,111 W 10th St,Wilmington,4.5,14,"Restaurants, Sushi Bars",,[''],1,2
+IZMHmGH1NbULyreLPx3t9A,River Rock Kitchen,818 Shipyard Dr,Wilmington,3.5,56,"Venues & Event Spaces, Event Planning & Services, Tapas/Small Plates, Bars, Restaurants, Breakfast & Brunch, Nightlife, Cocktail Bars, American (New)",2.0,"['trendy', 'classy']",2,9
+Qpyp_qwSCxb6a0PsLcJnwA,Redfire Grill and Steakhouse,400 Lantana Dr,Hockessin,3.5,99,"Restaurants, Steakhouses",2.0,['classy'],1,2
+01ikDdFTvc2-YXeyv-YXjg,Two Stones Pub,2502 Foulk Rd,Wilmington,4.0,158,"Restaurants, American (New), Gastropubs",2.0,['casual'],1,3
+Z4S1pssoLucE1DT7aervXQ,Fuddruckers,40 Geoffrey Dr,Newark,3.5,75,"Restaurants, American (Traditional), Burgers",2.0,['casual'],1,3
+yih0BSPRXzPlc8qVNlYs-g,Romeo's Pizza & Restaurant,1812 Marsh Rd,Wilmington,3.0,15,"Sandwiches, Pizza, Restaurants",1.0,[],0,3
+K6SQfxBapNAIVr_C73ohlw,Rasa Sayang,"4737 Concord Pike, Unit 830, Concord Mall",Wilmington,4.0,260,"Restaurants, Malaysian, Thai, Indian",2.0,['casual'],1,4
+zVagjsscMqU6ztrFvv6hOg,MrBeast Burger,,Newark,3.5,7,"Food, Restaurants, Food Delivery Services, Burgers",,['classy'],1,4
+953cL2plLpQtabKer3r9aQ,Catch 202,4723 Concord Pike,Wilmington,3.0,59,"Italian, Seafood, American (Traditional), Restaurants",2.0,[],0,4
+P6DfeEXFpV_Z6RJRMZ6oXQ,Domino's Pizza,1728 Marsh Rd,Wilmington,2.0,15,"Appliances, Sandwiches, Chicken Wings, Home & Garden, Appliances & Repair, Local Services, Restaurants, Shopping, Pizza",1.0,[],0,9
+rBYX6kKsDt24uFdyAEs5iw,The Original Hot Bagels,4738 Limestone Rd,Wilmington,3.5,14,"Food, Bagels, Restaurants, Breakfast & Brunch",,[''],1,4
+yBfY-xIpN_OmxyXfoX0bTQ,Einstein Bros. Bagels,1732 Marsh Rd,Wilmington,2.5,39,"Bagels, Food, Breakfast & Brunch, Sandwiches, Restaurants",1.0,[''],1,5
+ifGlDvwm_6ralFBNb35Bkg,Panda Express,113 South Dupont Highway,New Castle,2.5,12,"Restaurants, Chinese, Fast Food",,[''],1,3
+lNi997C0gpQMlKW4LIIdrg,Arby's,4000 Concord Pike,Wilmington,3.5,14,"Sandwiches, American (Traditional), Fast Food, Restaurants, Burgers",1.0,[],0,5
+PMv1-zywWOnHcmvcnB30HQ,Legends,777 Delaware Park Blvd,Wilmington,3.0,19,"American (Traditional), Food, Restaurants",3.0,"['classy', 'casual']",2,3
+B8oETYiwY33NGixjU6Z0oA,Chipotle Mexican Grill,115A S Dupont Hwy,New Castle,2.0,14,"Restaurants, Fast Food, Mexican",1.0,[''],1,3
+SWrUyOkijbZPp6If7UMzjw,1000 Degrees Pizza,4526 New Linden Hill Rd,Wilmington,3.0,32,"Chicken Wings, Pizza, Salad, Restaurants",2.0,['casual'],1,4
+5L918sNOVHcCJKZ7RWATBw,Washington Street Ale House,1206 Washington St,Wilmington,3.5,238,"Nightlife, Bars, Restaurants, American (Traditional), Burgers",2.0,['casual'],1,5
+RubysERTZxfYrkkzgYOlXg,Eppy's Authentic Bar-B-Que & Fried Chicken,1504 Philadelphia Pike,Wilmington,4.0,7,"Barbeque, Restaurants",2.0,['casual'],1,2
+CLUKvU_lTOcCQi6_24lzOg,Bonefish Grill,"4737 Concord Pike St, Ste 455",Wilmington,3.5,138,"Restaurants, Seafood, Bars, American (New), Cocktail Bars, Nightlife",2.0,"['classy', 'casual']",2,6
+r19qAeTxkc-aes2UVt9v5Q,Pizza by Elizabeths,4019 Kennett Pike,Wilmington,3.5,65,"Restaurants, Pizza",2.0,"['classy', 'trendy', 'upscale']",3,2
+R5yCU9dJnGcXw3voSB7pKg,Del Pez Mexican Gastropub,400 Justison St,Wilmington,3.5,290,"Breweries, Restaurants, Food, Gastropubs, Latin American, New Mexican Cuisine, Pubs, Bars, Nightlife, Tacos, Mexican, Salad",2.0,"['trendy', 'casual']",2,12
+Wy3s-xxiqZBg5Y1eSzI2DQ,Tex-Mex Burrito,514 Philadelphia Pike,Wilmington,4.0,27,"Tacos, Mexican, Tex-Mex, Restaurants",,['casual'],1,4
+1MiuGnBgT6beHPfTJiCF7g,Zaikka Indian Grill,901 N King St,Wilmington,3.5,6,"Restaurants, Vegan, Indian, Vegetarian",1.0,[],0,4
+b9bzEYHseU0ceo7-0XaXqg,honeygrow,3200 Fashion Center Blvd Christiana De,Christiana,3.5,61,"Vegetarian, Noodles, Restaurants, Salad",2.0,"['trendy', 'casual']",2,4
+lm-KtpMuHoPVCkC7zpr_xg,The Perfect Cup Cafe,7460 Lancaster Pike,Hockessin,3.5,97,"Coffee & Tea, Breakfast & Brunch, Bakeries, Restaurants, Specialty Food, Food, Sandwiches",2.0,['casual'],1,7
+i0Q1qSWUsyMJcbcTNJBtIw,Manhattan Bagel,3209B Concord Pike,Wilmington,4.0,19,"Bagels, Restaurants, Sandwiches, Food, Breakfast & Brunch",1.0,['casual'],1,5
+WroosnY3U0t_Lg1U_3s8AQ,IHOP,2001 Concord Pike,Wilmington,3.0,60,"Restaurants, Breakfast & Brunch, Burgers, American (Traditional), American (New)",1.0,[],0,5
+YxRqBrepifOBU7KO4b4BDg,Ernest & Scott Taproom,902 N Market St,Wilmington,3.5,119,"Nightlife, American (New), American (Traditional), Beer Bar, Bars, Restaurants, Cocktail Bars",2.0,['casual'],1,7
+eZV80xPOehww63KQWdrviQ,Mazza,2909 1/2 Concord Pike,Wilmington,3.0,8,"Restaurants, Indian",2.0,['casual'],1,2
+lqMOJ_cVSvVU-lferJVPLg,La Pizzeria Metro,3101 Miller Rd,Wilmington,4.5,94,"Restaurants, Pizza",2.0,['casual'],1,2
+8MzZuGJVuA_HzzQ-QKDpTg,Tandoori Restaurant,2671 Kirkwood Hwy,Newark,3.0,21,"Pakistani, Indian, Buffets, Restaurants, Halal",2.0,[],0,5
+4To3eljiM2DlF-D7Fih8iQ,MidiCi The Neapolitan Pizza Company,3256 Fashion Center Blvd,Newark,4.0,84,"Pizza, Restaurants, Nightlife, Bars, Italian, Cocktail Bars",2.0,['classy'],1,6
+yTVTy75PHthgHH1ZcGVbZg,Mrs. Robino's Restaurant,520 N Union St,Wilmington,3.5,188,"Restaurants, Italian",2.0,['casual'],1,2
+kFx4Nq2WhoIlCx7Adrzo8Q,Señor Tortilla,1730 W Newport Pike,Wilmington,5.0,16,"Food, Street Vendors, Food Stands, Mexican, Restaurants",1.0,[''],1,5
+TlaXeIvS_0yQhjWTLHCLSA,Sciarrinos Pizza,2310 Carpenter Station Rd,Wilmington,3.5,67,"Food Delivery Services, Burgers, Pizza, Food, Restaurants, Sandwiches",2.0,['casual'],1,6
+lwJllJ5e4CLHdliOPEfgGg,Rice Restaurant,2015 Limestone Rd,Wilmington,4.0,138,"Asian Fusion, Chinese, Restaurants, Japanese",2.0,"['trendy', 'classy', 'casual']",3,4
+Wj2Rb6wGmejjYuZgRpNuNw,Nirvana Fine Indian Cuisine,"1601 Concord Pike, Ste 5-13",Wilmington,3.0,124,"Pakistani, Buffets, Restaurants, Indian",2.0,['casual'],1,4
+CUckmG16ZfLaLogSDlSNYw,El Cantaro,181 S Dupont Hwy,New Castle,4.0,5,"Mexican, Restaurants",,[''],1,2
+YBZHAr2Psvh20BZBv7o6cQ,QDOBA Mexican Eats,"3230 Fashion Center Blvd, Ste 228",Newark,2.5,26,"Mexican, Restaurants, Fast Food",2.0,[],0,3
+DZUZbsr-a_59zjjPY8rGKQ,Stitch House Brewery,829 N Market St,Wilmington,4.0,160,"Food, American (New), Brewpubs, Restaurants, Breweries",2.0,"['trendy', 'casual']",2,5
+3qRDGcBOcfFnEfAzVLO6oA,Luigi Vitrone's Pastabilities Restaurant,415 N Lincoln St,Wilmington,4.5,49,"Italian, Restaurants",2.0,['classy'],1,2
+J1VMww2sKmYVWETGXR63_A,Delaware Saengerbund Oktoberfest,49 Salem Church Rd,Newark,4.5,14,"Arts & Entertainment, Restaurants, German, Music Venues, Nightlife, Local Flavor, Festivals",3.0,[],0,7
+QqN7cWY8DerAsL7kW01UcQ,Blue Parrot Bar & Grille,1934 West 6th St,Wilmington,3.0,46,"Restaurants, American (Traditional)",2.0,['casual'],1,2
+0MivygP7tD4AWbskqYmMuA,Taverna,3549 Silverside Rd,Wilmington,3.5,56,"Italian, Restaurants",2.0,['casual'],1,2
+FNufNXHffHXRUhIqXWNoCQ,BOBO's Mediterranean Grill & Buffet,429 S Walnut St,Wilmington,3.0,11,"Kebab, Mediterranean, Restaurants, Buffets",,[],0,4
+UI396ToWHWXcDmILMclWcg,Cantina di Napoli,7 Trolley Sq,Trolley Square,4.0,33,"Italian, Restaurants",2.0,['intimate'],1,2
+3N38Hwxvx2Azb2hyLb1vxA,Golden Dove Diner Restaurant,1101 N Dupont Hwy,New Castle,3.5,88,"Breakfast & Brunch, Restaurants, Diners",2.0,"['classy', 'casual']",2,3
+_7EnH5l_oCZyu407yuvNEQ,Tacos Mexigo,307 Ridge Rd,Claymont,3.5,26,"Restaurants, Tacos, Food, New Mexican Cuisine, Food Trucks, Mexican",,[''],1,6
+VcwdSsoGhQAwo7Th3MWBOw,Los Taquitos De Puebla,241 N Dupont Hwy,New Castle,3.5,40,"Mexican, Vegetarian, Tex-Mex, Restaurants",2.0,['divey'],1,4
+C-rxRVvEs7VrGUwMSngxvA,Domino's Pizza,20 Salem Village Sq,Newark,1.5,13,"Restaurants, Pizza",1.0,[''],1,2
+j1e3-hZkEX-mnxuujdKQig,Grand East Buffet,2072 Naamans Rd,Wilmington,3.0,85,"Restaurants, Buffets, Chinese",1.0,"['classy', 'casual']",2,3
+UBX73ZWgCdgom4nv0UeGvg,Border Cafe,483 Stanton Christiana Rd,Newark,4.0,742,"Cajun/Creole, Vegetarian, Restaurants, Tex-Mex, Cocktail Bars, Bars, Nightlife",2.0,"['classy', 'casual']",2,7
+XWDbA6RFVBBLjPps-f47Cw,Pasteleria Rojas,2110 Kirkwood Hwy,Wilmington,3.5,5,"Food, Patisserie/Cake Shop, Bakeries, Restaurants, Mexican",,[''],1,5
+-KugJyLmuTECAE121jsCkg,Charlie's Pizza,"2703 Philadelphia Pike, Ste C",Claymont,4.5,39,"Restaurants, Pizza",1.0,['divey'],1,2
+-F-30mTCP0dUr_mm57NxUQ,Makers Alley,804 N Orange St,Wilmington,4.5,12,"Nightlife, Beer Gardens, Food Trucks, Food, Restaurants",,[''],1,5
+ZraQzfGJfnVMbMXZwOQ7Vg,The Chicken House,1504 Philadelphia Pike,Wilmington,4.5,78,"Restaurants, Peruvian, Chicken Wings, Soul Food",2.0,['casual'],1,4
+MPuoLAmmBvijfXC7JEUsFw,Evergreen,15 Pkwy Plz N Dupoint Hwy,New Castle,3.0,7,"Chinese, Restaurants, Szechuan",1.0,[],0,3
+-PuFGEYEx1wPjqoxfE_k4Q,El Diablo Burritos,5329A Limestone Rd,Wilmington,4.5,23,"Mexican, Restaurants",,[],0,2
+UXHJCBnu6Ruh4SjLBOyaAA,Walt's Chicken Express - Carpenter Station,"2601 Carpenter Station Rd, Ste 50",Wilmington,4.0,12,"Chicken Shop, Restaurants, Soul Food, Chicken Wings",,[],0,4
+F4cyfaD-SIg2N8r2xIiWjg,ACME Markets,1812 Marsh Rd,Wilmington,2.0,6,"Grocery, Food, Shopping, Drugstores, Restaurants, Bakeries, Delis",2.0,[''],1,7
+Y9wxA_5Mwnax3dTLTXxEZg,De La Coeur Café et Boulangerie,3629 Silverside Rd,Wilmington,4.0,32,"Restaurants, Sandwiches, Breakfast & Brunch, Cafes, Salad, Delis, Bakeries, Coffee & Tea, Food, Specialty Food",1.0,[],0,10
+FAvUlfYblxOf6FA4eO-qnA,Rascals Crab & Seafood Restaurant,1102 N Dupont Hwy,New Castle,3.0,6,"Specialty Food, Seafood, Food, Restaurants, Barbeque, Seafood Markets",2.0,[''],1,6
+h2TLKm5xuRttX1NJUoYurQ,Casa Mariachi,519 E Basin Rd,New Castle,3.5,8,"Mexican, Nightlife, Restaurants, Tacos, Bars",1.0,[],0,5
+VNf2NwMjjcYVBWGGMigTtA,Jalapeno Grill,1815 Lancaster Ave,Wilmington,4.5,56,"Beer, Wine & Spirits, Ethnic Food, Mexican, Specialty Food, Restaurants, Food",2.0,['casual'],1,7
+g1o1XGR4vA85paP6G9S9DQ,Prospero's Pizza,801 Churchmans Rd,New Castle,5.0,11,"Restaurants, Pizza",,[''],1,2
+dAYsDKMHLR3eZqn1CP5oJw,Latin Fusion Restaurant & Lounge,837 N Union St,Wilmington,2.5,27,"Bars, Caribbean, Puerto Rican, Dominican, Restaurants, American (Traditional), Latin American, Nightlife",2.0,[],0,8
+6zLeYObKM9K4aFcSrhbz_Q,Mom's Pizza,204 N Maryland Ave,Wilmington,3.0,19,"Pizza, Restaurants",2.0,[],0,2
+J4Lj1Mag6ODDmP0kuRnEZw,Cafe Mezzanotte,1007 N Orange St,Wilmington,3.0,63,"Restaurants, Nightlife, Italian, Wine Bars, Bars",2.0,['intimate'],1,5
+icydX8ke3jYeam4yL3ap4w,Gallery Pizza,1622 W Newport Pike,Wilmington,3.0,10,"Pizza, Restaurants, Italian",1.0,[],0,3
+QgJv-WSd5IdYTYIaS_RRxQ,Mary's,1836 N Lincoln St,Wilmington,4.5,34,"Breakfast & Brunch, Restaurants",1.0,['casual'],1,2
+FjgPNVFrbL924rNUMm8nBg,Jessop's Tavern,114 Delaware St,New Castle,4.0,258,"Restaurants, American (Traditional), Pubs, Nightlife, Bars, Irish, Food",2.0,['intimate'],1,7
+Eggbe8TRDB0wPjqymWMk9Q,Dunkin',1012 Kirkwood Highway,Elsmere,3.0,7,"Food, Coffee & Tea, Restaurants, Donuts",1.0,[''],1,4
+QZjoE2z7MwKZ8JvzUNzGzw,Everest Indian Grocery Store,54 Carpenter Plz,Wilmington,3.5,14,"Specialty Food, Indian, Grocery, Restaurants, Food, Ethnic Food",2.0,[''],1,6
+g49GSuIxGFz0Kr9b9qXqJQ,Sbarro,"4737 Concord Pike, Ste 840",Wilmington,3.5,6,"Italian, Restaurants",1.0,[],0,2
+Tz36ybiNcF6X9wxEFZ4J4g,Royal Farms,3701 Kirkwood Hwy,Wilmington,1.5,18,"Convenience Stores, Automotive, Breakfast & Brunch, Restaurants, Food, Gas Stations, American (New)",1.0,[''],1,7
+jVJdCT5lD-DT0LuH1OGVNA,Ruby Tuesday,"719 Christiana Mall, #607-A",Newark,2.0,9,"Burgers, American (New), Restaurants, American (Traditional)",2.0,[],0,4
+F0hePnZFn1Da5bQ-GO5tfA,Omega Pizza,209 W 4th St,Wilmington,2.5,16,"Restaurants, Pizza",2.0,[''],1,2
+Ve1V5bBuUCz_aB0K5s0x_w,Milano Pizzeria,204 Churchmans Rd,New Castle,3.0,18,"Restaurants, Pizza",1.0,[''],1,2
+Y4nL9U-1fJmGAs5iTlSIXg,Sunna Juice Bar,1420 N Dupont St,Wilmington,4.0,11,"Juice Bars & Smoothies, Restaurants, Live/Raw Food, Food, Vegan",3.0,[''],1,5
+r08CGs3hygzCtBcmZYpZsg,Jae Seafood by Tommy,"403 Philadelphia Pike, Ste 1",Wilmington,4.0,42,"Seafood, Specialty Food, Seafood Markets, Restaurants, Food",3.0,[],0,5
+65024MqvGVwOvseDL8l_-w,The Juice Joint,323 Justison St,Wilmington,4.0,14,"Food, Juice Bars & Smoothies, Restaurants",,[''],1,3
+yK8LWJ4VRTYEoGxVYzcjQg,Metro Diner,4601 Ogletown-Stanton Rd,Newark,4.0,381,"Breakfast & Brunch, Diners, Restaurants, American (Traditional)",2.0,['casual'],1,4
+3dn-FdMoVBfqkH3SEgecxw,Country Maid Stores,192 Christiana Rd,New Castle,4.5,9,"Delis, Restaurants",1.0,[],0,2
+gtOVX8hGKKIryQs0lGPt3w,Bawarchi Biryani Point,2628 Kirkwood Hwy,Newark,3.5,53,"Halal, Indian, Restaurants",2.0,['casual'],1,3
+ACVar6kJC_P2aDHDBx6N_Q,Pinji's Cafe,913 N Market St,Wilmington,3.5,10,"Juice Bars & Smoothies, Sandwiches, Korean, Food, Cafes, Breakfast & Brunch, Coffee & Tea, Restaurants",1.0,[],0,8
+4EffIBpRHXJP0mNZeRAYvA,Pinji's Cafe,1428 N Clayton St,Wilmington,4.5,33,"Coffee & Tea, Food, Restaurants, Japanese, Sandwiches, Juice Bars & Smoothies, Breakfast & Brunch, Gluten-Free, Ramen",1.0,[],0,9
+hFMud7XDefdWM1d-p1B2dQ,Bahama Breeze,500 Center Blvd,Newark,3.5,215,"Nightlife, Bars, Seafood, Latin American, Laotian, Caribbean, Restaurants, American (Traditional)",2.0,"['classy', 'casual']",2,8
+2-yrFS9sCxyKPfr6CnHmTw,Oscar's Famous Pizzeria,4569 New Linden Hill Rd,Wilmington,2.5,23,"Restaurants, Pizza, Food",2.0,['casual'],1,3
+_wm4lnfN_vWSuXZH3gXq9Q,A Pizza History,625 Delaware St,New Castle,3.5,12,"Restaurants, Pizza, Breakfast & Brunch",1.0,[],0,3
+Wbq1ioousibK88FRw3PlDA,Bain's Deli,225 N Market St,Wilmington,3.5,15,"Delis, Restaurants",1.0,['casual'],1,2
+qwoqt5912WOdHHOtoMUF1A,Ny Gyro & Grill,3541 Philadelphia Pike,Claymont,4.5,15,"Restaurants, Middle Eastern, Mediterranean, Food, Desserts, Halal",,[''],1,6
+0y5x2QxXdeHvs_m0hoO84Q,Aureas Mexican Restaurant,3624 Bayard Dr,Claymont,4.0,72,"Mexican, Restaurants, Bars, Nightlife",2.0,['casual'],1,4
+gemfdRJabGzAqfD1oLLC_A,Horace Shellhammer's,9C University Plz,Newark,4.0,149,"Bars, Burgers, Restaurants, American (Traditional), Nightlife",2.0,['casual'],1,5
+myAaXOSoxfaNnCPTcV4M8w,Burger King,300 S Maryland Ave,Wilmington,3.0,5,"Restaurants, Burgers, Fast Food",1.0,[''],1,3
+9i784uctK0-_omQcdCcgWA,Barcelona Pizza Pike Creek,4706 Limestone Rd,Wilmington,4.0,6,"Chicken Wings, Cheesesteaks, Burgers, Restaurants, Pizza",,[''],1,5
+qeBhpLwPn8KZJoHPPSH-sg,Nuyorican Pasteles,12 Bunker Hill Rd,New Castle,1.0,13,"Event Planning & Services, Caribbean, Puerto Rican, Food Delivery Services, Food, Caterers, Specialty Food, Restaurants",,[''],1,8
+0HzjYHjeL5GvGHMj9XjO5A,El Toro,624 N Union St,Wilmington,4.0,59,"Mexican, Restaurants",1.0,['casual'],1,2
+jCyQknyt1mkMTBw60-ABUw,McDonald's,2507 Concord Pike,Wilmington,2.0,32,"Restaurants, Coffee & Tea, Fast Food, Food, Burgers",1.0,[],0,5
+_LoYXMFxkbmrpAP74d81Dw,Tropical Smoothie Cafe,3252 Fashion Center Blvd,Newark,2.5,12,"Restaurants, Sandwiches, Juice Bars & Smoothies, Food",,[''],1,4
+ylkgMTVWMvliW9x-XlbjvA,Famous Dave's Bar-B-Que,303 Rocky Run Pkwy,Wilmington,3.5,51,"Restaurants, Comfort Food, American (Traditional), Event Planning & Services, Caterers, Barbeque",2.0,['casual'],1,6
+kvb0a9FiFs9UXWxE6q-5DA,Naaman's Pizzeria,"3100 Naamans Rd, Ste 9",Wilmington,4.5,34,"Restaurants, Pizza",1.0,['casual'],1,2
+Qp_6nULBg80xhx8ksMYAHQ,Utage Japanese Restaurant,"1601 Concord Pike, Ste 59",Wilmington,4.0,5,"Japanese, Restaurants",3.0,[''],1,2
+ajFL2FsdDZQwwpiOVeh1nQ,Pomodoro Restaurant,729 N Union St,Wilmington,3.0,10,"Restaurants, Italian",2.0,[],0,2
+-PTWFicakClBDK-zyQ5hjA,First Watch,74 Geoffrey Dr,Newark,4.0,166,"Cafes, Breakfast & Brunch, American (Traditional), American (New), Restaurants",2.0,"['hipster', 'casual', 'trendy']",3,5
+uPngSFlKQmQT3v8h8aTwmA,Luigis Pizzeria,14 Carpenter Plz,Wilmington,3.0,25,"Pizza, Restaurants",2.0,[],0,2
+ERov0fZxnWhM-2GYFY2i9Q,Unique Chinese,1401 Philadelphia Pike,Wilmington,2.5,20,"Japanese, Chinese, Restaurants",1.0,[],0,3
+xHi_onbMgQqj86HFfDiqsw,Royal Farms,457 Stanton Christiana Rd,Newark,3.5,9,"Fast Food, Restaurants, Convenience Stores, Gas Stations, Food, Automotive",,[''],1,6
+I3yzZhtKfRMuUHWHDBqHGA,Capriotti's Sandwich Shop,510 N Union St,Wilmington,3.5,46,"Restaurants, Sandwiches, Delis, Salad, Soup",1.0,[],0,5
+v1VKIvac73Fxt6BMiuKiTA,Lawerence Pizza & Restaurant,801 Churchmans Road Ext,New Castle,3.5,14,"Restaurants, Pizza, Italian",2.0,[],0,3
+HQdoy8OpEuGKM_Op-ovHFQ,Skipjack Dining,401 Louviers Dr,Newark,4.0,109,"Cocktail Bars, Restaurants, American (New), Seafood, Bars, Nightlife",2.0,['casual'],1,6
+alM80dgR9izB_svltTw1Nw,Argilla Brewing,2667 Kirkwood Hwy,Newark,3.5,148,"Food, Restaurants, Bars, Pubs, Nightlife, Breweries, Pizza",2.0,['casual'],1,7
+YkL_44nF4_jUDm3cyq5SJw,China King,4307 Kirkwood Hwy,Wilmington,3.0,19,"Chinese, Restaurants",1.0,['divey'],1,2
+rl77SOSsmY-jklKpTm3jWw,Public House Wilmington,902 N Market St,Wilmington,3.0,23,"Restaurants, American (New), Nightlife",2.0,[],0,3
+NlkFNuYkreoPvrThNQEvbw,Docklands Riverfront,110 West St,Wilmington,3.5,72,"Venues & Event Spaces, Restaurants, Event Planning & Services, Nightlife, American (New), Bars",2.0,[],0,6
+EUTf-d0OVBMyPkg3lObG6w,Famous Famiglia,530 Jfk Memorial Hwy,Newark,3.0,7,"Restaurants, Fast Food, Pizza",2.0,[],0,3
+X0lMkTXVs3PLcyKzQ6GTcw,Maiale,"3301 Lancaster Ave, Ste 3D",Wilmington,4.5,65,"Restaurants, Sandwiches, Delis, Salad, Breakfast & Brunch",2.0,['casual'],1,5
+JogSG9qSX7rRN1qioMhYeg,The Ice Cream Shoppe,700 Philadelphia Pike,Wilmington,4.0,11,"Food, Ice Cream & Frozen Yogurt, Sandwiches, Pretzels, Desserts, Hot Dogs, Restaurants",1.0,[''],1,7
+DXdqMi16GRc7oMUSFmjIfA,Kidds Chicken And Waffles,301 N Pine St,Wilmington,2.5,5,"Food, Specialty Food, American (New), Restaurants",1.0,[],0,4
+IZgQel8rfyLY8r69GtnUQg,Ike's Artisan Pizza,4569 New Linden Hill Rd,Wilmington,4.5,8,"Wraps, Chicken Wings, Restaurants, Pizza, Cheesesteaks",,[''],1,5
+adVbOEChtDwsLF6k_Quczw,Country Maid Deli-Jack's,2400 Kirkwood Hwy & Millt,Wilmington,3.0,13,"Delis, Restaurants",1.0,[],0,2
+-eKoPT80NewUNc2h-hevdA,Harvest House,1204 N Washington St,Wilmington,4.5,46,"Coffee & Tea, American (New), Restaurants, Food, Juice Bars & Smoothies",2.0,[],0,5
+qCVbvgYjJkdsrSN71Ra0Ew,The Crow Bar,1711 Delaware Ave,Wilmington,3.5,27,"Bars, Pizza, Restaurants, Chicken Wings, Nightlife, Cocktail Bars, Greek",,['classy'],1,7
+hJ0QkeOdQ5y7MTmdR9NO1Q,The Copper Dram,3826 Kennett Pike,Greenville,4.5,56,"Beer, Wine & Spirits, Cocktail Bars, American (New), Bars, Food, Nightlife, American (Traditional), Restaurants",2.0,"['casual', 'romantic', 'upscale']",3,9
+TU3rjb_t9OVLoxVJpwEhwA,Sheraton Suites Wilmington Downtown,422 Delaware Ave,Wilmington,3.0,82,"Restaurants, Hotels & Travel, Event Planning & Services, Hotels, Venues & Event Spaces",2.0,[],0,5
+T3zMecCY619BrWOg-fi7lA,Extreme Pizza - Wilmington,201 N Market St,Wilmington,2.5,69,"Pizza, Restaurants, Salad, Sandwiches",2.0,['casual'],1,4
+hN4B1kS8J5MQykKxrYXB_g,Wheelys Cafe,"791 Frenchtown Rd, Penn Farm",New Castle,4.5,10,"Restaurants, Cafes, Vegan, Waffles, Breakfast & Brunch",,[],0,5
+aAPiZY_6_xb2qSMs0ABBpg,Tasti Thai,287 Christiana Rd,New Castle,3.5,124,"Thai, Restaurants",2.0,['casual'],1,2
+2ZaldC7ird5-K9sSvK6tIw,Chipotle Mexican Grill,3700 Kirkwood Hwy,Wilmington,2.0,36,"Restaurants, Mexican, Fast Food",1.0,[],0,3
+aiJg1ucX4IoeWFwKTNZcsA,Boston Market,3130 Kirkwood Hwy,Wilmington,3.0,10,"Comfort Food, Restaurants, Event Planning & Services, Chicken Shop, Caterers, American (Traditional), Sandwiches",1.0,[''],1,7
+yfKe5Ne8oo4jEBXiZvr__g,Hak's Restaurant,1050 S Market St,Wilmington,2.0,6,"Sports Bars, Bars, Restaurants, Adult Entertainment, Nightlife",2.0,[''],1,5
+rwPdi2Ept5LcVYIRUjj53Q,Angel's Restaurant,2222 Silverside Rd,Wilmington,4.0,38,"Restaurants, Diners, American (Traditional)",1.0,['casual'],1,3
+BKVwN2btBPovpWis42Urlg,Kozy Korner Restaurant,906 N Union St,Wilmington,4.0,48,"Breakfast & Brunch, Restaurants, Diners, Sandwiches",1.0,['casual'],1,4
+DZG3652AxmIUGmlF-hg3mw,Bertucci's Italian Restaurant,3610 Concord Pike,Wilmington,3.5,67,"Pizza, Gluten-Free, Restaurants, Italian",2.0,['casual'],1,4
+pOQGEGN_UrH8rtKea0WKRA,Tropical Smoothie Cafe,4742 Limestone Rd,Wilmington,4.0,26,"Juice Bars & Smoothies, Sandwiches, Cafes, Wraps, Breakfast & Brunch, Food, Restaurants, Internet Cafes",,[],0,8
+UgdwL5wCdaFe84wmXmwaFg,Minato Japanese Restaurant,101 W 8th St,Wilmington,3.0,9,"Restaurants, Japanese",2.0,[],0,2
+qdKCj1XsTCgTql1iuPB5lg,Marsh Road Diner,407 Marsh Rd,Wilmington,3.5,92,"Restaurants, Diners, Cafes, Breakfast & Brunch",1.0,['casual'],1,4
+a-YvWwzkAd-w6VWsW0sEhQ,Jimmy John's,"824 N Market St, Ste 105",Wilmington,3.0,15,"Restaurants, Food, Fast Food, Sandwiches, Food Delivery Services, Delis",1.0,[''],1,6
+Jmk_N22L1iQ6-EZIlexqag,La Tlaxquenita,218 New Castle Ave,New Castle,5.0,7,"Restaurants, Food, Convenience Stores, Mexican",2.0,[],0,4
+qRB4CzTnQy6iOO4D1FT4kg,Two Cousins Pizza,7460 Lancaster Pike,Hockessin,3.0,60,"Pizza, Restaurants",1.0,['casual'],1,2
+Yh0HF45_lVXa6gSSKsJY1w,Jimmy John's,1111 Churchmans Rd,Newark,3.0,16,"Delis, Fast Food, Sandwiches, Restaurants",1.0,[''],1,4
+JCXcdCGpqIRXEGzhPukdsg,Porto-Fino Pizza & Restaurant,730 Ferry Cut Off St,New Castle,4.0,38,"Italian, Restaurants, Pizza",2.0,['casual'],1,3
+FyPqFGQXuX7Jkrjm6LoC0Q,Great Wall,4553 New Linden Hill Rd,Wilmington,2.5,20,"Restaurants, Chinese",2.0,[],0,2
+Y8iVXWq_C-U3POZ6yItw7Q,Chili's,3220 Fashion Center Blvd,Newark,2.0,57,"Restaurants, American (Traditional), Tex-Mex, Food, Bars, Nightlife",2.0,['casual'],1,6
+4Co0fjkcBvNpUY1z-tg67g,Mrs Snyder's,414 Delaware St,New Castle,4.0,7,"Restaurants, Bakeries, American (Traditional), Breakfast & Brunch, Food",,[''],1,5
+2XEXr1Ba8V8qN4IGADNliA,Kukurukoo Express,101 W Market St,Wilmington,3.5,12,"Mexican, Restaurants",2.0,[],0,2
+WM18UYsMn4EOwc1s1cCoAg,China Inn,216 New Castle Ave,New Castle,2.0,6,"Restaurants, Chinese",1.0,[''],1,2
+ElEbumta2ujV9PTx4OGbVw,Columbus Inn,2216 Pennsylvania Ave,Wilmington,3.5,144,"American (New), Italian, Venues & Event Spaces, Nightlife, Event Planning & Services, Bars, Breakfast & Brunch, Cocktail Bars, Restaurants, Seafood",2.0,['classy'],1,10
+gu4TEXWfC69ZVrKDsVPtKQ,Chaiyo Sushi and Thai Cuisine,1724 W Newport Pike,Wilmington,4.0,36,"Japanese, Thai, Sushi Bars, Asian Fusion, Restaurants",2.0,['casual'],1,5
+z-2pRvQXAWqcZdLW2fKj9g,Deerhead Hot Dogs,620 S Maryland Ave,Wilmington,3.5,20,"Sandwiches, Hot Dogs, Restaurants, Burgers",1.0,[],0,4
+NXYydDGZuz3p2AGg4puqig,Cuzino's Pizza & Pasta,188 Penn Mart Shopping Ctr,New Castle,3.0,13,"Pizza, Restaurants",1.0,[''],1,2
+FYOPKSHyRVYwqjNayJdIPA,King Garden Chinese Restaurant,3466 Naamans Rd,Wilmington,3.5,33,"Restaurants, Chinese",1.0,['casual'],1,2
+-6eomXaFuOSKPsUbk2A3xQ,The Crownery Chinese Restaurant,228 Lantana Dr,Hockessin,3.0,70,"Restaurants, Chinese",2.0,['casual'],1,2
+yFxxhrdtDfmNF4xcXeem8A,Takumi,1601 Concord Pike,Wilmington,3.5,193,"Chinese, Sushi Bars, Japanese, Restaurants",2.0,['classy'],1,4
+vep5L_9i_xFaCm2bZvQemg,Days Inn by Wyndham Newark Wilmington,900 Churchmans Road,Newark,2.0,18,"Restaurants, Event Planning & Services, Hotels, Hotels & Travel",2.0,[''],1,4
+UWQn01BHc7jJnjDx6y-n9Q,Boston Market,300 University Plz,Newark,3.5,12,"American (Traditional), Restaurants, Chicken Shop, Sandwiches, Comfort Food, Caterers, Event Planning & Services",1.0,[],0,7
+reHlvRPArBEo4RatrXZQNg,Bella Italy,4817 Governor Printz Blvd,Wilmington,2.5,15,"Pizza, Restaurants",2.0,[],0,2
+8IazNnZkqYlNODBZPS1CGA,Wawa,183 Airport Rd,New Castle,2.0,7,"Food, Coffee & Tea, Convenience Stores, Restaurants, Sandwiches",1.0,[''],1,5
+_ZG6xLrZ7VIfcQS_tl0Mpg,Cotti's Pizza,7313 Lancaster Pike,Hockessin,4.0,11,"Wraps, Pizza, Restaurants, Sandwiches",,[],0,4
+Qz6-OxFp9PhGwMZG5geqpw,Touch Of Italy,2530 Concord Pike,Wilmington,3.5,158,"Italian, American (New), Restaurants",2.0,"['classy', 'casual']",2,3
+L-NBC1etnxAvHP_u2xo4Ow,Moe's Southwest Grill,5311 Brandywine Pkwy,Wilmington,2.5,46,"Mexican, Tex-Mex, Restaurants",1.0,[],0,3
+9pPK-EhpT9jkC7WXdtDM-w,Seasons Pizza,3901 Concord Pike,Wilmington,3.0,46,"Caterers, Restaurants, Chicken Wings, Italian, Event Planning & Services, Pizza",1.0,['casual'],1,6
+iWyYWFXrOvyoxIvUPf8OuA,Opa Opa,7 A Trolley Sq,Wilmington,4.0,119,"Mediterranean, Greek, Restaurants",1.0,['casual'],1,3
+P_nqb7lULOtx3pAJbKfFXA,Santa Fe Mexican Grill - Wilmington,2006 Pennsylvania Ave,Wilmington,3.5,74,"Restaurants, Mexican, Nightlife",2.0,['casual'],1,3
+sRJFxyCjZnmXuZLk6uKW6Q,Panera Bread,715 Christiana Mall Rd,Newark,2.5,35,"Food, Restaurants, Breakfast & Brunch, Bakeries, Sandwiches, Coffee & Tea, Bagels, Cafes, Soup, Salad",2.0,['casual'],1,10
+cVWOVdiHpPRzuS2FSQUgfA,Omka Grill & Sushi,"3301 Lancaster Pike, Unit 1C",Elsmere,4.5,20,"Sushi Bars, Restaurants, Wholesalers, Professional Services, Japanese, Restaurant Supplies",,[],0,6
+3omPdJWZzRAaNZU4vaovZQ,Food For Thought Catering,"408 Philadelphia Pike, Ste 1",Wilmington,4.5,10,"Restaurants, Caterers, Barbeque, Event Planning & Services",2.0,[''],1,4
+S_i39mHBCZadtvwdC6Hb6Q,Seasons Pizza,615 S Maryland Ave,Wilmington,2.0,19,"Italian, Restaurants, Chicken Wings, Pizza",2.0,[],0,4
+mcmOeaoHlryrtogjd3tooQ,La Fia,421 N Market St,Wilmington,4.0,177,"Cafes, Specialty Food, Bakeries, American (New), Restaurants, Food, Italian",2.0,['trendy'],1,7
+DvKVx_Em_UkG2NPeeKSJzg,Sitaly To Go,1806 Marsh Rd,Wilmington,4.0,23,"Pizza, Restaurants",,[''],1,2
+NTlF55qiq2TCxR_2Kr4NAA,Star of India,1710-A Newport Gap Pike,Wilmington,4.0,44,"Indian, Restaurants",2.0,[],0,2
+015DpGQSGAjbHfa7KE-p5A,Domino's Pizza,1202 Delaware St,New Castle,3.0,9,"Pizza, Restaurants",1.0,[],0,2
+xSaH011Ov02w-8sxr78M6Q,New Dragon Restaurant,707 Ace Memorial Dr,Hockessin,4.0,12,"Restaurants, Chinese",1.0,['casual'],1,2
+ZjwEfrsA2bztSk9SLrPqPA,Kung Fusion Asian Grill,1714 Marsh Rd,Wilmington,3.0,32,"Sushi Bars, Restaurants, Chinese, Asian Fusion",2.0,['casual'],1,4
+KzGXMHnlrknUhEjNyD8yZQ,Pho Cali,4373 Kirkwood Hwy,Wilmington,3.5,126,"Food, Specialty Food, Vietnamese, Ethnic Food, Restaurants",1.0,['casual'],1,5
+2y2LhpdlHuGU6bkAHFSoQg,Wawa,2621 Philadelphia Pk,Claymont,3.5,26,"Food, Restaurants, Coffee & Tea, Sandwiches, Convenience Stores",1.0,[],0,5
+fNd-tOJGusNDcT0Kqzikaw,Indian Hut,1253 Churchmans Rd,Newark,2.5,22,"Indian, Restaurants",,[],0,2
+AHQSq5ZdYVQUleXgPwHHhg,Teriyaki Madness,3311 Concord Pike,Wilmington,3.5,27,"Chinese, Japanese, Gluten-Free, Asian Fusion, Restaurants",,[''],1,5
+jAwmIPk8p2c2kxAbL7Ocyw,Sansone's Seafood Market,7th & Lincoln St,Wilmington,4.0,24,"Seafood Markets, Seafood, Restaurants, Specialty Food, Food",2.0,[''],1,5
+bbm5_njEZyw68E7UUY0xgQ,Red Robin Gourmet Burgers and Brews,101 W Main St,Christiana,3.0,86,"American (Traditional), Beer, Wine & Spirits, Burgers, Restaurants, Food",2.0,['casual'],1,6
+4lVR4qfWaX-wn1v4EakF8A,Barcelona Pizza,3322 Old Capitol Trl,Wilmington,4.5,28,"Pizza, Chicken Wings, Restaurants, Cheesesteaks",2.0,['casual'],1,4
+jJKvRg2tYr7qWP-VxdjCTQ,The Back Burner,425 Hockessin Corner,Hockessin,3.5,91,"Food, American (New), Seafood, Restaurants",2.0,"['intimate', 'classy']",2,4
+PGFzlPVRUz2rpR9DRAU7dQ,Murph's Irish Pub,401 Philadelphia Pike,Wilmington,3.5,5,"Bars, Nightlife, Pubs, Irish, Dive Bars, Restaurants",1.0,[],0,6
+leaEzQ7Uz_7NID4vpx9RCQ,Juliana's Kitchen,1828 W 11th St,Wilmington,4.5,188,"Restaurants, Peruvian, Latin American",2.0,['casual'],1,3
+vVLLNrqhvrkVXfIIW9Etag,Timothy's On the Riverfront,930 Justison St,Wilmington,2.5,138,"American (Traditional), Restaurants",2.0,['casual'],1,2
+xNZj9zMVY7NizZyBn41BvA,Tropicalia,1701 W 4th St,Wilmington,4.0,10,"Caribbean, Restaurants, Dominican",1.0,[],0,3
+Wz687hCcjVyHTCP-jd6U_Q,Gyro King,4130 Ogletown Stanton Rd,Newark,4.0,61,"Restaurants, Mediterranean, Greek, Moroccan",1.0,['casual'],1,4
+imCIha88DmlxaWpXScRkZw,Buffalo Wild Wings,501 Stanton Christiana Rd,Newark,2.0,41,"Nightlife, Restaurants, Chicken Wings, American (Traditional), Sports Bars, Bars",2.0,"['trendy', 'casual']",2,6
+0CeoONLXqseUxPdGerefOQ,Mexican Post,3100 Naamans Rd,Wilmington,3.5,131,"Food, Mexican, Breakfast & Brunch, Restaurants, Desserts",2.0,['casual'],1,5
+DoHkrJJVPffu924i6MLtcg,Applebee's Grill + Bar,1600 Rocky Run Pkwy,Wilmington,2.0,46,"American (Traditional), Bars, Steakhouses, Restaurants, Sports Bars, Nightlife, American (New), Fast Food, Burgers",2.0,['casual'],1,9
+j7LZM6rf4Bf33exo6XXKGA,Drop Squad Kitchen,928 Justison St,Wilmington,4.0,282,"Soul Food, Vegetarian, Restaurants, Ice Cream & Frozen Yogurt, Vegan, Juice Bars & Smoothies, Food",2.0,['casual'],1,7
+RLB-RxkiAcY4pwjTYUzpEA,Osaka Express,23 Penn Mart Ctr,New Castle,3.0,13,"Restaurants, Specialty Food, Japanese, Sushi Bars, Food",1.0,[],0,5
+bS2clitvOuAuxFKxA0YnXA,Friendly's,2670 Kirkwood Highway,Newark,2.5,12,"Food, Restaurants, Burgers, Ice Cream & Frozen Yogurt, American (Traditional)",1.0,[],0,5
+71UVaCN8AtyovlqoS0Hixg,La Tolteca - Wilmington,4147 Concord Pike,Wilmington,3.0,201,"Latin American, Mexican, Restaurants, Tex-Mex",2.0,['casual'],1,4
+JaJDxNxLsV4h_Nkt7HsMAA,Goober’s Diner,1203 N Lincoln St,Wilmington,3.5,34,"American (Traditional), Sandwiches, Salad, Diners, Restaurants",,[''],1,5
+7sdNASlBZhZMQalQUKB4ug,Chili's,425 Stanton Christiana Rd,Newark,2.0,20,"Restaurants, Tex-Mex, Nightlife, Bars",2.0,[],0,4
+Rgp0ZBmxRjf0pqqVnvzm8w,Cafe Palermo,3612 Miller Rd,Wilmington,3.5,21,"Italian, Pizza, Restaurants",2.0,[],0,3
+jWmg60gRRnNhaHQyc2W8Og,OMY Smoked BBQ,"4737 Concord Pike, Ste 810",Wilmington,3.5,9,"Restaurants, Filipino, Barbeque",,[''],1,3
+bn0XzKxBRBWvnHUMg5cz6g,Red Lobster,"1249 New Churchman's Rd, CENTER POINTE PLAZA",Newark,2.5,59,"American (Traditional), Seafood, Restaurants",2.0,['casual'],1,3
+dz3dov1RfT25X_StP__cdQ,Little Caesars Pizza,3613 Kirkwood Hwy,Wilmington,2.0,13,"Sandwiches, Pizza, Restaurants",1.0,[],0,3
+7NZ8Uq7Xtx4i7MR--1IjNA,Tierra Mexi Cali Grill,"4710 Limestone Rd, Ste 200",Wilmington,4.0,62,"Restaurants, Mexican",1.0,['casual'],1,2
+R36Rhjk95Jh70scUravEQw,Biryani City,270 University Dr,Newark,3.5,90,"Restaurants, Indian, Halal, Vegetarian, Pakistani",2.0,"['classy', 'casual']",2,5
+L7wxBug8MF-Ag-u43DkQpg,Cactus Cantina,211 W 9th St,Wilmington,3.5,23,"Mexican, Restaurants",2.0,['casual'],1,2
+FtN_ctIlpuTcAInNIMiM1g,Taqueria Jalisco,1722 W Gilpin Dr,Wilmington,4.5,16,"Mexican, Restaurants",,[],0,2
+DCJefHxEStVHnX8acaq0xA,Jeenwong Thai Cuisine,3 S Orange St,Wilmington,3.5,20,"Thai, Restaurants",1.0,['casual'],1,2
+jwp7_9S5IslgXnA7udfkYQ,Taj Mahal Restaurant,2314 Carpenter Station Rd,Wilmington,4.0,70,"Buffets, Indian, Seafood, Restaurants, Halal",2.0,['casual'],1,5
+qwIF7ZBgyP01Cdt53aYS3w,Burgers by Wildwich,2308 Concord Pike,Wilmington,3.5,10,"Event Planning & Services, Food, Burgers, Restaurants, Caterers, Food Trucks, Sandwiches",1.0,[],0,7
+8tccha-xTkuNLiPfJYACXQ,Market Street Grill,4304 N Market St,Wilmington,3.5,9,"American (Traditional), American (New), Soul Food, Restaurants, Breakfast & Brunch",,[],0,5
+mnyk_gnb60vFB2o6Y8c2Gw,Rocco Italian Grill & Sports Bar,701 N Union St,Wilmington,4.0,87,"Nightlife, Sports Bars, Bars, Pizza, Italian, Restaurants",2.0,['casual'],1,6
+P7p-rYAkkOnPURxXx3Tg8g,Bella Luna,729 N Union St,Wilmington,4.0,17,"Salad, Pizza, Italian, Restaurants",2.0,[],0,4
+N8NB7lMryKMMf6SJUvzYVQ,Tony's Cafe,366 Possum Park Rd,Newark,4.0,66,"Pizza, Caterers, Italian, Cafes, Restaurants, Event Planning & Services",1.0,['casual'],1,6
+z9xBQXT6Ru19ySOjdGDIqw,Dunkin',701 Philadelphia Pike,Wilmington,3.0,9,"Bagels, Donuts, Restaurants, Food, Coffee & Tea",1.0,[''],1,5
+pOCjLcWQskQjRPi6zdLvAw,Centreville Cafe,5800 Kennett Pike,Wilmington,4.0,35,"Restaurants, Cafes",1.0,['classy'],1,2
+OwBgQo86CL2GmGX0OIUEEw,The Cheesecake Factory - Newark,350 Christiana Mall,Newark,3.0,263,"Food, American (New), American (Traditional), Restaurants, Desserts, Seafood, Salad",2.0,['casual'],1,7
+SwDn4LYC7uzQMmIz8RMBBg,Corner Bistro,3604 Silverside Rd,Wilmington,4.0,200,"American (New), Restaurants",2.0,"['classy', 'casual']",2,2
+leBpyQruds138tREAfRvzA,Libbys Restaurant,227 W 8th St,Wilmington,4.0,47,"Restaurants, American (Traditional), Sandwiches",1.0,['casual'],1,3
+gDc_CGQD__1IqL79TaUKrg,ShopRite of Christina Crossing,501 S Walnut St,Wilmington,2.5,31,"Food, Restaurants, Bakeries, Delis, Grocery",2.0,[''],1,5
+prjS_8VAw65e32UtoCj5AA,Seasons Pizza,1524 Philadelphia Pike,Wilmington,2.0,28,"Chicken Wings, Restaurants, Pizza, Italian",1.0,[],0,4
+4wvKerRd-Y88IX6E5lCArQ,George's Restaurant,703 Philadelphia Pike,Wilmington,3.5,19,"Waffles, American (Traditional), Breakfast & Brunch, Restaurants",2.0,[],0,4
+CcxT3qxaAm9_3-q2h9zt_Q,Champps Restaurant and Bar,4737 Concord Pike,Wilmington,2.5,8,"Restaurants, American (Traditional)",2.0,[],0,2
+15IzVzKuvUCrpM1AFvDT_A,Brew Haha,27 Trolley Sq,Wilmington,3.0,7,"Food, Coffee & Tea, Restaurants",1.0,[''],1,3
+n7XtDJQVnxb1UzPPzlOlHQ,El Diablo Burritos,1826-1828 Marsh Rd,Wilmington,4.5,171,"Restaurants, Fast Food, Mexican, Tex-Mex, Tacos",1.0,"['classy', 'casual']",2,5
+d6CkVTvgiU-U-kLR1Mj09Q,Taqueria El Amigo,224 W Market St,Newport,4.5,16,"Mexican, Restaurants",,[],0,2
+ikqbPYXQNLIvfz0kymBnJA,Romano's Macaroni Grill,4157 Concord Pike,Wilmington,2.5,66,"Restaurants, Italian",2.0,['casual'],1,2
+nHHOQf2pjLT5jUvkG-4DHw,Wendy's,4300 Kirkwood Hwy,Marshallton,2.0,12,"Fast Food, Restaurants, Burgers",1.0,[''],1,3
+4orl8-9N6Opr9FJjpsSVCw,Padi,700 Lantana Dr,Hockessin,2.5,23,"Sushi Bars, Thai, Asian Fusion, Restaurants",2.0,[],0,4
+r3dO-D1qFn4Jct7KDNvImg,LOMA Coffee,239 N Market St,Wilmington,4.5,143,"Coffee & Tea, Sandwiches, Restaurants, Food, Breakfast & Brunch",1.0,"['hipster', 'casual']",2,5
+Wo1nGE9JL8U8MloV1OaiBg,Pupuseria Salvadoreña,101 Kirkwood Sq,Wilmington,4.0,29,"Salvadoran, Food, Latin American, Restaurants",2.0,[],0,4
+vLiXVP1WHdilv13s5SnnQQ,Bachetti Bros,4723 B Kirkwood Hwy,Wilmington,4.5,24,"Sandwiches, Butcher, Meat Shops, Delis, Event Planning & Services, Restaurants, Specialty Food, Food, Caterers",1.0,['classy'],1,9
+PEb_HioboxCfFONLZzVNTQ,A Ya So Nice Authentic Jamaican Food,165 S Dupont Hwy,New Castle,4.5,20,"Restaurants, Caribbean",,[],0,2
+ZzCcljlsQco6WsRDGaV8mQ,New York Pizza & Fried Chicken,309 N King St,Wilmington,2.5,6,"Restaurants, American (Traditional), Halal",1.0,[],0,3
+skT9ekzLdiQRg6Wo2OzMvg,El Mana Restaurant,106 N Union St,Wilmington,4.0,24,"Restaurants, Spanish, Caribbean, Puerto Rican",2.0,[],0,4
+R1NlqZdqYbs-KXLPXROS-w,Lamberti's Cucina,1300 Centerville Rd,Wilmington,2.5,23,"Food, Pizza, Seafood, Beer, Wine & Spirits, Italian, Restaurants",2.0,['casual'],1,7
+5xIcqp5q-6mw1FKaKpRCxw,Chuck Lager - America's Tavern,4500 New Linden Hill Rd,Pike Creek,4.0,132,"American (New), Restaurants",2.0,['classy'],1,2
+EQr26hrk8cEYsZjaMVU57g,Kegler's,3031 New Castle Ave,New Castle,4.0,8,"Sports Bars, Bars, Karaoke, Restaurants, Nightlife, American (Traditional)",1.0,[],0,6
+FhI8-M6EYtwfrerkWL_VMg,Vincente's Restaurant,5914 Kirkwood Hwy,Wilmington,4.0,79,"Restaurants, Food, Desserts, Bars, Italian, Nightlife",3.0,[],0,6
+VKUUdRVElaufzQAI4OcxLQ,Semo's Cart,North Jefferson St W 11th St,Wilmington,4.5,12,"Greek, Restaurants",1.0,[],0,2
+FoIzWtiwffKyfKJHsm7VKQ,McDonald's,4160 Ogletown Stanton Rd,Newark,2.0,11,"Fast Food, Coffee & Tea, Burgers, Restaurants, Food",1.0,[],0,5
+prGQTaFLeso7Qkzy-lOz2w,Flavor Of India,2671 Kirkwood Hwy,Newark,4.0,25,"Indian, Restaurants, Food",2.0,[],0,3
+2b-txFFWmKKq4AL-pnIxZg,Noodles & Company,715 Christiana Mall,Newark,3.0,36,"Comfort Food, Mediterranean, Noodles, Food Court, Chinese, Italian, Asian Fusion, American (New), Restaurants",1.0,['casual'],1,9
+l0qTrHzfkquC144PkJh4Rw,Merengue House,837 N Union St,Wilmington,4.0,24,"Nightlife, Caribbean, Beer Bar, Bars, Latin American, Restaurants",2.0,['casual'],1,6
+DGatNT8XO1aYuYVYGyWkPQ,Big D's Pizza,3634 Old Capitol Trl,Wilmington,4.5,9,"Barbeque, Restaurants, Pizza, Cheesesteaks",1.0,[],0,4
+xHWi7ZQ0zlRoKWlfnmhOYA,Feby's Fishery,3701 Lancaster Pike,Wilmington,3.5,141,"Seafood, Specialty Food, Food, Restaurants, Seafood Markets",2.0,['casual'],1,5
+Y9EfIbXryZVWA3IVx86bAw,Olive Garden Italian Restaurant,1279 New Churchman's Rd,Newark,2.5,72,"Bars, Italian, Salad, Restaurants, Nightlife, Wine Bars, Soup",2.0,['casual'],1,7
+5oEyGDeqeXeMfFXZdevtFg,Okura Japanese Cuisine Restaurant,703 Ace Memorial Dr,Hockessin,4.0,61,"Specialty Food, Venues & Event Spaces, Event Planning & Services, Japanese, Restaurants, Food",2.0,['casual'],1,6
+RO1LyRwH2eZT_eNUN0dC3w,J.B. Dawson's Restaurant & Bar,315 Christiana Mall,Newark,3.5,144,"American (New), American (Traditional), Restaurants, Nightlife, Steakhouses, Bars, Cocktail Bars",2.0,"['classy', 'casual']",2,7
+rugDoz-A6vL-FG-8PbvOag,Brio Italian Grille,305 Christiana Mall Rd,Newark,3.5,221,"American (New), Italian, Gluten-Free, Restaurants, Nightlife, Cocktail Bars, Pizza, Bars",2.0,['classy'],1,8
+BEbSlK67eM7YnE9O5R7cGA,Papa John's Pizza,2114 Marsh Road,Wilmington,3.0,16,"Pizza, Restaurants",1.0,[],0,2
+1h-Irop_Rad5LB9EBf59SA,Five Guys,136 Lantana Dr,Hockessin,3.0,26,"American (New), Food, Restaurants, Fast Food, Burgers",1.0,[],0,5
+70a-DEnbsZiYIjMaXnO8rQ,302foodplug,1805 Newport Gap Pike,Wilmington ,4.0,6,"Burgers, Restaurants, Food Trucks, Halal, Soul Food, Food",,[''],1,6
+TwZnsqJCFncURCDQoEypSg,Joyful Garden,829 N Tatnall St,Wilmington,2.5,34,"Restaurants, Chinese",1.0,[''],1,2
+J1vj7-l7v4jYXxSR6ffPkA,Kyoto Japanese Restaurant,4563 Linden Hill Rd,Wilmington,3.0,51,"Japanese, Restaurants, Sushi Bars",2.0,[],0,3
+eBo_ZnzWshp5Myx7ugbMhw,Terra Cafe & Grille,721 N King St,Wilmington,4.0,22,"Greek, Restaurants, Mediterranean",2.0,['casual'],1,3
+4mEqLXZD6aU3ymapf_hbIw,Pat's Pizzeria,3604 Lancaster Pike,Wilmington,3.0,24,"Restaurants, Pizza",1.0,[],0,2
+bKeKYs8NycSzIYvpT_6ncg,Greenhill Deli-Pizza,2501 W 4th St,Wilmington,4.5,15,"Delis, Pizza, Sandwiches, Restaurants",1.0,[''],1,4
+YSJ2WaubNxMCnlNsZfIQbQ,Locale BBQ Post,1715 Delaware Ave,Wilmington,4.0,59,"Barbeque, Chicken Wings, Sandwiches, Salad, Event Planning & Services, Caterers, Party & Event Planning, Restaurants",2.0,['casual'],1,8
+Lb5Gi0VnxwtFXk3sMTSMcQ,Fresh Thymes,1836 Lovering Ave,Wilmington,4.5,75,"Restaurants, Breakfast & Brunch",2.0,['casual'],1,2
+oa4bCkow1hrF6pqQCT6EGQ,McDonald's,101 S Dupont Hwy,New Castle,2.0,15,"Burgers, Coffee & Tea, Restaurants, Food, Fast Food",1.0,[],0,5
+e1D2n12gzzsyCdUdas5MKg,Crab Du Jour - Wilmington,2107 Concord Pike,Wilmington,3.0,8,"Restaurants, Seafood, Bars, Cocktail Bars, Nightlife, Beer Bar, Cajun/Creole",,[''],1,7
+WjGfcajYECW1zEoinqpc2A,Panda Express,530 Jfk Memorial Hwy,Newark,3.0,11,"Restaurants, Chinese, Fast Food",,[],0,3
+IzUXCIMWeocK1fJHdrgJgA,Naf Naf Grill,60 Geoffrey Dr,Newark,3.5,50,"Middle Eastern, Salad, Mediterranean, Falafel, Restaurants",,['casual'],1,5
+oZfUOoDJnORwQrDTqUJ-NA,Mike  & Nick's,300 Lantana Dr,Hockessin,2.0,14,"Sports Bars, Nightlife, Italian, Restaurants, Bars",1.0,[],0,5
+LZquQqjVqoWFhVUqfLxUKw,Valle Cucina,4752 Limestone Rd,Wilmington,3.0,75,"Steakhouses, Restaurants, Pizza, Italian, Seafood",2.0,['casual'],1,5
+m5fKuw8ZMfYjJLtcISCORg,Noodles & Company,4737 Concord Pike,Wilmington,3.5,26,"Restaurants, Italian, American (New), Chinese, Comfort Food, Asian Fusion, Noodles, Mediterranean, Fast Food",1.0,['casual'],1,9
+51Fo_uY52A5oaI8YTHU5yg,Trolley Square Oyster House,1707 Delaware Ave,Wilmington,4.0,172,"Nightlife, Sports Bars, Seafood, Breakfast & Brunch, Bars, Sandwiches, Restaurants",2.0,"['hipster', 'trendy', 'classy', 'casual']",4,7
+XjaYTbAMsIOkofZJ4QSuJA,Sleeping Bird Coffee,3111 Miller Rd,Wilmington,5.0,8,"Salad, Food, Coffee & Tea, Restaurants, Breakfast & Brunch",,[''],1,5
+sy7uEcDtctaeYqD7HGrPCg,Casablanca Moroccan Restaurant,4010 N Dupont Hwy,New Castle,4.5,102,"Moroccan, Mediterranean, Middle Eastern, Restaurants, Bars, Nightlife, Hookah Bars",2.0,[],0,7
+L3CwFF0JhicaxVfWzzrEAA,Bonhouse Chinese Restaurant,4713 Kirkwood Hwy,Wilmington,3.0,39,"Food, Restaurants, Beer, Wine & Spirits, Sushi Bars, Chinese",2.0,['casual'],1,6
+Qx6IaAjbIECWWaRuqjYMfw,Panera Bread,5619 Concord Pike,Wilmington,3.0,66,"Salad, Food, Sandwiches, Bagels, Breakfast & Brunch, Restaurants, Soup, Bakeries",1.0,['casual'],1,8
+K3ZZua4ab6YLhPqZ_DEDlw,BBC Tavern and Grill,4019 Kennett Pike,Greenville,3.0,109,"Nightlife, Restaurants, American (Traditional), Bars, Beer, Wine & Spirits, Food, Sports Bars",2.0,['casual'],1,8
+cbimTBHAiibDpq8O6mP4VQ,Trader's Cove Coffee Shop at Penn's Place,206 Delaware St,New Castle,4.5,36,"Arts & Crafts, Arts & Entertainment, Nightlife, Music Venues, Shopping, Cafes, Restaurants",1.0,"['intimate', 'casual']",2,7
+5QPZY59iu3a0C-jWsZR8ow,Charcoal Pit,2600 Concord Pike,Wilmington,3.0,214,"Restaurants, Burgers, Coffee & Tea, Food, American (Traditional)",1.0,['casual'],1,5
+QOMipQ_Xd2ISvO0MvAS_xQ,Gaudiello's Italian Hoagies,29A Trolley Sq,Wilmington,4.5,105,"Restaurants, Sandwiches, Italian, Steakhouses",1.0,['casual'],1,4
+jQJqbe8WXuQNKlUNXfpXmQ,Pizza Hut,1300 Veale Rd,Wilmington,2.0,8,"Restaurants, Pizza, Italian, Chicken Wings",,[],0,4
+s-0tlWRv3QQnFEzs5CytRw,Shenanigans Irish Pub & Grill,125 N Market St,Wilmington,4.0,14,"Bars, Irish, Restaurants, Irish Pub, Nightlife",2.0,['casual'],1,5
+-rf-o_H-3_6XUrSxOLRcpg,Chick-fil-A,4657 Ogletown Stanton Rd,Newark,3.5,32,"Food, Event Planning & Services, Restaurants, Desserts, Breakfast & Brunch, Caterers, Fast Food, Chicken Shop",1.0,[],0,8
+JgYdYd7qXgFXVjGWFJOz1Q,Walt's Flavor Crisp Chicken,3612 Miller Rd,Wilmington,4.0,17,"Fast Food, Chicken Shop, Event Planning & Services, Soul Food, Chicken Wings, Caterers, Restaurants, Southern",,[],0,8
+qC8Whdafj7-DQ29b7Rlcdw,Burrito Bandido,227 N Maryland Ave,Wilmington,4.5,31,"Mexican, Restaurants",1.0,['casual'],1,2
+E9KNLJmufM-fFHV9xJSK4g,Papa John's Pizza,529 East Basin Road,New Castle,1.0,8,"Pizza, Food Delivery Services, Restaurants, Food",1.0,[''],1,4
+tpJSzkIvZYvGJB7rekoGjw,Unique Chinese & Japanese Cuisine,1535 W 4th St,Wilmington,2.5,12,"Restaurants, Chinese",2.0,[''],1,2
+T3EnbJYkiMHutSxh0asEfA,Tutto Fresco - Italian Eatery,514 Philadelphia Pike,Wilmington,4.0,71,"Venues & Event Spaces, Seafood, Event Planning & Services, African, Pizza, Restaurants, Italian",2.0,[],0,7
+WXVb0_TPSNGjqRshykMY8Q,McDonald's,3318 Kirkwood Hwy,Wilmington,1.5,23,"Burgers, Fast Food, Restaurants, Coffee & Tea, Food",1.0,[],0,5
+59RdMsr5iXwZnD_qlnPskw,DH4 Jamaican Cuisine Restaurant,10 E 4th St,Wilmington,4.0,16,"Caribbean, Restaurants, Indian, American (Traditional)",1.0,['classy'],1,4
+dg3w68b9e4pJsdeCv5pHVQ,Wawa,1515 North Dupont Hwy,New Castle,3.0,9,"Food, Grocery, Restaurants, Coffee & Tea, Sandwiches",1.0,[''],1,5
+NDk4qwpkU2npNZu742OdBQ,Angelina's Italian Grill,"1102 Baltimore Pike, Ste 101",Glen Mills,2.5,33,"Italian, Restaurants, Salad",3.0,[],0,3
+v22_o4QdnXqLaXSO9MZE7Q,1 In Town,240 S Dupont Hwy,New Castle,4.5,10,"African, Restaurants, Food",2.0,[],0,3
+lM5TtwwucIPIzEPeDqDaEw,L & G Southern Soul Food,317 S Dupont Hwy,New Castle,3.0,52,"Restaurants, Southern, Soul Food",2.0,['casual'],1,3
+JJF7J3UXCNSwCXAP4LojtQ,KFC,112 N Dupont Hwy,New Castle,1.5,14,"Restaurants, Fast Food, Chicken Wings, Chicken Shop",1.0,[''],1,4
+jXHjuZSgxAPCDZjxBXsPZg,China East,726 Ferry Cut Off St,New Castle,2.5,7,"Chinese, Restaurants",1.0,[],0,2
+7T3curcaRIXUmbXZEE6lVw,Hong Kong Chinese Kitchen,1 Penn Mart Shopping Ctr,New Castle,1.5,6,"Restaurants, Chinese",,[''],1,2
+I99hAdRjOW31DfHW6MUqwg,Capriotti's Sandwich Shop,2124 Silverside Rd,Wilmington,3.5,75,"Sandwiches, Delis, Restaurants",1.0,['casual'],1,3
+eUes9qc-i7WMkUIdtddNDQ,Burger King,2802 Concord Pike,Wilmington,1.5,27,"Restaurants, Burgers, Fast Food",1.0,[],0,3
+2UPOe4CTsy57JyBWCjNWbQ,The Reef Seafood & Steak Restaurant,2618 Carpenter Station Rd,Wilmington,4.0,121,"Nightlife, Steakhouses, Bars, Seafood, Restaurants, Sports Bars",2.0,"['classy', 'casual']",2,6
+RjUlQqekSL14zu4rNOZuEQ,Jersey Mike's Subs,3250 Fashion Center Blvd,Christiana,3.0,19,"Fast Food, Restaurants, Sandwiches, Delis",,[],0,4
+pn00KcFyvm88u7uwzka7cw,Taco Bell,116 North Dupont Highway,New Castle,2.0,17,"Tex-Mex, Restaurants, Breakfast & Brunch, Tacos, Mexican, Fast Food",1.0,[''],1,6
+IHO1oAX0PrEQo5VYuipX7g,Culinaria,1812 Marsh Rd,Wilmington,4.0,53,"Wine Bars, Bars, American (New), Restaurants, Nightlife",2.0,"['intimate', 'classy']",2,5
+8htTVv-lUyz2SUXKcwSC_A,Big Sky Bread Company,"1812 Marsh Rd, Ste 9",Wilmington,4.0,25,"Restaurants, Sandwiches, Food, Bakeries",1.0,[],0,4
+LOYex5JW6KuH_4t332wzsQ,Kelly's Logan House,1701 Delaware Ave,Wilmington,3.0,69,"Irish, Restaurants, Bars, Cocktail Bars, American (New), Wine Bars, Sandwiches, Nightlife",2.0,['casual'],1,8
+ULnAfyqr9dL2_yRsHdYFEQ,China House Express,1404 Lancaster Ave,Wilmington,4.0,11,"Restaurants, Chinese",,[''],1,2
+4hWPnJWr1pJYOcI0CGrzWg,Green Room,42 W 11th St,Wilmington,3.5,86,"Restaurants, French",3.0,"['upscale', 'classy']",2,2
+BJxoz5d_Z45JasgZ7o-5_g,Satsuma Asian Kitchen & Bar,1707 Delaware Ave,Wilmington,2.5,41,"Salad, Nightlife, Restaurants, Asian Fusion, Bars, Cocktail Bars",2.0,"['hipster', 'trendy', 'casual']",3,6
+pcT9YZDxLYRriQhWz-PnhA,Hooters,2607 Capitol Trl,Newark,3.0,19,"Bars, Chicken Wings, Sports Bars, Restaurants, Nightlife, American (Traditional)",2.0,[],0,6
+DB36BjmWWPkWqESu9tjIaQ,Ciao's Italian Grill & Pizzeria,200 University Plz,Newark,3.0,50,"Pizza, Restaurants, Italian",2.0,['casual'],1,3
+MHCH84BAFfYXyY-NujHG7Q,Sonora at The David Finney Inn,222 Delaware St,New Castle,4.0,9,"Restaurants, Comfort Food, American (New)",,['classy'],1,3
+gFOs5ho8kuPyYBdVkR3VHA,The Brasserie Grille,100 Continental Dr,Newark,2.5,10,"Food, Event Planning & Services, Hotels, Restaurants, American (Traditional), Breakfast & Brunch, Hotels & Travel",3.0,[''],1,7
+NzuiDTVc1KOBPb-ZJgG2WA,Yatz's Subs and Steaks,626 N Union St,Wilmington,4.5,26,"Restaurants, Sandwiches, Cheesesteaks, Italian",1.0,[],0,4
+u6J-aO61VRmS7NKeBzrSjQ,Buckley's Tavern,5812 Kennett Pike,Wilmington,3.5,219,"Restaurants, Bars, American (Traditional), Pubs, Nightlife",2.0,"['classy', 'casual']",2,5
+2KnB5sR6QmD8YRcEGsa8ow,Dorcea,1314 Washington St,Wilmington,4.5,25,"Restaurants, American (Traditional)",,[''],1,2
+mHwn3XzGpyTXAe167aHMyA,Royal Garden,3629 Silverside Rd,Wilmington,3.0,9,"Restaurants, Chinese",2.0,[],0,2
+gkZ6iiEfnO7I2UzOHbkzrA,Ulysses American Gastro Pub,1716 Marsh Rd,Wilmington,3.5,248,"Bars, Nightlife, Breakfast & Brunch, Gastropubs, Restaurants",2.0,['trendy'],1,5
+4EWOA4I8_oszeXs7_ejJWA,Avila's Bakery,1815 Lancaster Ave,Wilmington,4.0,7,"Sandwiches, Food, Bakeries, Restaurants, Bagels",1.0,[],0,5
+CFBnmxqAm4vX6v4BFye70w,Banks' Seafood Kitchen and Raw Bar,101 S Market St,Wilmington,3.5,287,"Sushi Bars, Restaurants, Seafood, Cocktail Bars, Food, Nightlife, American (Traditional), Bars, Asian Fusion, Desserts",3.0,['classy'],1,10
+y_ErDiWeXxyYcL1_U966qQ,Yi Palace - Wilmington,4435 Concord Pike,Wilmington,3.5,118,"Chinese, Restaurants",2.0,['casual'],1,2
+LI1pBFuAuen2hD2a5rilug,Torbert Street Social,305 Torbert St,Wilmington,4.0,37,"Restaurants, Tapas/Small Plates, Speakeasies, Nightlife, Cocktail Bars, Bars",,['classy'],1,6
+BHTpjNMdeja_cg9pRnRBOA,Kid Shelleen's Charcoal House & Saloon,1801 W 14th St,Wilmington,4.0,217,"Breakfast & Brunch, Restaurants, Gluten-Free, American (Traditional)",2.0,['casual'],1,4
+CQgXWdtFDfshGMVpWqE15A,Cheeseburger in Paradise,40 Geoffrey Dr.,Newark,2.5,34,"Burgers, American (Traditional), Restaurants",2.0,['casual'],1,3
+YiNkf4WpIwLjsJPmgUeCRQ,3 Stars Pizza,105 N Union St,Wilmington,2.5,28,"Restaurants, Pizza",1.0,[],0,2
+rRWAgAsFhtXbhy8GoSt-TQ,Domino's Pizza,12 Polly Drummond Hill Rd,Newark,2.5,9,"Sandwiches, Pizza, Restaurants",1.0,[],0,3
+sL_JrM7Llw5arZh0-JxZ2g,Zoup!,4715 Kirkwood Hwy,Wilmington,4.5,51,"Food, Sandwiches, Restaurants, Salad, American (Traditional), Specialty Food, Health Markets, Soup",1.0,['casual'],1,8
+i8uaneoCO8Nd6FVa02PBLw,BarRoja,1709 Delaware Ave,Wilmington,4.0,27,"Nightlife, Bars, Cocktail Bars, Mexican, Tacos, Restaurants",,[],0,6
+zfZvIjyu_hsnrnDcUZuBqQ,Pizza Pro,7313 Lancaster Pike,Hockessin,4.0,29,"Sandwiches, Restaurants, Chicken Wings, Pizza",2.0,['casual'],1,4
+OfUF725s1RaoaEOPY3hwZg,Poke Bros - Wilmington,2117 Concord Pike,Wilmington,3.5,46,"Food, Japanese, Restaurants, Poke, Hawaiian",,[],0,5
+Ds8E5RPjm2UHUemXJVTs3w,DECO,111 W 10th St,Wilmington,4.0,41,"Event Planning & Services, Shopping, Food Court, Restaurants, Venues & Event Spaces, Public Markets",2.0,['classy'],1,6
+UVYxBJITEqiM1BJWbfUYMw,Papa's Pastry Shop,600 N Union St,Wilmington,2.5,9,"Bakeries, Restaurants, Food",2.0,[''],1,3
+gHPS6jy5UzfVUDLUE74Y-A,Dunkin',4902 Kirkwood Hwy,Wilmington,1.5,7,"Coffee & Tea, Food, Restaurants, Bakeries, Donuts",1.0,[''],1,5
+XivGJBspUK_LWVRyp96EBA,Crazy Bone Cafe,"3100 Naamans Rd, Ste 2",Wilmington,4.5,10,"Restaurants, Sandwiches",1.0,[''],1,2
+_-pljHy_NUTTdd4dQBL-Yg,Hunter's Den Restaurant,3517 Old Capitol Trl,Wilmington,2.5,31,"Seafood, American (Traditional), Restaurants",2.0,['casual'],1,3
+O-k86O0GnQgBn9KxUiE1iA,The Chicken Spot,204 W 10th St,Wilmington,4.0,11,"Restaurants, Fast Food, Chicken Wings, Sandwiches",,[''],1,4
+52pgQaYBZx8axZK4mPn0Ow,UDairy Creamery Market,815 N Market St,Wilmington,4.5,36,"Coffee & Tea, Caterers, Sandwiches, Cafes, Event Planning & Services, Food, Burgers, Local Flavor, Restaurants, Ice Cream & Frozen Yogurt",1.0,[],0,10
+taQYHTJVJsnguw_tfEBShQ,Eat Clean,225 N Market St,Wilmington,4.0,16,"Salad, Juice Bars & Smoothies, Food, Restaurants, Wraps",,[],0,5
+QaPPKjlmCqX98J62Y-dlkg,Delta Restaurant,304 W 9th St,Wilmington,4.0,27,"Seafood, Sandwiches, Salad, Restaurants, Wraps, Breakfast & Brunch",1.0,[],0,6
+h0jLNrV28BX3AC6yHaN2Kw,Cacciatori Pizza & Pasta,108 Louviers Dr,Newark,4.0,37,"Pizza, Restaurants",2.0,['casual'],1,2
+-HlTwWdzyN7Ec1xTjntfog,Krispy Krunchy Chicken,4101 Concord Pike,Wilmington,2.5,5,"Sandwiches, Restaurants, Halal, Fast Food, Chicken Wings, Chicken Shop",,[],0,6
+50nOu5uopq2EbrSM90ZxOQ,Three Ddd's Steaks & Hoagies,448 Moores Ln,New Castle,3.5,19,"Delis, Pizza, Restaurants",2.0,[''],1,3
+dRFSMj5Q3lro4UDeN6oCQg,Bogle Cove Oyster House,5335 Limestone Rd,Wilmington,3.5,28,"Seafood, Restaurants",,"['classy', 'casual']",2,2
+wmDbIUgNaiemdgc6S2_-_A,China House Chinese Kitchen,1620 W Newport Pike,Wilmington,3.0,10,"Chinese, Restaurants",,[],0,2
+m_a1nzDkdwYV9P2FvxqGsg,Bistro Jacques,607 N Lincoln St,Wilmington,4.5,13,"Modern European, Belgian, Italian, Restaurants",2.0,[],0,4
+aRetE3hno9ISsRMaRaobGA,Lettie's Kitchen,1318 Old Lancaster Pike,Hockessin,4.5,64,"American (Traditional), Comfort Food, Restaurants",2.0,[],0,3
+LWIXucbDnKfXt1se2wtqLQ,China Royal,"Plaza III Shopping Ctr, 1845 Marsh Rd",Wilmington,3.0,9,"Chinese, Restaurants",2.0,['casual'],1,2
+m0goxK9IkGhjoyfEA9ZvBQ,Carolines,410 Delaware St,New Castle,3.5,6,"Restaurants, Cafes, Breakfast & Brunch",2.0,[],0,3
+pVNQNJe5D5jnygJjWwSnfw,Snuff Mill,1601 Concord Pike,Wilmington,4.5,11,"Nightlife, American (Traditional), American (New), Wine Bars, Restaurants, Bars",,[''],1,6
+8nio_7eFGbCSLhiLwbWvdA,The Dog House,1200 N Dupont Hwy,New Castle,4.0,140,"Restaurants, Burgers, American (New)",1.0,"['divey', 'casual']",2,3
+evrQGHs_lC_fmEniotaX8A,Turning Point of Christiana,204 Fashion Center Blvd,Newark,4.0,140,"American (Traditional), Food, Coffee & Tea, Breakfast & Brunch, Restaurants",2.0,"['casual', 'trendy', 'classy']",3,5
+2kDAi5Od8S7C5QQ0TvLVxA,New Hibachi Express,4526 B Kirkwood Hwy,Wilmington,3.0,13,"Salad, Chinese, Sushi Bars, Japanese, Restaurants, Asian Fusion",1.0,[],0,6
+i6-HSvdSaNy-Sr4FXiM9YA,Mystic Pizza,311 North King St,Wilmington,3.0,9,"Restaurants, Pizza",1.0,['casual'],1,2
+wYvNRu5yElMs108nz908hg,Tailgates Sports Bar and Grill,4126 Stanton-Ogletown Rd,Newark,2.5,22,"Nightlife, American (Traditional), Dance Clubs, Wraps, Bars, Restaurants, Adult Entertainment, Sports Bars",2.0,[],0,8
+86Zz4Bysrm6GIBpci955wQ,George & Sons' Seafood Market,1216 Old Lancaster Pike,Hockessin,4.0,88,"Live/Raw Food, Seafood Markets, Food, Seafood, Specialty Food, Restaurants, American (New)",2.0,['casual'],1,7
+7PmBvrYIRJRWM9dfp6Mv-g,La Taqueria Riverfront Market,3 S Orange St,Wilmington,3.0,10,"Mexican, Restaurants, Food Stands",1.0,[],0,3
+Soz-9beX1fUmz3Yxp1sphg,The Greek Festival,808 N Broom St,Wilmington,3.5,14,"Arts & Entertainment, Restaurants, Festivals, Greek, Local Flavor",2.0,[],0,5
+FnI_J_T63I3Py7GnnmDaWA,Sushi Xtreme,4708 Limestone Rd,Wilmington,4.0,91,"Restaurants, Sushi Bars, Japanese, Pop-Up Restaurants",2.0,"['casual', 'trendy']",2,4
+msp4nQ9YPzSA7d6fVbSrAA,Tree Garden,1317 McKennans Church Rd,Wilmington,4.0,62,"Restaurants, Japanese, Chinese, Sushi Bars",2.0,['casual'],1,4
+GsTHcKsO4c9ZnK0AdwfCpw,Starbucks,"3828 Kennett Pike, Ste A",Greenville,3.5,9,"Cafes, Coffee & Tea, Restaurants, Food, American (New)",2.0,[''],1,5
+MsahEUyFXv-chom17KI_3w,Appleton Catering,3517 Old Capitol Trl,Wilmington,4.0,5,"Event Planning & Services, Caterers, Food, American (Traditional), Delis, Restaurants",1.0,[],0,6
+Ry_VL75WDfuudBMu3q4cAA,Dino's steaks,7 Trolley Sq,Wilmington,4.0,7,"Food, Burgers, Restaurants, Hot Dogs, Cheesesteaks",1.0,[''],1,5
+i5PMM5ERgui9glBLO1vq9w,China King Restaurant,608 N Union St,Wilmington,4.0,12,"Chinese, Restaurants",1.0,[],0,2
+sRATWcg2MaU6_wVVLCmxog,Tasties 302,825 N Market St,Wilmington,3.0,14,"Chicken Wings, Soul Food, Restaurants, Southern",,[''],1,4
+vnANhbKBSyn_Kxul3ReR9A,Slack's Hoagie Shack,1601 Concord Pike,Wilmington,3.0,12,"Restaurants, Sandwiches, Food",1.0,[],0,3
+0EYptIjdWCC41e03GBWwOA,Zach’s Grill,739 Ferry Cut Off St,New Castle,4.0,12,"Restaurants, Burgers, Chicken Wings, Sandwiches, Cheesesteaks, Fast Food",,[''],1,6
+xJ2-lBf5qtfyDCrAwrOpdg,Pike Creek Pizza Company,5337 Limestone Rd,Wilmington,2.0,12,"Italian, Pizza, Restaurants",1.0,[],0,3
+ryqbpGS2tPKo2d9DkEdf4Q,Taqueria Los Compadres,2675 Kirkwood Hwy,Newark,4.5,71,"Restaurants, Mexican",2.0,['casual'],1,2
+OHtGdFojocDNolQYDWLnWg,Taco Bell,4302 Kirkwood Hwy,Wilmington,2.5,23,"Restaurants, Fast Food, Breakfast & Brunch, Tacos, Mexican, Tex-Mex",1.0,[''],1,6
+LsMs0NL9jBukdsPqTP-sOA,World Cafe Live at The Queen,500 N Market St,Wilmington,3.5,54,"Music Venues, American (New), Arts & Entertainment, Event Planning & Services, Restaurants, Nightlife, Venues & Event Spaces",2.0,['casual'],1,7
+qOFcDjpUw5oeV7LIdDAubg,Green Box Kitchen,400 North Market St,Wilmington,5.0,20,"Juice Bars & Smoothies, Restaurants, Food, Vegan, Acai Bowls",,['classy'],1,5
+cemvFp_hGI_6ev5_pd9Lew,Tony and Dominick's Pizza,1808 Newport Gap Pike,Wilmington,4.5,41,"Restaurants, Pizza",2.0,['casual'],1,2
+lkAzVdzEZE0jEU91PmvQhQ,Margaritas Grill,3320 Old Capitol Trl,Wilmington,4.0,33,"Mexican, Restaurants",2.0,[],0,2
+-jtTmbqX3jeMs4z693SO4w,V&M Bistro,1717 Marsh Rd,Wilmington,3.5,93,"Restaurants, Nightlife, Cocktail Bars, Italian, Pizza, Bars",2.0,['classy'],1,6
+N_Pv_9FMS47hR3w6TH4rmg,Szechuan Restaurant,3615 Kirkwood Hwy,Wilmington,3.5,28,"Szechuan, Chinese, Restaurants, Dim Sum, Nightlife",2.0,[],0,5
+W1TfZnKeZxP5KaNPB3SXxA,El Amigo: Taqueria & Store,"707 S Union St, Ste A",Wilmington,4.5,11,"Mexican, Restaurants",1.0,[],0,2
+9XzPqLGIkuN1rmqWH7aP9A,Legal Grounds Cafe,1208 Kirkwood Hwy,Wilmington,5.0,87,"Breakfast & Brunch, Coffee & Tea, Restaurants, Food, Cafes",1.0,"['classy', 'casual']",2,5
+ja-xLPyx8Ha3tJ-tx-0CCw,Tj's Jamaican Spice,2709 N Market St,Wilmington,4.0,7,"Restaurants, Caribbean",1.0,[''],1,2
+AED1P8U_kyYerD1OPndpTQ,Papa John's Pizza,3403 Lancaster Pike,Wilmington,1.5,25,"Restaurants, Pizza",1.0,[''],1,2
+fqyKLWyaBHAz8I-FhEsruQ,Oasis Middle Eastern Restaurant,11 Salem Village Sq,Newark,3.5,75,"Falafel, Middle Eastern, Halal, Restaurants, Mediterranean, Greek, Kebab",2.0,['casual'],1,7
+nyISj6w5j8OBgbG88C5rZg,Capriotti's Sandwich Shop,708 W Basin Rd,Wilmington,3.5,44,"Sandwiches, Restaurants, Delis",1.0,[],0,3
+FWasI2Kq6OGBN60pvN__wA,Burger King,3607 Kirkwood Hwy,Wilmington,1.5,8,"Restaurants, Burgers, Fast Food",1.0,[],0,3
+7soL3w71DCyyoC9XKLODkw,Sixth & Pine,"Nordstrom, 100 Christiana Mall",Newark,4.0,24,"Restaurants, Comfort Food, American (New), American (Traditional), Diners",2.0,['casual'],1,5
+bOsKg2PXQeSjTPWYNFnKxw,Bull's Eye Saloon & Restaurant,3734 Kirkwood Hwy,Wilmington,3.0,18,"American (New), Pubs, Nightlife, Bars, Restaurants",2.0,['divey'],1,5
+nGcfY8qVamkNIW7emQlfSQ,Don Pablo's,600 Ctr Blvd,Newark,2.5,127,"Nightlife, Bars, Tex-Mex, American (Traditional), Comfort Food, Diners, Mexican, Restaurants",2.0,['casual'],1,8
+uK-mJE9L3P4X80gKp69i9A,PrimoHoagies,"3501 Philadelphia Pike, Ste 1",Claymont,4.0,41,"Restaurants, Sandwiches, Italian",1.0,[],0,3
+_6BiItGONFUlzOYEYBMFkA,Trolley Tap House,1616 Delaware Ave,Wilmington,3.5,78,"Beer, Wine & Spirits, American (New), Restaurants, Gastropubs, Pubs, Food, Nightlife, Bars, Breweries, American (Traditional), Salad",2.0,"['trendy', 'casual']",2,12
+yEHnyZkYPROFuSf8jDfVVA,Colbie’s Southern Kissed Chicken,481 Stanton Christiana Rd,Newark,2.5,21,"Chicken Shop, Fast Food, Restaurants",2.0,['casual'],1,3
+13l05k8AeGBJOIp5H4wlIA,Applebee's Grill + Bar,4301 Kirkwood Hwy,Wilmington,2.5,35,"Sports Bars, Steakhouses, Bars, Nightlife, Burgers, Restaurants, Chicken Wings, American (Traditional)",2.0,['casual'],1,8
+4B1NLfBJRfeJ_7bKVTNa_w,Evelyn's Soul Food,1409 N King St,Wilmington,3.5,52,"Restaurants, Soul Food",,[''],1,2
+Ct_g_xmNh1wvpfTD-QLI8Q,vPho,2671 Kirkwood Hwy,Newark,4.5,217,"Salad, Vietnamese, Thai, Restaurants, Food, Acai Bowls, Noodles",2.0,['casual'],1,7
+plf8Gya3Yzhy1pA_pUXWyg,Taj Palace,"Meadowood 2 Shopping Ctr, 2628 Kirkwood Hwy",Newark,3.5,12,"Restaurants, Indian",2.0,[],0,2
+OIeYD36y99Q6xObzwCJPwQ,Cuzino's Pizza & Pasta,4553 Kirkwood Hwy,Wilmington,3.0,39,"Sandwiches, Restaurants, Pizza, Italian",1.0,[''],1,4
+8zSe71yhFMeydp1UKJrEEg,D & H Jamaican Cuisine,748 E Chestnut Hill Rd,Newark,3.0,90,"Restaurants, Caribbean",2.0,['casual'],1,2
+trkKocO5llb_3z54Q01q9w,Mike's Famous Steaks & Subs,754 E Chestnut Hill Rd,Newark,4.0,39,"Cheesesteaks, Sandwiches, Restaurants",1.0,['casual'],1,3
+0cLTDo4xyBWCxp0bMmwjIw,Chicky's Pizza Pub,201 N Market St,Wilmington,3.0,10,"Sandwiches, Pizza, Salad, Restaurants, Soup",,[''],1,5
+TPYRKrXsdUfOUQNFm6w_3w,Bellefonte Cafe,804 Brandywine Blvd,Wilmington,4.0,100,"Breakfast & Brunch, Food, Tapas Bars, Restaurants, Antiques, American (Traditional), Coffee & Tea, Venues & Event Spaces, American (New), Vegetarian, Shopping, Comfort Food, Event Planning & Services",2.0,['casual'],1,13
+S6ACtNZ5wY0EjmK07iWUgg,Iron Hill Brewery & Restaurant,620 Justison St,Wilmington,3.5,512,"Restaurants, Food, Breweries, American (New), Local Flavor",2.0,"['classy', 'casual']",2,5
+CUHE082XLb3X-vKsnFp4aQ,The Greene Turtle Sports Bar & Grille,307 Rocky Run Pkwy,Wilmington,2.5,88,"Nightlife, Burgers, Bars, American (Traditional), Sports Bars, Restaurants",2.0,['casual'],1,6
+it6lzjNprkWZ2oKIHdfslA,Little Spice Indian Cuisine,4621 Ogletown Stanton Rd,Newark,4.5,10,"Indian, Halal, Restaurants",,[''],1,3
+752g7SDnEV4Jcj_fsEvWxA,Sicily's Pizza,1819 Lancaster Ave,Wilmington,4.5,5,"Wraps, Food, Chicken Wings, Sandwiches, Pizza, Restaurants, Gluten-Free, Italian, Food Delivery Services",,[''],1,9
+jFUhWIXq4dDyMY5Z1yzwQg,Stone Oven Soul Food And Pizzeria,801 N Union St,Wilmington,4.0,8,"Pizza, Restaurants, Soul Food",2.0,[''],1,3
+Wbqv9rUtbNanq-hhegOYsg,Pizza by Elizabeths,"3801 Kennett Pike, Ste E220",Wilmington,4.0,180,"Pizza, Restaurants",2.0,"['romantic', 'trendy', 'classy']",3,2
+DYIwMZs0aA0VqvzTAMuxag,Seasons Pizza,1112 New Rd,Wilmington,3.5,20,"Pizza, Restaurants, Italian, Chicken Wings",2.0,[],0,4
+5pQ2MsxB0eV8NDPJMO2DSQ,Capt'n Chucky's Crab Cake,1732 Marsh Rd,Wilmington,4.0,6,"Seafood, Restaurants",2.0,[''],1,2
+GLdfpx0O93HoIJfHonV-JQ,Market Kitchen & Bar,100 Continental Dr,Newark,4.0,21,"Restaurants, Local Flavor, Sandwiches, Salad, Gastropubs, Bars, American (New), Nightlife, Pubs",3.0,"['classy', 'casual']",2,9
+UGRRI0KG9S8WI-oWTaPaHA,Joe's Crab Shack,600 S Madison St,Wilmington,2.5,151,"Seafood, Restaurants, American (Traditional)",2.0,['casual'],1,3
+YLzdt-K1lTH-SaE8j5NqIQ,Salvatore's Bistro & Brick Oven Pizza,4621 Ogletown Stanton Rd,Newark,3.0,6,"Restaurants, Italian, Pizza",3.0,[],0,3
+_BDXbsPPdSj-MbdwdICqAg,Wawa,705 Philadelphia Pk,Wilmington,3.5,7,"Delis, Coffee & Tea, Restaurants, Food, Sandwiches",1.0,[],0,5
+iGJ6-XgJrOkEgm-ahmS4sA,Sunrise Sandwich Shop,1002 River Rd,New Castle,5.0,14,"Cheesesteaks, Sandwiches, Breakfast & Brunch, Food, Restaurants",1.0,['divey'],1,5
+ht70fX_P9ufTqDxIjtbwpA,honeygrow,"5609 Concord Pike, Unit 7B",Wilmington,3.5,93,"Vegetarian, Juice Bars & Smoothies, Noodles, Vegan, Food, Salad, Restaurants, Gluten-Free",2.0,"['hipster', 'casual']",2,8
+VkHexf3mBy-8hu2vsSVd4g,Chiwa Bistro,132 Christiana Mall,Newark,4.0,113,"Japanese, Taiwanese, Restaurants, Ramen, Asian Fusion, Sushi Bars",2.0,"['casual', 'trendy']",2,6
+e4GIbSFHess2qAopZNzxMQ,Philippine Smoked BBQ Grill,1700 Kirkwood Hwy,Wilmington,4.5,111,"American (Traditional), Restaurants, Barbeque, Filipino",2.0,['casual'],1,4
+9KPLUSHOx2vgaK7n_tYs2Q,Tung Hsing House,505 E Basin Rd,New Castle,2.5,12,"Japanese, Chinese, Restaurants",2.0,[''],1,3
+vfaKBk38ajlSYnXBc9dmEQ,Madison's Smoked BBQ,4154 Ogletown-stanton Rd,Newark,3.5,16,"Event Planning & Services, Restaurants, Caterers, Barbeque",2.0,[],0,4
+JqdovxCkzQgj872gX4qZxA,Hot Spot Pizza,2714 Naamans Rd,Wilmington,4.5,11,"Restaurants, Pizza",,[],0,2
+B61ZWIX1AEl76A2WEdDZMw,Lestardo's Crab House,135 Christiana Rd,New Castle,3.5,123,"Seafood, Restaurants",2.0,['casual'],1,2
+yoOKenFN8L3BS80iOi083A,Cafe Pizzeria,269 N Dupont Hwy,New Castle,4.0,15,"Pizza, Mediterranean, Restaurants",,[],0,3
+YFIk4noVT4mrdF2fiEr85w,Pamela's Gourmet,406 Louviers Dr,Newark,5.0,5,"Restaurants, Cafes, Caterers, Event Planning & Services",,[''],1,4
+XxptQeCkYTcDy4gQRAg9UQ,KOI on the go,2013 Kynwyd Rd,Wilmington,4.5,23,"Restaurants, Food, Asian Fusion, Local Flavor, Food Trucks",1.0,[''],1,5
+1mDmIanzPk0zEEytGdtaHg,The R Lounge & Restaurant,900 N Orange St,Wilmington,2.5,7,"American (New), Restaurants",2.0,[],0,2
+ga8LWom8Xzu0ZKaohW7Jtg,Pats Pizza & Bistro,4231 Concord Pike,Wilmington,3.0,24,"Food Delivery Services, Italian, Mediterranean, Restaurants, Pizza, Food",1.0,[''],1,6
+6pWjGY72eQJ99Khs2adWZg,Dom's Deli,Rambleton Acres Shop,New Castle,3.5,9,"Delis, Restaurants, Sandwiches",1.0,[''],1,3
+jMOIi_o4pmPwR_Q8P7gS5Q,Basil Bar & Grill,422 Delaware Ave,Wilmington,2.5,11,"Restaurants, Event Planning & Services, Hotels, Bars, Breakfast & Brunch, American (Traditional), Hotels & Travel, Nightlife",2.0,[],0,8
+mNKL1JPiN2zBrUmIgTM56A,Eclipse Bistro,"1020 N Union St, Ste B",Wilmington,4.5,141,"American (New), Restaurants",3.0,"['trendy', 'classy']",2,2
+_-OXe_vQnPRZp7-JBqXmbA,India Palace Indian Restaurant,101 N Maryland Ave,Wilmington,4.5,84,"Indian, Restaurants",2.0,['casual'],1,2
+B0SPP0RsKkJxf6zK6mG9kw,Dragon City Chinese Restaurant,4623 Ogletown Stanton Rd,Newark,3.0,14,"Restaurants, Chinese",1.0,[],0,2
+vkffDkvbUwkgEXoBbCAXng,Famous Dave's Bar-B-Que,100 W Main St,Christiana,3.0,64,"Salad, Caterers, Comfort Food, Sandwiches, Event Planning & Services, Barbeque, Restaurants, American (Traditional)",2.0,['casual'],1,8
+5k1Hk_ETYdNASh4IrmCXKg,Wawa,4000 North Dupont Hwy,New Castle,3.5,23,"Restaurants, Convenience Stores, Gas Stations, Coffee & Tea, Automotive, Sandwiches, Food",1.0,[''],1,7
+z_MefzpYwQkxXorCdQTUjw,Viva Chicken,1103 Churchmans Rd,Newark,4.0,68,"Peruvian, Restaurants",2.0,"['trendy', 'casual']",2,2
+luUGLqA3Gxv5raCJOAzblw,Firebirds Wood Fired Grill,1225 Churchmans Rd,Newark,4.0,430,"Seafood, American (New), Steakhouses, Nightlife, Restaurants, Bars, Burgers, Wine Bars",2.0,"['trendy', 'classy']",2,8
+zgSZxYaCI0wcMTR0Dxd7oQ,Dead Presidents Pub & Restaurant,618 N Union St,Wilmington,3.5,98,"Bars, Pubs, Restaurants, Nightlife, American (Traditional), Breakfast & Brunch",2.0,"['divey', 'casual']",2,6
+V291Oax3fUUxUzXnOpOqCQ,Paradise Biryani Pointe,270 University Plz,Newark,2.5,49,"Halal, Indian, Restaurants",2.0,['casual'],1,3
+Iud8PGRJx53S4zpBVC2pSQ,Moro Restaurant,1307 N Scott St,Wilmington,3.5,115,"American (New), Restaurants",3.0,['classy'],1,2
+yJ2585fQD8lcuckZ4QIdmw,Pho Bami,2113 Concord Pike,Wilmington,4.5,90,"Vietnamese, Restaurants",,[''],1,2
+e4Ykq4wvcUmBQmJTMd3Vzw,Domino's Pizza,401 S Market St,Wilmington,1.5,37,"Chicken Wings, Pizza, Sandwiches, Restaurants",1.0,[''],1,4
+Nr2_KH54XKYxVV99zLkm_w,Los Taquitos De Puebla II,711 Ace Memorial Dr,Hockessin,4.0,13,"Mexican, Restaurants",2.0,[],0,2
+L7r4uOZT58z1Vv-rGlSZBg,Scrumptious,1715 Delaware Ave,Wilmington,4.0,305,"Ice Cream & Frozen Yogurt, Food, Restaurants, Breakfast & Brunch, Coffee & Tea",2.0,['casual'],1,5
+Fs08fD1W5krz7vkc-qmpAA,Jamaican Mi Hungry,2202 Kirkwood Hwy,Wilmington,4.5,29,"American (New), Restaurants, Caribbean",2.0,[],0,3
+bjE19DpRbN-OgTMVaMwpJg,New York Fried Chicken,2931 N Market St,Wilmington,3.0,5,"Restaurants, Steakhouses, Chicken Wings, American (Traditional), Fast Food",,[''],1,5
+kehm5RaeTwFNT43jfm7BSQ,Six Paupers Tavern & Restaurant,"7465 Lancaster Pike, Ste H",Hockessin,3.0,60,"Restaurants, Nightlife, Bars, American (New)",2.0,"['classy', 'casual']",2,4
+9tXwyr5Yqu4WnuCLOUPtrQ,Taco Grande,600 Justison St,Wilmington,3.5,33,"Restaurants, Mexican, Tacos",2.0,['casual'],1,3
+veEVH9fwkhs_iR38LlK2yA,Cafe Americana,"4500 Linden Hill Rd, Ste 11",Wilmington,4.5,29,"Restaurants, Diners, Breakfast & Brunch, American (Traditional)",,[''],1,4
+9QsamgtWTCpiYVrFr-p26w,Chipotle Mexican Grill,2209 Concord Pike,Wilmington,2.0,15,"Restaurants, Fast Food, Mexican",,[''],1,3
+IiWJAgqRZnccukTwi_YjvQ,Tijuana Taco Shop,1815 Lancaster Ave,Wilmington,3.5,19,"Mexican, Restaurants",2.0,['casual'],1,2
+Da1Cc7gaouF_2avorSj-PA,Brew HaHa!,835 N Market St,Wilmington,3.5,16,"Coffee & Tea, Food, Restaurants",2.0,[''],1,3
+ssCzAwPICd79FWhkqdpgBg,2 Fat Guys,"3801 Kennett Pike, Ste E120",Wilmington,3.5,56,"Burgers, American (Traditional), Restaurants",2.0,['casual'],1,3
+Un6hqD_6kzW1VW8SVuN7SA,Los Jarritos,110 N Dupont Hwy,New Castle,4.0,17,"Mexican, Restaurants",1.0,[],0,2
+-VbtijUhH4xVP7cZbEo6-Q,Ted's Montana Grill - Christiana,3194 Fashion Center Blvd,Newark,3.5,149,"Nightlife, Bars, Burgers, American (Traditional), Restaurants, Cocktail Bars, Steakhouses, Gluten-Free",2.0,['casual'],1,8
+XqOSW0xVG7796_l_5-ai1A,Mexican Table,7288 Lancaster Pike,Hockessin,4.0,112,"Restaurants, Soup, Sports Bars, Mexican, Bars, Nightlife, New Mexican Cuisine, Seafood",2.0,['casual'],1,8
+skP6KUZgrEzY1udMSfBOyA,Hot Spot Pizza & Restaurant,3209 Miller Rd,Wilmington,4.5,15,"Restaurants, Cheesesteaks, Pizza",1.0,[],0,3
+FB8GTSt4sBBNA9yZPZ4teA,Master Wok,132 Christiana Mall,Newark,2.5,9,"Food Court, Chinese, Restaurants",,[''],1,3
+_6BDxk8486ZYiRwpPmQewg,Limestone BBQ and Bourbon,2062 Limestone Rd,Wilmington,4.0,174,"Nightlife, Restaurants, Whiskey Bars, Bars, Barbeque",2.0,['casual'],1,5
+gV-u_5SA-htqslt2yUaLgg,Negril Caribbean Restaurant,727 W 4th St,Wilmington,4.5,7,"Restaurants, Caribbean",,[''],1,2
+ZzN0X75GAtJTd-WOdPGNtw,El Toro Cantina,1934 W 6th St,Wilmington,4.0,9,"Restaurants, Bars, Mexican, Nightlife",,[],0,4
+-q8Dnex7CtMFkg04gDd09A,Planet Hoagie,2501 Foulk Rd,Wilmington,3.5,5,"Restaurants, Sandwiches",1.0,[''],1,2
+Uq-y9KERobbe95mVet8NWw,Semo's Restaurant,501 W 9th St,Wilmington,4.5,23,"American (Traditional), Pizza, Fast Food, Greek, Restaurants",1.0,[],0,5
+VmxGFqtplC3yIOClQ3Tulg,Tex Mex Burriro,2307 W Newport Pike,Wilmington,5.0,15,"Restaurants, Mexican",,[],0,2
+aqLHq0LCuqgVVjcsjeyTbA,TGI Fridays,301 Rocky Run Pkwy,Wilmington,2.5,68,"Restaurants, Burgers, American (New), Nightlife, American (Traditional), Sports Bars, Bars",2.0,[],0,7
+wANOZ3zhbnWMchaeHfksSw,Sub City,701 N King St,Wilmington,4.5,16,"Cheesesteaks, Restaurants, Burgers, Sandwiches",1.0,[],0,4
+_e0k_CGqUSp0_c17GaLSzg,Bites & Slice,629 W 4th St,Wilmington,3.0,17,"Pizza, American (Traditional), Restaurants",,[''],1,3
+yOWecDeW4MIBj-Hbpen3Pw,Maui Poke Bowl,4148 Ogletown Stanton Rd,Newark,4.0,15,"Hawaiian, Salad, Poke, Restaurants, Food",,[''],1,5
+qWLHeczMVxxanXnMldknJw,Kampo Garden,723 N King St,Wilmington,3.0,13,"Restaurants, Chinese",,[],0,2
+s4sR4VUo5bzMcpXuiAj-EA,Quinn's Cafe,7288 Lancaster Pike,Hockessin,4.0,49,"Restaurants, Cafes, Breakfast & Brunch, Diners, Salad, Sandwiches",1.0,['casual'],1,6
+fg82H-02ojEUHAgDKk0Acw,Wendy's,4125 Concord Pike,Wilmington,2.0,11,"Fast Food, Restaurants, Burgers",1.0,[],0,3
+4sZVseAd2XZrSReEmBlMFQ,Lone Star Steakhouse,307 Rocky Run Parkway,Wilmington,2.0,36,"Steakhouses, Seafood, American (Traditional), Restaurants",2.0,['casual'],1,4
+FXyX5mm_2daiHTzEMukVEw,Popeyes Louisiana Kitchen,2511 Northeast Blvd,Wilmington,2.5,12,"Soul Food, American (Traditional), Comfort Food, Restaurants, Chicken Wings, Fast Food",1.0,[''],1,6
+TqDErLK4t0TfSiFzxuocuQ,Casapulla's North Steak & Sub Shop,2707 Concord Pike,Wilmington,4.0,52,"Restaurants, Cheesesteaks, Sandwiches, Delis",1.0,['casual'],1,4
+t33PAjYsxtFw--8NpLKfNg,Panera Bread,3650 Kirkwood Hwy,Wilmington,2.5,61,"Soup, Salad, Breakfast & Brunch, Food, Restaurants, Bagels, Sandwiches",2.0,"['classy', 'casual']",2,7
+Lmb-iJGzBu_1W-dEvB3TBQ,Krazy Kat's Restaurant,528 Montchanin Rd,Montchanin,4.0,89,"Restaurants, American (New)",3.0,"['romantic', 'classy']",2,2
+6T-hXleL9aMLf-sezBjs9Q,Panda Express,4704 Kirkwood Hwy,Wilmington,2.5,18,"Fast Food, Chinese, Restaurants",,[],0,3
+Me4mO0eMVp5ZY3Smznr7tQ,Taco Bell,609 Naamans Rd,Claymont,1.0,25,"Mexican, Fast Food, Restaurants, Tex-Mex",1.0,[],0,4
+1vMvq4kXlOmSdPDWp_1shg,Levitea,807 North Union St,Wilmington,5.0,8,"Tea Rooms, Restaurants, Food, Sandwiches, Cafes, Coffee & Tea",1.0,[''],1,6
+CBDzS_gMn_-jO3_4XXVYeA,Hideaway Bar & Grill,2619 Ebright Rd,Wilmington,4.0,14,"American (Traditional), Bars, Nightlife, Restaurants",1.0,['casual'],1,4
+XmlF_2NbH65tDiSd2u2M5A,Gyro Kabob House,1142 Christiana Rd,Newark,4.5,249,"Sandwiches, Restaurants, Middle Eastern, Kebab, Steakhouses, Cheesesteaks",1.0,['casual'],1,6
+4JR06JiS8W8ieXoF1ZWkGg,PureBread Deli,4801 Limestone Rd,Wilmington,3.5,27,"Delis, Restaurants, Cafes",1.0,[],0,3
+k2qArgJgsWWrtWT_r0rRlQ,The Rat Pack Bistro,300 Delaware Ave,Wilmington,4.0,9,"Restaurants, Breakfast & Brunch, Coffee & Tea, Food",2.0,['casual'],1,4
+srk9xvVrkXrEKUP-7oXAfQ,Stanley's Tavern,2038 Foulk Rd,Wilmington,3.0,108,"Barbeque, Pubs, Event Planning & Services, Nightlife, Sports Bars, Restaurants, Bars, Caterers, Burgers, Venues & Event Spaces, American (Traditional)",2.0,['casual'],1,11
+8o3w3Tu368WTFz45rMLvYQ,Nordstrom Grill,100 Christiana Mall,Newark,3.5,17,"Restaurants, Nightlife, American (New), Comfort Food, Bars, Cafes, Cocktail Bars",2.0,"['classy', 'casual']",2,7
+VBt9CM3hcetWVDREp-_IrA,Dumpling House,1828 W. 11th Street,Wilmington,4.0,5,"Chinese, Taiwanese, Restaurants",2.0,[''],1,3
+VfkltVSN0Yhyu0Cgwhml4w,Salute Bistro & Bar,4621 Ogletown Stanton Rd,Newark,3.0,17,"Italian, Restaurants",2.0,[''],1,2
+wP9W_KYu7qASDfkVZDP87Q,Olive Grill,260 Chapman Rd,Newark,3.0,10,"Sports Bars, Nightlife, American (Traditional), Bars, Italian, Seafood, Restaurants",,[],0,7
+t13D7cAJSWtJj19uatqoXA,Kooma,400 Justison St,Wilmington,3.5,62,"Nightlife, Bars, Lounges, Sushi Bars, Restaurants, Asian Fusion",2.0,['trendy'],1,6
+4OX0hYoXnXB9ihtptZByug,K'S Kitchen,150 S Dupont Hwy,New Castle,4.0,15,"Restaurants, African",,['trendy'],1,2
+s_sEMaNkRtwjEFJfStaOgQ,Cosmos Restaurant,316 S Maryland Ave,Wilmington,3.5,71,"Restaurants, Mediterranean, Diners, Greek",2.0,"['classy', 'casual']",2,4
+d9-_PYtP-qklQ9Q7iLU8cw,Wings To Go - New Castle,1404 N Dupont Hwy,New Castle,3.0,10,"Sandwiches, Chicken Wings, Restaurants, Desserts, Food",1.0,[],0,5
+_yqi2ut_GE9R13ZmMoqz1g,Junction Eighteen,3542 Three Little Bakers Blvd,Wilmington,2.5,5,"Wine Bars, Bars, Nightlife, Restaurants, Burgers, American (Traditional)",2.0,[],0,6
+EP9K6qXOyHFq_0tp93wh9Q,Big Fish Grill - Riverfront,720 Justison St,Wilmington,4.0,456,"Bars, Nightlife, American (Traditional), Restaurants, Seafood",2.0,"['casual', 'classy']",2,5
+LGYzaCmNj3_FiG-r8U1-mw,Capers & Lemons Restaurant,301 Little Falls Dr,Wilmington,4.0,187,"American (New), Italian, American (Traditional), Restaurants",2.0,['classy'],1,4
+wz_wBcvlHhLi6DGKi_MPOw,Angelo's Luncheonette,1722 N Scott St,Wilmington,4.5,49,"Sandwiches, Breakfast & Brunch, Diners, Restaurants",1.0,['casual'],1,4
+b2eIruLWQpwgeoSWExmTVA,Berri Yummi Frozen Yogurt,"3100 Naamans Rd, Unit 5",Wilmington,4.5,26,"Food, Ice Cream & Frozen Yogurt, Restaurants",1.0,[''],1,3
+YCLI8aFvdM3uUE-MgrPJZQ,Newport Family Restaurant,601 W Newport Pike,Wilmington,4.0,45,"American (Traditional), Restaurants, Breakfast & Brunch",1.0,['casual'],1,3
+rt-b9ewIBHvlYlNuoCx2cA,Nick's Pizzeria & Italian Restaurant,"722 Philadelphia Pike, Ste A",Wilmington,4.0,18,"Sandwiches, Restaurants, Specialty Food, Pasta Shops, Food, Pizza",1.0,[],0,6
+hJvw6uua0KFIfBF44Hf2Eg,Cafe Pomodoro,5337-B Limestone Rd,Wilmington,4.5,36,"Restaurants, Italian, Sicilian, Pizza, Event Planning & Services, Caterers",,[],0,6
+L-vZQuTZFNqjRdXdUnlurQ,El Camino Mexican Kitchen,3559 Silverside Rd,Wilmington,3.5,105,"Mexican, Restaurants",2.0,"['trendy', 'casual']",2,2
+CE4huEPSU8-7CRoxqcNfBA,Gianni's Pizza,1600 Delaware Ave,Wilmington,4.5,36,"Sandwiches, Restaurants, Pizza, Cheesesteaks, Salad",,[],0,5
+h3mMPUeFLnd6JjlztFBRXg,Hunan Asian Cuisine,"1812 Marsh Rd, Ste 8, Branmar Plaza",Wilmington,3.0,34,"Chinese, Restaurants, Thai, Malaysian",2.0,[],0,4
+Ick2_d3ywqp7d7Sf1Keb6A,Rigatoni's Mobile Crab Cakes,651 Naamans Rd,Claymont,4.0,9,"Restaurants, Food Trucks, Sandwiches, Seafood, Food",4.0,[],0,5
+gk3hzKydevLKZ2FVmJdt-A,Nora Lee's,124 Delaware St,New Castle,3.5,207,"Bars, Nightlife, Wine Bars, Bistros, Cajun/Creole, Restaurants",2.0,['casual'],1,6
+5mJKPbzXp6PyFcIpHN4RlQ,Rodney Grille,920 N King St,Wilmington,3.0,10,"Restaurants, Food, American (Traditional), Event Planning & Services, Caterers",2.0,[],0,5
+jRbCgGm1cpIcBZf-vOhJvA,Daily Veg - Pike Creek,5335B Limestone Rd,Wilmington,4.0,56,"Food, Restaurants, Acai Bowls, Vegan, Juice Bars & Smoothies, Gluten-Free",2.0,"['hipster', 'trendy', 'casual']",3,6
+2vPU40ZWpAfL2e5iAfJmaA,G & P Pizza,2803 N Market St,Wilmington,4.5,7,"Restaurants, Pizza, Sandwiches",1.0,[],0,3
+FQbLZ_N_VuinjfBFxzK3TQ,Melt Shop,"228 Christiana Mall, Christiana Mall",Newark,3.5,13,"Salad, Burgers, Comfort Food, Restaurants, Sandwiches",,['classy'],1,5
+3RvolkfkPzFkAHKWEG0Wnw,Brew-Haha,3636 Concord Pike,Wilmington,4.0,30,"Coffee & Tea, Event Planning & Services, Breakfast & Brunch, Caterers, Restaurants, Food",1.0,[''],1,6
+L3E-e_f-io2kcnT-hDbT4w,Friendly's,80 Lantana Dr,Hockessin,2.5,19,"Food, Diners, American (Traditional), Ice Cream & Frozen Yogurt, Burgers, Restaurants",1.0,[],0,6
+87ufxVV8RjtnLJjwjKG_nw,Ruby Tuesday,4732 Limestone Rd,Wilmington,2.5,44,"Burgers, American (Traditional), Restaurants",2.0,[],0,3
+6cJQb8SEUqti-0S04e9Yow,Seasons Pizza,903 N Dupont Hwy,New Castle,3.0,28,"Pizza, Italian, Restaurants, Chicken Wings",2.0,[],0,4
+Y1pykNVnghzVSW775FjP1w,1000 Degrees Pizza Salad Wings,4526 New Linden Hill Rd,Wilmington,2.5,25,"Restaurants, Chicken Wings, Pizza",,[],0,3
+5Ubo-2HLRnCCo8Pnq-v-cQ,Dunkin',3804 Kirkwood Hwy,Wilmington,4.0,14,"Bakeries, Donuts, Food, Restaurants, Coffee & Tea",1.0,[''],1,5
+qJcmu67ZEQ4bd1m9Kh_T1w,Kalbi Asian Bistro,2011 Kirkwood Hwy,Wilmington,3.5,109,"Restaurants, Korean",2.0,['casual'],1,2
+MqJlz0N3ujhtZCWnJmOpZg,Cafe New Castle,414 Delaware St,New Castle,4.0,69,"Event Planning & Services, American (Traditional), Burgers, Caterers, Salad, Restaurants, Breakfast & Brunch",2.0,"['romantic', 'intimate', 'classy', 'casual']",4,7
+YCPSELmCiZGB0xuKd558uw,Sugarfoot Fine Food,1007 N Orange St,Wilmington,3.0,10,"Restaurants, Event Planning & Services, Caterers, Cafes, Sandwiches",2.0,[],0,5
+eRHLp-PimreSNP5dR41nVg,Saladworks,211 Christiana Mall Rd,Newark,3.5,10,"American (Traditional), Salad, Soup, American (New), Sandwiches, Vegetarian, Restaurants",1.0,[],0,7
+hH5J-JyOWUjDvCrXBwr2Wg,Mulrooney's Tavern,201 New Rd,Wilmington,4.0,5,"Beer, Wine & Spirits, Restaurants, Nightlife, Pubs, American (New), Food, Bars",1.0,[],0,8
+47IVPsHZAA0soPvidEnNbw,Pickles & Chip's,1707 Foulk Rd,Wilmington,3.5,46,"Restaurants, Salad, Sandwiches, Delis",1.0,['casual'],1,4
+j8Tp3nm8PYtO2exarX8zVg,Boston Market,3603 Philadelphia Park,Claymont,3.0,22,"American (Traditional), Caterers, Comfort Food, Restaurants, Event Planning & Services, Sandwiches, Chicken Shop",1.0,[''],1,7
+LhQ_DPEESCNf-hy-GrrMdQ,Scrimmages Restaurant and Sports Bar,4723 Concord Pike,Wilmington,2.5,21,"Dive Bars, Nightlife, Bars, Restaurants, Sports Bars, American (Traditional)",2.0,['casual'],1,6
+yJ3PJRDGKjnsmqW7BFbB_A,Connie's Chicken and Waffles,111 West 10th St,Wilmington,3.5,12,"Comfort Food, Chicken Wings, Restaurants, Waffles, Breakfast & Brunch",,[''],1,5
+FiQtALz4rxB-vCiq7ytrSw,"Just To Serve You, DE",1828 W 11th St,Wilmington,3.5,62,"Seafood, Restaurants, Soul Food",2.0,[],0,3
+PADyvVwZoY8waIraBOrN7g,Johnnie's Dog House and Chicken Shack,3401 Concord Pike,Wilmington,4.0,151,"Sandwiches, Burgers, Hot Dogs, Restaurants, Fast Food",1.0,['casual'],1,5
+h4xFP51FllJyCReUnzH6Ug,Madeline's Italian Restaurant,531 N Dupont St,Wilmington,3.5,10,"Sandwiches, Italian, Restaurants",2.0,[''],1,3
+JDBjHAYQozrnkaph5XQTTg,La Consentida,"1511 N Dupont Hwy, Ste 14",Wilmington Manor,4.0,11,"Restaurants, Mexican, Food, Grocery",,[],0,4
+1lOOo2L-Q9jvJAs-nN9dlQ,The Melting Pot,"1601 Concord Pike, Ste 43-47, Independence Mall",Wilmington,4.0,79,"Restaurants, Fondue, American (New)",3.0,['romantic'],1,3
+5tSloJbLGvllqnn9neahLw,Dunkin',1327 McKennans Church Rd,Wilmington,2.5,7,"Coffee & Tea, Food, Breakfast & Brunch, Restaurants, Donuts",1.0,[''],1,5
+NO6mSRC0hE-cl7CwdRPxmA,Hibachi Japanese Steak House,5607 Concord Pike,Wilmington,3.0,33,"Restaurants, Japanese",2.0,[],0,2
+JXXjN3mw4zKdBTpRtVQKcg,Pizza Pro,119 Greenbank Rd,Wilmington,3.5,26,"Restaurants, Pizza",2.0,['casual'],1,2
+Vg48ETIyEP9MALSqfDLGmA,McDonald's,4625 Kirkwood Hwy,Wilmington,2.0,19,"Restaurants, Burgers, Food, Coffee & Tea, Fast Food",1.0,[],0,5
+0wX-W6ljNl0qJVEaE3tEbQ,Five Guys,3234 B Kirkwood Hwy,Wilmington,3.0,21,"Fast Food, American (New), Burgers, Restaurants",1.0,['casual'],1,4
+MsWmW4SkisV0uJIBxeNstA,De La Coeur Café et Pâtisserie,1836 Lovering Ave,Wilmington,4.5,160,"Restaurants, Food, American (New), Breakfast & Brunch, Bakeries, Cafes, Coffee & Tea",2.0,['casual'],1,7
+vJLbVnnZFb_kiUMjGIWsSg,McDonald's,1790 W Newport,Stanton,1.5,7,"Food, Restaurants, Burgers, Coffee & Tea, Fast Food",1.0,[''],1,5
+_vpIEol9cEn3Y3KLpwbGkg,Chelsea Tavern,821 N Market St,Wilmington,3.5,277,"Sandwiches, American (New), Beer Bar, Restaurants, Bars, Pubs, Nightlife, Burgers, Gastropubs, Comfort Food",2.0,['casual'],1,10
+cg-5DuEk0AMzuILNx8FGtg,Denny's,80 Mcintosh Plz,Newark,2.0,70,"Restaurants, Diners, Breakfast & Brunch, American (Traditional)",1.0,['casual'],1,4
+BnbHihkBM50Xq-uBy5bpcg,Cajun Kate's Philly Pike,722 Philadelphia Pike,Wilmington,4.5,64,"Southern, Cajun/Creole, Restaurants, Seafood, Breakfast & Brunch",2.0,['casual'],1,5
+_CYSduKMEb9c_q2zX63dmQ,Mi Cosina,165 S Dupont Hwy,New Castle,4.5,21,"Mexican, Restaurants",1.0,['casual'],1,2
+FzlicQyHeIbLGreKpfrOmw,Charcoal Pit,714 Greenbank Rd,Wilmington,2.5,46,"Food, Ice Cream & Frozen Yogurt, Restaurants, Burgers",2.0,['casual'],1,4
+JdY3_VeTm-dC3MG6Uzi1Lg,Seasons Pizza,4723 Kirkwood Hwy,Wilmington,2.0,31,"Pizza, Italian, Restaurants, Chicken Wings",1.0,[],0,4
+O4pbnpQYTSifS9plCU06ig,Domino's Pizza,4528 Kirkwood Hwy,Wilmington,2.0,15,"Pizza, Sandwiches, Chicken Wings, Restaurants",1.0,[''],1,4
+tb7o44eBlw-mLux6ODIXGA,Serpe & Sons Bakery,1411 Kirkwood Hwy,Wilmington,3.5,40,"Bakeries, Restaurants, Ice Cream & Frozen Yogurt, Food",2.0,[''],1,4
+UGHVZSx-t_bVeMfFE-MYwQ,La Poblanita,3804 Lancaster Pike,Wilmington,4.0,28,"Restaurants, Mexican",2.0,['casual'],1,2
+zXQ2dEqAmUQfacYCZLehpQ,Jake's Wayback Burgers,2401 Kirkwood Hwy,Wilmington,4.5,9,"Restaurants, Burgers, Fast Food",1.0,[],0,3
+Gu_CWWSWsd37hpJyEHmgTQ,Prima's Pizza & Pasta,7454 Lancaster Pike,Hockessin,3.5,28,"Restaurants, Pizza",2.0,[],0,2
+jeL2UXjzEqjAj9hXhIdagg,Merchant Bar,426 N Market St,Wilmington,4.0,51,"Cocktail Bars, Tapas Bars, Bars, Nightlife, Restaurants",2.0,['trendy'],1,5
+m3tc5lXPk0VQB8gjYANXIQ,Eggspectation,507 Stanton Christiana Rd,Newark,4.0,218,"Breakfast & Brunch, Restaurants, Juice Bars & Smoothies, Burgers, Steakhouses, Sandwiches, Bars, Nightlife, Desserts, American (New), Food",2.0,[],0,11
+0CennNWmhiYdSOEkGr7vkw,Pan Tai Restaurant,837 N Union St,Wilmington,1.5,6,Restaurants,2.0,[''],1,1
+3lz2SeaByGnNHkqefOOw7g,Hachi Asian Fusion,1724 W Newport Pike,Wilmington,4.0,39,"Asian Fusion, Sushi Bars, Restaurants",,"['classy', 'casual']",2,3
+_GWFsg1dl--bf7SnnCH4zg,El Tapatio Mexican Restaurant,1700 Philadelphia Pike,Wilmington,3.0,161,"Mexican, Restaurants",2.0,['casual'],1,2
+rC8BSNd6Anq41TVkP92kOw,Wawa,2030 Limestone Rd,Wilmington,3.0,10,"Food, Restaurants, Sandwiches, Automotive, Convenience Stores, Coffee & Tea, Gas Stations",1.0,[],0,7
+zJo7j03ZP32Ou3YdGh5fQg,Shake Shack,2120 Fashion Center Blvd,New Castle,3.0,140,"Restaurants, Burgers",2.0,"['casual', 'trendy']",2,2
+WjfKT9KFRIufHXQkXp8Kzg,Hong Hing Chinese Restaurant,707 S Union St,Wilmington,4.0,37,"Chinese, Restaurants",1.0,[],0,2
+23hSJ8QvSK0J7pcqXARrOA,Red Lobster,"309 Rocky Run Pkwy, ACROSS THE STREET FROM THE CONCORD MALL",Talleyville,3.0,51,"Restaurants, American (Traditional), Seafood",2.0,['casual'],1,3
+timmWUfeZ0ES0-mGnY5E2g,Park Café,2510 W 5th St,Wilmington,5.0,5,"Restaurants, Cafes, Sandwiches, Breakfast & Brunch, Salad",,[''],1,5
+YPk2HzBuz3Pro6snB5l3KA,Route 3 Diner,1300 Veale Rd,Wilmington,3.0,70,"Restaurants, Greek, Mediterranean, Diners, Breakfast & Brunch, American (New)",2.0,[],0,6
+3KAW3nQD8w-eRy6U3sM0Tg,Mr. Taco,101 East Hazeldell Ave,New Castle,2.5,12,"Restaurants, Mexican",,[''],1,2
+BMM41XabMlOBDdv9A-P95w,Chipotle Mexican Grill,"132 Christiana Mall, Ste 1481",Newark,2.5,8,"Tex-Mex, Restaurants, Food Court, Fast Food, Mexican",1.0,[],0,5
+YTVRcMtQ0-dPkITAHTiZ2w,Bella Vista Trattoria,3 S Orange St,Wilmington,4.5,9,"Pizza, Restaurants",1.0,[],0,2
+jBgAnt-Espd14jxCshc1SQ,Metro Diner,"5600 Concord Pike, Unit 5614",Wilmington,3.5,148,"Breakfast & Brunch, American (Traditional), Diners, Restaurants",2.0,['casual'],1,4
+5RZPAro3mrnVVIQ9FESIyw,Treehouse Café,714 W 11th St,Wilmington,4.5,59,"Juice Bars & Smoothies, Restaurants, Breakfast & Brunch, Food, Coffee & Tea, Cafes, Sandwiches",2.0,['casual'],1,7
+K0Cw8KXgF23sEji9TnfBkA,Le Cavalier At The Green Room,42 W 11th St,Wilmington,3.5,41,"Mediterranean, Restaurants, Nightlife, French, Cocktail Bars, Bars, African, Wine Bars",,"['romantic', 'classy']",2,8
+GUapKeZz8THjpuS3urS16A,Wawa,605 Yorklyn Rd,Hockessin,3.5,10,"Food, Coffee & Tea, Grocery, Restaurants, Sandwiches",1.0,[''],1,5
+4iuNK5svIKV_GrbSwAXM6Q,Wawa,601 Naamans Rd,Claymont,3.0,17,"Restaurants, Automotive, Ice Cream & Frozen Yogurt, Fast Food, Convenience Stores, Gas Stations, Sandwiches, Coffee & Tea, Food",1.0,[],0,9
+EXEX90O-ULvk1FB-q0WELg,IHOP,2644 Kirkwood Hwy,Newark,2.0,19,"American (New), Breakfast & Brunch, Restaurants, American (Traditional), Burgers",2.0,[],0,5
+LTEpFgVru40dLvg1dsaD8g,Milk+Honey807,807 N Union St,Wilmington,4.0,14,"Juice Bars & Smoothies, Restaurants, Food, Coffee & Tea, Breakfast & Brunch",,[''],1,5
+byc92hBKz0DKvjcpl76LRQ,Jasmine Asian Cuisine & Sushi Bar,3618 Concord Pike,Wilmington,3.0,145,"Restaurants, Chinese, Sushi Bars, Japanese",2.0,"['trendy', 'classy']",2,4
+ut9lc20Dq7tUH0tZMKic1w,McDonald's,700 W 4th St,Wilmington,2.0,16,"Burgers, Coffee & Tea, Food, Fast Food, Restaurants",1.0,[],0,5
+wzR95QhtA8xn7cLEfsQWmw,Mamma Gina Pizza,110 N Dupont Hwy,New Castle,4.5,14,"Restaurants, Pizza",1.0,['casual'],1,2
+wyUcCSAhlgxNJvh1EmmobA,GoodEase - Take and Bake,3619 Silverside Rd,Wilmington,4.5,13,"Do-It-Yourself Food, Breakfast & Brunch, Restaurants, Desserts, Food, Bakeries, Sandwiches",2.0,[''],1,7
+z_mI02wyyYD6PJ9wHqY1fw,Saladworks,4150 Ogletown-Stanton Rd,Newark,2.5,19,"Restaurants, Salad, Vegetarian, American (New), Sandwiches, American (Traditional), Soup",1.0,[''],1,7
+KyRjvo1p7pQlyRsGHKOUHg,Papa John's Pizza,222 Lantana Drive,Hockessin,3.0,5,"Restaurants, Pizza",1.0,[],0,2
+pIoIdh3M-RQ9ohTtgzGd9A,India Grille,3456 Naamans Rd,Wilmington,3.5,117,"Restaurants, Indian, Halal, Pakistani",2.0,['casual'],1,4
+cDY4-OYo1IOGzxrbS4p3iw,Twist'd Tomato,4569 New Linden Hill Rd,Wilmington,3.5,24,"Restaurants, Pizza, Wraps, Sandwiches",,[''],1,4
+14V1okj0kDg2JU6ykdeKLw,Ming Garden,4138 Ogletown Stanton Rd,Newark,3.0,21,"Chinese, Nightlife, Bars, Restaurants, Cocktail Bars",1.0,['casual'],1,5
+9rqb7gBJPbsFuESZfVMaXQ,Orillas Tapas Bar & Restaurant,902 N Market St,Wilmington,4.5,44,"Tapas Bars, Mediterranean, Diners, Restaurants, Spanish",3.0,"['romantic', 'classy']",2,5
+wST1GG4p9sCoOuvKKvLVWw,Jakes Wayback Burgers,150 S Dupont Hwy,New Castle,3.0,14,"Fast Food, Restaurants, Burgers",1.0,[],0,3
+WqjT1iiNEzr8P9kis0GunQ,El Pique II,2110 Kirkwood Hwy,Wilmington,4.0,5,"Restaurants, Mexican",1.0,[],0,2
+uk_3KQEx_v-cV0GO1yvyKA,Express Wings & Pizzeria,212 New Castle Ave,New Castle,2.0,13,"Restaurants, Pizza",2.0,[],0,2
+UQxzV_rY0rdbW9pPR2dsTg,Michael's Restaurant & Pub,1000 Churchmans Rd,Newark,3.0,96,"Bars, American (Traditional), Restaurants, Nightlife, Pubs",2.0,['casual'],1,5
+lgxwrbvtz-Vqhc-oryi5qQ,Ciro Food & Drink,321A Justison St,Wilmington,4.5,59,"Tapas/Small Plates, Restaurants, Bars, Nightlife, Wine Bars",,['classy'],1,5
+jns8FlhfwbGfsE10eKLBnA,Market Street Bakery and Cafe,823 N Market St,Wilmington,4.0,23,"Cafes, Bagels, Breakfast & Brunch, Food, Bakeries, Restaurants",1.0,[],0,6
+F82shtmHPubyaRgwJVdf-A,Evergreen Restaurant,"3608 Miller Rd, Ste 6A",Wilmington,4.0,12,"Restaurants, Chinese",1.0,[],0,2
+S7A1UW-wCpPP70d9mEbc1w,ShopRite of 1st State Plaza,1600 W. Newport Pike,Wilmington,2.0,18,"Shopping Centers, Food, Shopping, Grocery, Delis, Bakeries, Restaurants",2.0,[''],1,7
+Nb-kpSwmX_LA-1fnvfRT_w,The Wicked Vine,1934 W 6th St,Wilmington,3.0,6,"Cajun/Creole, Comfort Food, American (New), Bars, Nightlife, Restaurants",2.0,[''],1,6
+YXceGbVTwnTHsPbRb1gp4g,China King Restaurant,2003 N Market St,Wilmington,2.0,7,"Chinese, Restaurants",1.0,[],0,2
+ZE6HI1zBSlGDYAUXzvVixg,OB's Jamaican Restaurant,301 W 4th St,Wilmington,4.5,24,"Restaurants, Caribbean",2.0,[],0,2
+kIiFXhJY5mymV8_25A7jrA,Fresco pizzeria,1812 Marsh Rd,Wilmington,4.0,22,"Pizza, Burgers, Sandwiches, Restaurants",1.0,[],0,4
+QnAhrSePleZX_Tof5CR3hg,Checkers,1503 N. Dupont Hwy.,New Castle,2.0,5,"American (New), Restaurants, Fast Food, Burgers",,[''],1,4
+YvkadIJ-G9OPpnCOSW2ISg,Le Shio,2303 Concord Pike,Wilmington,3.5,201,"Restaurants, Asian Fusion",2.0,"['classy', 'casual']",2,2
+nvpT3yvXm7fPDZlkzkf2fQ,Taco Bell,3902 Concord Pke,Wilmington,2.5,18,"Restaurants, Breakfast & Brunch, Fast Food, Tacos, Tex-Mex, Mexican",1.0,[],0,6
+SxyKh33vZAUevgqQ5CYGtA,Temptations,11A Trolley Sq,Wilmington,3.0,11,"Restaurants, Sandwiches",2.0,[],0,2
+bjZQ8Ql0QzlRW6GgdgIytw,Grub Burger Bar,"4737 Concord Pike, Ste 810",Wilmington,4.0,170,"American (New), Nightlife, Restaurants, Burgers, American (Traditional), Bars",2.0,['casual'],1,6
+W7IXC4Bq5jXOQVV6Cu1OSA,Wawa,915 New Rd,Wilmington,2.0,12,"Delis, Food, Coffee & Tea, Convenience Stores, Gas Stations, Sandwiches, Restaurants, Automotive",1.0,[''],1,8
+yvVJxONMGqOzO1ouw77J3Q,Constitution Yards,308 Justison St,Wilmington,4.0,55,"Barbeque, Nightlife, Restaurants, Beer Gardens",2.0,"['hipster', 'casual', 'trendy']",3,4
+Sm3LFPwOdn975HvcfrqDOw,QDOBA Mexican Eats,837 N Market St,Wilmington,2.5,23,"Event Planning & Services, Fast Food, Mexican, Caterers, Restaurants",1.0,[],0,5
+86vyH37R2Edv0zKBc1lQyg,King Garden,729A Philadelphia Pike,Wilmington,3.5,16,"Restaurants, Chinese",1.0,[],0,2
+PXVw9DhzDDtq0TGcsdYsIQ,Cannon's Custom Cakes Bakery,228 Astro Shopping Ctr,Newark,2.5,52,"Custom Cakes, Food, Bakeries, Ice Cream & Frozen Yogurt, Restaurants, Patisserie/Cake Shop, Cupcakes",2.0,[''],1,7
+K8kw1ylsCTeEAAOY179feQ,Sbarro,201 W Main St,Christiana,3.5,6,"Restaurants, Pizza",1.0,[''],1,2
+1fwJTdGs4Fsm_mguZX6SFQ,Sweets To You by Ginger,913 Brandywine Blvd,Wilmington,2.5,25,"Bakeries, Food, Restaurants",2.0,[''],1,3
+dmj-6zHdO8R76-pdqiV8nw,Popeyes,Chapman Road,Newark,2.0,21,"Fast Food, Restaurants",1.0,[],0,2
+rXieH75VhdR2pQhf1CWxhQ,Adams’ Rib & Grille,2707 Philadelphia Pike,Claymont,3.5,22,"Barbeque, Restaurants, Soul Food, Sandwiches",,[''],1,4
+q7J8uBa2o8a1iac_8x741Q,Checkers,4303 Kirkwood Hwy,Wilmington,2.0,13,"Restaurants, Burgers, Fast Food",,[''],1,3
+u7bo1o8ry-fvb6PbvtZJzQ,Poke Bros,4571 Kirkwood Hwy,Wilmington,4.0,68,"Restaurants, Hawaiian, Seafood, Poke, Japanese, Food",2.0,['casual'],1,6
+BKlw_Ao7FK01I5j9w_EXwA,Cocina Lolo,405 N King St,Wilmington,3.5,47,"Restaurants, Mexican",2.0,['trendy'],1,2
+EMVKCwf8Ck0XsADY_kCWkw,Wilma's,900 N Market St,Wilmington,4.0,7,"Barbeque, Arts & Entertainment, Cocktail Bars, Nightlife, Seafood, Restaurants, Cajun/Creole, Bars",,[''],1,8
+-L4ZVlzmrVKCs6F7ucgikA,Asnan Sushi Bar & Asian Cuisine,115 Christina Lndg,Wilmington,2.0,6,"Asian Fusion, Sushi Bars, Restaurants",2.0,[],0,3
+ym3e_a1L4gyKZWU1-LuRYQ,Cosi,"125 S W St, Ste 119",Wilmington,3.0,11,"Sandwiches, Food, Restaurants, Breakfast & Brunch, Coffee & Tea, American (New)",2.0,[],0,6
+a2NKecVY4wof4NGSc4hFXg,European Bistro,1710 Naamans Rd,Wilmington,4.0,19,"Greek, American (Traditional), Mediterranean, Restaurants",2.0,['divey'],1,4
+iQa7kNO5jMkGeJCJzbCPGg,Nordstrom Ebar Artisan Coffee,100 Christiana Mall,Newark,4.0,14,"Coffeeshops, Coffee & Tea, Restaurants, Food, Internet Cafes, American (New), Nightlife",2.0,[],0,7
+i92ouDpINZXfL5gov7I5Kw,Pat's Pizza & Pasta,5603 Kirkwood Hwy,Wilmington,2.5,21,"Pizza, Restaurants, Specialty Food, Sandwiches, Food, Pasta Shops",1.0,['casual'],1,6
+7U7IgKCBvUqHDoZvmunuAA,McDonald's,4111 N Market St,Wilmington,1.5,16,"Coffee & Tea, Fast Food, Burgers, Food, Restaurants",1.0,[],0,5
+OO5oDYrIYlJaoFAFetrW-g,Wawa,4651 Stanton Ogletown Rd,Newark,3.0,7,"Delis, Food, Automotive, Restaurants, Gas Stations, Sandwiches, Coffee & Tea, Convenience Stores",,[],0,8
+V71KzO8mXPK7E8no2FN8sw,McDonald's,700 N Dupont Hwy,New Castle,1.5,6,"Coffee & Tea, Fast Food, Burgers, Food, Restaurants",1.0,[''],1,5
+2WOZLyI8pRNF5HSl8RAeaQ,Seasons Pizza,4606 Ogletown Stanton Rd,Newark,2.5,32,"Restaurants, Chicken Wings, Italian, Pizza",1.0,[],0,4
+lR5MEog_4Xr4Wkw5bEWSNg,Pat's Pizzeria,1815 Philadelphia Pke,Claymont,3.0,16,"Pizza, Restaurants",1.0,[],0,2
+eunaT5pF5ffyNUm0O8Zcrg,Troy Pizza & Family Restaurant,2618 Kirkwood Hwy,Newark,2.5,28,"Restaurants, Pizza, American (Traditional)",1.0,[''],1,3
+oC43ya3FFAG256bEXyXm2g,Saladworks,4127 Concord Pike,Wilmington,3.0,44,"Restaurants, American (Traditional), Vegetarian, Salad, Sandwiches, American (New), Soup",2.0,"['classy', 'casual']",2,7
+RnF36ZCuwHxpoFXf2aXX1g,Pochi,220 W 9th St,Wilmington,4.5,114,"Restaurants, Seafood, Nightlife, Latin American, Bars, Wine Bars",2.0,['casual'],1,6
+OQQEhFY3Nvb5_jkmcQQDyw,PrimoHoagies,"3616 Kirkwood Hwy, Ste G",Wilmington,3.0,24,"Restaurants, Delis, Sandwiches, Food, Italian",2.0,['casual'],1,5
+Z3QKriJ_9J8gIy8C4QzaIw,IHOP,148 N Dupont Hwy,New Castle,2.5,39,"Food, American (New), Restaurants, Bakeries, Burgers, American (Traditional), Breakfast & Brunch",1.0,[],0,7
+e7eiRgVzH0v3GXDGURgf9A,Sterling Grille,919 N Orange St,Wilmington,3.5,11,"Restaurants, Breakfast & Brunch, Tapas/Small Plates, Sandwiches",1.0,[],0,4
+uSRW0_iRB_Ri_qO_fz9VjA,Two Stones Pub,300 Lantana Dr,Hockessin,3.5,51,"Nightlife, Restaurants, Pubs, Bars, American (Traditional), American (New)",2.0,['casual'],1,6
+WhQbHbOGtYas5LdNr2OQNQ,Island Fin Poke,1604 Delaware Ave,Wilmington,5.0,8,"Hawaiian, Restaurants, Poke, Food",,[''],1,4
+giGFpZkRy89cUzgTuyfNGA,Hibachi Sushi and Super Buffet,429 S Walnut St,Wilmington,2.5,27,"Sushi Bars, Asian Fusion, Restaurants, Chinese, Japanese",2.0,['casual'],1,5
+9kRo0ULH--EDQwI69Shw-w,Alex's Seafood Restaurant & Clam Bar,110 N Dupont Pkwy,New Castle,3.5,52,"Specialty Food, Meat Shops, Seafood, Restaurants, Food",2.0,['divey'],1,5
+FN1sLS5hfMydZX94SYD1QA,Claymont Steak Shop,2720 Concord Pike,Wilmington,2.5,73,"Cheesesteaks, American (Traditional), Caterers, Sandwiches, Steakhouses, Pizza, Restaurants, Event Planning & Services, American (New)",2.0,['casual'],1,9
+XuH43OxI-NmA5-KbM5auvQ,Harry's Fish Market & Grill,3 S Orange St,Wilmington,3.0,9,"American (Traditional), Seafood Markets, Restaurants, Food, Specialty Food, Seafood",2.0,[],0,6
+riwJWxj4850tGBhRahDt7g,Sushi Sumo,2653 Kirkwood Hwy,Newark,4.5,191,"Restaurants, Japanese, Food, Sushi Bars",2.0,"['intimate', 'classy']",2,4
+5c_jYz4IolgGdrJLabSTew,Casapulla's Elsmere Steak & Sub Shop,514 Junction St,Wilmington,4.0,49,"Sandwiches, Grocery, Food, Delis, Restaurants",1.0,['casual'],1,5
+8hWGADp-m3NzX1-oSXPwPQ,Burger King,2690 Kirkwood Hwy,Newark,2.5,7,"Fast Food, Restaurants, Hot Dogs, Burgers",1.0,['classy'],1,4
+Kk9WgsCJEclBbhWXxeL1TQ,Gyro Stop,1706 Kirkwood Hwy,Wilmington,4.5,5,"Food Trucks, Food Stands, Food, Restaurants",1.0,[''],1,4
+NsTtjA9ZuJVr6pHApkOXsw,Anthony's Coal Fired Pizza,5611 Concord Pike,Wilmington,3.5,158,"Restaurants, Pizza",2.0,"['classy', 'casual']",2,2
+TB9Oi-HliFy7yycFFzvm9w,Taqueria Rojas,3616 Kirkwood Hwy,Wilmington,3.0,5,"Mexican, Restaurants",,[''],1,2
+8aZFTAunMPJhv0Zz4jHWGw,Sweeneys Bakery And Ice Cream,2068 Naamans Road,Wilmington,3.5,22,"Food, Restaurants, Ice Cream & Frozen Yogurt, Bakeries",2.0,[''],1,4
+OSjSbJEyIkey6tcTgL9y3Q,Happy Fortune Restaurant,1808 Marsh Rd,Wilmington,3.5,20,"Restaurants, Asian Fusion, Chinese",1.0,[],0,3
+T7pfUqFPaxJWLquFePSLcw,Catherine Rooney's,1616 Delaware Ave,Wilmington,3.0,73,"Pubs, Bars, Irish Pub, Salad, American (Traditional), Nightlife, Irish, Restaurants",2.0,['casual'],1,8
+Uz4ezmjEr2SawQL3zRcoZQ,Dom's N.Y. Style Pizzeria,"218 W Market St, Newport Plaza",Newport,4.0,83,"Food, Beer, Wine & Spirits, Sandwiches, Italian, Restaurants, Pizza",1.0,['casual'],1,7
+K32hC2muzKilZkUs9RJhcw,Famous Rivera Grill,7313 Lancaster Pike,Hockessin,3.5,39,"Restaurants, Mexican",2.0,['casual'],1,2
+pe4nl6zFDnoYx9ZaMOl-3w,Capriotti's Sandwich Shop,4522 Kirkwood Hwy,Wilmington,2.5,48,"Sandwiches, Restaurants, Delis",1.0,[],0,3
+FrkGJp1WIxpFFT07Qbos5w,The Well Coffeehouse and Marketplace,6949 Lancaster Pike,Hockessin,4.5,44,"Fruits & Veggies, Barbeque, Soup, Coffee & Tea, Sandwiches, Food, Restaurants, Specialty Food",2.0,[],0,8
+q2SSz2-nRYWeFG2EoUMuZQ,Santa Fe Mexican Grill - Wilmington,"2000 Pennsylvania Ave, Ste 105",Wilmington,4.0,33,"Restaurants, Tacos, Mexican, Latin American",2.0,[],0,4
+ojmk4fKI4_8ZqRggwlxUpw,Leo & Jimmy's Delicatessen,728 N Market St,Wilmington,4.0,14,"Restaurants, Sandwiches, Delis",1.0,['divey'],1,3
+ELX24jqeRWZbR-Dq6wrnLQ,Crafty Crab,429 S Walnut St,Wilmington,3.5,7,"Restaurants, Bars, Nightlife, Seafood",,[''],1,4
+6tQrTyDTs5hWh5e4LlPLCg,McDonald's,101 New Rd,Wilmington,1.5,14,"Restaurants, Fast Food, Coffee & Tea, Burgers, Food",1.0,[],0,5
+tILA8ctsD_OZIcM2IfSyQA,Cafe SiTALY,1710 Naamans Rd,Wilmington,4.5,169,"Pizza, Sandwiches, Italian, Restaurants",2.0,['casual'],1,4
+vRdQizZLDFVh7TA9koOq2Q,Union City Grille,805 N Union St,Wilmington,3.5,36,"Seafood, Restaurants, Steakhouses",2.0,[],0,3
+ELgR35KIlpuTMeWi6tFP7g,Mikimotos Japanese Restaurant & Sushi Bar,1212 N Washington St,Wilmington,3.5,269,"Nightlife, Japanese, Sushi Bars, Restaurants, Bars",2.0,['trendy'],1,5
+ifEkf8JxP3RCBeszcIGLww,Scalessa's,1836 N Lincoln St,Wilmington,5.0,176,"Restaurants, Italian",2.0,['casual'],1,2
+VbzoVWEPSfzaIGBq4KlVwQ,Soybean Asian Grille,4702 Limestone Rd,Wilmington,4.5,167,"Thai, Restaurants, Chinese, Asian Fusion",2.0,"['classy', 'casual']",2,4
+z9i9Tym7T64lMDg70Ii9hw,Stoney's British Pub,3007 Concord Pike,Wilmington,4.0,104,"Pubs, Bars, Restaurants, Nightlife, British",2.0,['casual'],1,5
+QNoDyRjQTmt2Pt1K4xHW3Q,Wade's,807 W Newport Pike,Wilmington,4.5,5,"Delis, Restaurants",1.0,[''],1,2
+96z5LhtPc2RQgNabJvrCJg,The Spare Rib,3031 New Castle Ave,New Castle,4.5,9,"American (Traditional), Restaurants, Barbeque",2.0,[''],1,3
+kBt6_fX1pZzizIMXDtD7og,New York Bagel Cafe & Deli,1111 Churchmans Rd,Newark,2.5,9,"Breakfast & Brunch, Restaurants",1.0,[''],1,2
+zLDQl0CEv3WNSHAB1g8xXg,Hibachi Japanese Steak House,216 Astro Shopping Ctr,Newark,2.5,35,"Japanese, Restaurants",2.0,[],0,2
+gd15-d7r2joRjkcXywMWUw,LongHorn Steakhouse,4157 Concord Pike,Wilmington,3.5,10,"Barbeque, Restaurants, American (Traditional), Steakhouses",,[''],1,4
+JvFDMS5yryf3lDwUPAb6OQ,Skyline Grill,3542 3 Little Bakers Blvd,Wilmington,2.0,7,"Restaurants, American (Traditional), Bars, Nightlife",2.0,[],0,4
+Tr-8_aJ7VgywoRk3sMC4Ww,Ioannoni's Bullroasters,624 E Basin Rd,New Castle,4.5,182,"Restaurants, Delis, Sandwiches",2.0,['casual'],1,3
+nXZS5W8-4VztBpjYIinpNw,No. 1 China Restaurant,1531 Maryland Ave,Wilmington,3.0,12,"Restaurants, Cantonese, Fast Food, Chinese, Szechuan",1.0,[],0,5
+P_1mSczqlosmm4ahM8v6LQ,North Quarter Creole,837 N Union St,Wilmington,3.5,32,"American (New), Cajun/Creole, American (Traditional), Restaurants",2.0,[],0,4
+SRg4QRR7xQrZ6cp9u8VX9g,Potstickers Asian Grill,1247 Churchmans Rd,Newark,3.5,220,"Asian Fusion, Sushi Bars, Restaurants, Japanese, Chinese",2.0,['classy'],1,5
+r6MBlUIS8_U1JINh8HJZTw,Ciao Pizza & Pasta,3218 Kirkwood Hwy,Wilmington,3.5,23,"Restaurants, Pizza",1.0,[],0,2
+yCgoR5GRjPXZXpdwHMUqTw,Burger King,2911 Philadelphia Pike,Claymont,1.5,18,"Restaurants, Fast Food, Burgers",1.0,[''],1,3
+Ni1KrIwBlv489_4GTzXGEQ,Atami Grill & Sushi Express,833 N Market St,Wilmington,2.5,52,"Restaurants, Asian Fusion, Sushi Bars",1.0,[],0,3
+nTIbCcAYMRrzUm29h0dk8Q,DiMeo's Pizza,831 N Market St,Wilmington,4.0,140,"Pizza, Restaurants, Pasta Shops, Sandwiches, Food, Specialty Food, Fast Food",2.0,['casual'],1,7
+-M9uwwh6jHbzjHOm2N5fHg,The Legend Restaurant and Bakery,201 N Dupont Hwy,New Castle,4.0,38,"American (Traditional), Venues & Event Spaces, Event Planning & Services, Breakfast & Brunch, Restaurants",2.0,[],0,5
+bDFk_io_k-6To1ul3h3tuA,Dunkin',2706 Concord Pike,Wilmington,3.5,10,"Food, Bagels, Restaurants, Donuts, Coffee & Tea",1.0,[''],1,5
+CZh7ag6mlr-4AMNkiEzHRg,Krispy Krunchy Chicken Pizza Grill,1504 Philadelphia Pike,Wilmington,4.0,5,"Middle Eastern, Restaurants, Chicken Shop, Chicken Wings, Burgers, Pizza",,[''],1,6
+XIBoAKSB52c3BYXnbLpgaA,Oldbanks Bistro,1711 Delaware Ave,Wilmington,4.0,46,"Chicken Shop, American (New), Pizza, Restaurants, Fast Food, American (Traditional)",2.0,"['trendy', 'casual']",2,6
+KMxOsLntxetLSVUIf-uG4w,Ed's Hot Dogs,138 Sunset Blvd,New Castle,5.0,8,"Restaurants, Hot Dogs",1.0,[],0,2
+UK-v9kE16bUrifXmzfFxUw,KFC,4303 Kirkwood Hwy.,Wilmington,2.5,7,"Restaurants, Fast Food, Chicken Wings",1.0,[''],1,3
+oCo71AEK7x-CGpzVg56wRA,Kennedy Fried Chicken,620 N Market St,Wilmington,3.5,9,"Seafood, Burgers, Restaurants, Chicken Wings, Fast Food",1.0,[],0,5
+aQNDJ0WyuJZK-ZwkZqJq4g,Rays Market,307 North King St,Wilmington,3.0,5,"Burgers, Specialty Food, Mediterranean, Food, Restaurants, Breakfast & Brunch, Convenience Stores",1.0,[],0,7
+z00F0RSAGimvSU9IrTevOw,McDonald's,3010 New Castle Ave,New Castle,1.0,5,"Burgers, Coffee & Tea, Fast Food, Restaurants, Food",1.0,[''],1,5
+W0hyjefq4YWl-uV-Hye5Mw,Fat Rick's BBQ and Catering,"1401 Foulk Rd, Bldg 1413",Wilmington,4.0,9,"American (Traditional), Restaurants, Barbeque",,[''],1,3
+MxfQ_HrOBrSPSVk24CAb9A,Jamba,5613 Concord Pike,Wilmington,3.0,24,"Food, Specialty Food, Acai Bowls, Health Markets, Juice Bars & Smoothies, Breakfast & Brunch, Sandwiches, Restaurants, Vegan",1.0,[''],1,9
+h9tUG_bLdX30YAED9q0Fsg,Claymont Steak Shop,3526 Philadelphia Pike,Claymont,3.0,171,"Pizza, Restaurants, Cheesesteaks, Caterers, Event Planning & Services, Sandwiches",2.0,['casual'],1,6
+aeZmTIjW5MbEARJC0Ch1rQ,El Salvadoreno,101 Kirkwood Sq,Wilmington,4.0,9,"Restaurants, Salvadoran, Latin American, Fast Food",,[''],1,4
+V0ffRTuD2eZkUn6dyZAgRw,Arby's,3211 Kirkwood Hwy,Wilmington,3.0,12,"Fast Food, Restaurants, Sandwiches",1.0,[],0,3
+FNDX_9BaClbnmJyZI0mndQ,Saladworks,4567 Kirkwood Hwy,Wilmington,2.5,10,"Vegetarian, Soup, Restaurants, American (Traditional), Salad",1.0,[''],1,5
+YNWEM2NVocUl6d74yRvpug,Golden City Chinese Cuisine,"7288 Lancaster Pike, Ste 4B",Hockessin,3.5,12,"Chinese, Restaurants",1.0,[''],1,2
+HmeKJIWJaJ7u8V9NhnZIEg,The Simple Greek,5604 Concord Pike,Wilmington,3.5,26,"Mediterranean, Greek, Restaurants",1.0,[''],1,3
+bS6aPaOR0X6OH4eFeEeUfw,Krazy Kats Restaurant,Rr 100,Montchanin,4.0,58,"American (New), Restaurants",3.0,['classy'],1,2
+MAQ3xsIxI9wbvilPYkvmVQ,Kampo Garden Chinese Food,117 Greenbank Rd,Wilmington,2.5,16,"Restaurants, Chinese",1.0,[''],1,2
+_PlmFAlaUQHdQN6rli0gzA,Wawa,400 Wilson Rd,Wilmington,2.5,8,"Coffee & Tea, Sandwiches, Delis, Food, Restaurants",2.0,[],0,5
+6X1uRuf4Ykdt0prs_xqz6w,Hong Kong Chinese Food Eat In & Take Out,38 Carpenter Plz,Wilmington,4.0,16,"Restaurants, Chinese",,[],0,2
+f3qKagX8q2lnz1O6Ulck7w,PureBread Deli,4001 Kennett Pike,Wilmington,4.0,56,"Restaurants, Delis, Cafes",2.0,['casual'],1,3
+7L6pFDZN7jR2KqrDuxy-ng,Hooters,136 Astro Shopping Ctr,Newark,3.5,6,"Restaurants, Chicken Wings, American (Traditional)",,[''],1,3
+wu4zVzAeTIClugvU_X4meA,Bally's Chinese Restaurant,2116 N Market St,Wilmington,3.5,23,"Restaurants, Chinese",1.0,[],0,2
+IrD6smDjZM-Rt7B-SJDp4g,China Wok,2922 North Market St,Wilmington,3.5,8,"Asian Fusion, Restaurants, Chinese",,[''],1,3
+iR5MI7ch9z3AYiqxBVLJLw,Sullivan's Steakhouse,5525 Concord Pike,Wilmington,3.5,207,"Steakhouses, Restaurants",3.0,['classy'],1,2
+9zOydjYJlIqsnJYtWDNP-A,Maiale,"2800 Lancaster Ave, Ste 3",Wilmington,5.0,21,"Meat Shops, Food, Restaurants, Sandwiches, Specialty Food, Soup",1.0,['casual'],1,6
+iWFK7U-wBR-68X0VFrSkNA,Booth House Tavern,222 Delaware St,New Castle,4.5,11,"Brasseries, Restaurants",,[''],1,2
+9tQG4U90-x7Ha2_Tdg4Xmw,Boston Market,3900 Concord Pike,Wilmington,3.0,13,"Caterers, Comfort Food, Event Planning & Services, Fast Food, Restaurants, American (Traditional), Sandwiches, American (New), Chicken Shop",1.0,[''],1,9
+kLWpuSBJ0MGM7XRNlg0EEQ,Mojo Loco,,Wilmington,4.0,19,"Restaurants, Mexican, Food Trucks, Street Vendors, Food, Tacos",2.0,[],0,6
+v6AlogsSBf4sxrVHcSnMHQ,Samson's Country Maid,14 Polly Drummond Shpg Ctr,Newark,4.0,6,"Restaurants, Delis, Sandwiches, Breakfast & Brunch",1.0,[''],1,4
+J4zpaa-HozFmRt4hYGlBuw,Arby's,2719 Philadelphia Pike,Claymont,3.5,6,"Fast Food, Sandwiches, Restaurants",1.0,[],0,3
+Q6_cM-2YjN10hgfs35Ml6g,Ruby Tuesday Restaurant,"Concord Mall, 4737 Concord Pike ,Ste 810",Wilmington,2.0,6,"Restaurants, American (New)",2.0,[],0,2
+lxuRSOi2RCW2yu0HT7GBEQ,Krispy Krunchy Chicken,3000 N Market St,Wilmington,4.0,5,"American (Traditional), Mediterranean, Chicken Shop, Fast Food, Pizza, Restaurants, Halal, Chicken Wings",,[''],1,8
+YIaZeWePIaddftxUoxRh5g,Chuck E. Cheese,3601 Silverside Rd,Wilmington,2.0,19,"Event Planning & Services, Restaurants, Arts & Entertainment, Kids Activities, Pizza, Arcades, Indoor Playcentre, Party & Event Planning, Active Life",,[],0,9
+UREmwQBCMimpOuFyKPW3xw,Burger King,530 Jfk Memorial Hwy,Newark,2.0,24,"Restaurants, Burgers, Food, Fast Food, Hot Dogs",1.0,[],0,5
+B5S_5MCYNWvcz0qn6dnTUw,Checkers,4301 N. Market Street,Wilmington,2.0,23,"Restaurants, Burgers, American (New), Desserts, Food, Fast Food",1.0,[],0,6
+P9pwQW2d-M1YgYQH71K-qw,Olympic Subs & Steaks,813 N Market St,Wilmington,4.5,64,"Sandwiches, Steakhouses, Restaurants",1.0,"['classy', 'casual']",2,3
+E-3TJ8yFXpUSv1aThsVfZw,King Garden,2511 W 4th St,Wilmington,4.0,10,"Soup, Chicken Shop, Restaurants, Chinese, Seafood",1.0,[''],1,5
+nN8plg8HmBSb4c7zdCZALQ,Bull Bay Cuisine,900 N Orange St,Wilmington,2.5,27,"Caribbean, Restaurants, American (Traditional), Nightlife, Bars",2.0,[],0,5
+7UFRDoDdwC3_Pt77FzaJfg,Brew Haha!,222 Delaware Ave,Wilmington,4.0,5,"Cafes, Restaurants",1.0,[''],1,2
+ZlgwjiDDgsXl_rzR3XYwhw,Dash In,2001 Pennsylvania Ave,Wilmington,2.5,6,"Food, Convenience Stores, Restaurants, Gas Stations, Automotive, Delis, Sandwiches",,[''],1,7
+Z53I9xwy0aMRy577GuM1KQ,Kapow Food Truck,1701 Louvering Ave,Wilmington,4.0,10,"Asian Fusion, Restaurants, Ethnic Food, Specialty Food, Food, Food Trucks, Street Vendors",2.0,[''],1,7
+ZlOWflwsH8mMtyMlQgYWZw,Nal Restaurant,"1304 Old Lancaster Pike, Ste B",Hockessin,4.0,31,"Latin American, Mexican, Brazilian, Restaurants",,['intimate'],1,4
+sSEKLTDGKdvOqevbfoBbiw,Cavanaugh's Restaurant,703 N Market St,Wilmington,4.0,24,"Restaurants, American (Traditional)",2.0,[],0,2
+EXEzZQObGgWlQEHqZs3fLg,Seafood Stop,12 E 4th St,Wilmington,3.0,6,"Chinese, Restaurants, Seafood, Diners",,[''],1,4
+aAslC0l5mZB8oJNbld0byA,McGlynns Pub,8 Polly Drummond Shopping Ctr,Newark,3.0,48,"American (Traditional), Nightlife, Restaurants, Sports Bars, Bars, Pubs, Beer Bar",2.0,['casual'],1,7
+rDy9qZZEq-mbKExVQNTaqQ,Toscana to Go,1402 N Dupont St,Wilmington,3.0,21,"Restaurants, Italian",2.0,"['classy', 'casual']",2,2
+AaRpbFg8-dazKyKmoh65tQ,Goodfellas Steaks & Subs,3206 Kirkwood Hwy,Wilmington,3.5,23,"Cheesesteaks, Restaurants, Sandwiches",1.0,[],0,3
+_95ZY2UZrasSfuoDD_E1YA,Suki Hana,"132 Christiana Mall, Ste 1477",Newark,3.0,50,"Japanese, Fast Food, Restaurants, Sushi Bars, Chinese",1.0,['casual'],1,5
+Pn8fn5d95xGhEd-LADm2zw,Tacos Don Vicente,624 S Maryland Ave,Wilmington,5.0,8,"Mexican, Restaurants",1.0,[''],1,2
+f5KbR9Ty05qgJvFbMm7fjA,The House of William and Merry,1336 Old Lancaster Pike,Hockessin,4.5,156,"Restaurants, American (New)",3.0,"['intimate', 'classy']",2,2
+QENmoWh-mSKD8cBaK8lYhw,JB McGinnes Pub and Grille,519 E Basin Rd,New Castle,3.0,10,"Music Venues, American (Traditional), Restaurants, American (New), Bars, Pubs, Nightlife, Jazz & Blues, Arts & Entertainment",1.0,[],0,9
+N9L1B3TD57wyDl7f3Awlcg,KFC,609 Naamans Rd,Claymont,1.0,31,"Chicken Shop, Chicken Wings, Fast Food, Restaurants",1.0,[''],1,4
+e_OEKGsZEndFkqcVyVb3Rw,Lotsa Pasta Restaurant & Lounge,2314 Carpenter Station Rd,Wilmington,2.5,9,"Restaurants, Bars, Italian, Lounges, Nightlife",2.0,[],0,5
+2O2K6SXPWv56amqxCECd4w,The Plum Pit,4405 Pennell Rd,Aston,4.5,14,"Restaurants, Comfort Food, Food, Food Trucks, Caterers, Event Planning & Services",1.0,[''],1,6
