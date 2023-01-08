@@ -1,6 +1,5 @@
 # Restaurant_Recommendation_System_YELP
 
-
 ![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=yellow&style=for-the-badge)
@@ -8,8 +7,10 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
 
-## About The Project
 
+
+## About The Project
+<img src="./Project/YELP_restaurents.png">
 #### Study context :
 Le cas d’étude proposé concerne le site participatif d’avis Yelp décrit dans le document « Contexte d’étude - Analyse de données Yelp ». Globalement, des utilisateurs donnent leur avis sur des restaurants. Ces utilisateurs possèdent ou non des amis qui sont aussi des utilisateurs du site.
 
