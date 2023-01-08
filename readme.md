@@ -16,9 +16,9 @@
 Le cas d’étude proposé concerne le site participatif d’avis Yelp décrit dans le document « Contexte d’étude - Analyse de données Yelp ». Globalement, des utilisateurs donnent leur avis sur des restaurants. Ces utilisateurs possèdent ou non des amis qui sont aussi des utilisateurs du site.
 
 #### Work required :   
-➥ Proposez une **modélisation** permettant de couvrir ce cas d’étude   
-➥ Écrire un script python permettant de **transformer** et **nettoyer** les fichiers [yelp_restaurants.json](Dataset/Json_OriginalDdata/yelp_restaurants.json), [yelp_user.json](Dataset/Json_OriginalDdata/yelp_user.json) et [yelp_review.json](Dataset/Json_OriginalDdata/yelp_review.json) en autant de fichiers .csv que nécessaire    
-➥ Créez une nouvelle base de données locale sous neo4j et définir les requêtes en **langage cypher** permettant de répondre aux besoins décrits [ici](Project/Project.pdf)    
+➥ Proposez une **modélisation** permettant de couvrir ce cas d’étude
+➥ Écrire un script python permettant de **transformer** et **nettoyer** les fichiers [yelp_restaurants.json](Dataset/Json_OriginalDdata/yelp_restaurants.json), [yelp_user.json](Dataset/Json_OriginalDdata/yelp_user.json) et [yelp_review.json](Dataset/Json_OriginalDdata/yelp_review.json) en autant de fichiers .csv que nécessaire
+➥ Créer une nouvelle base de données locale sous neo4j et définir les requêtes en **langage cypher** permettant de répondre aux besoins décrits [ici](Project/Project.pdf)
 ➥ Construction du **moteur de recommandation** d’influenceurs, pour sélectionner ces utilisateurs-influenceurs pour chacun des restaurants, on se propose de calculer un **score d’influence** des utilisateurs de la plateforme avec les règles décrites [ici](Project/Project.pdf)   
 
 
