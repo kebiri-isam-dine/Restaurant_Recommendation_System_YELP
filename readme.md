@@ -2,8 +2,8 @@
 
 
 ![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/UniversityProjects?color=red&style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/UniversityProjects?color=yellow&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=red&style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=yellow&style=for-the-badge)
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
@@ -86,4 +86,4 @@ Affichage du **graphe globale**
 
 🌐 My Portfolio: <https://kebiri-isam-dine.github.io/>
 
-🔗 Project Link: [https://github.com/Kebiri-isam-dine/UniversityProjects/BioInformatique](https://github.com/Kebiri-isam-dine/UniversityProjects/tree/main/Bio%20informatique)
+🔗 Project Link: [https://github.com/kebiri-isam-dine/Restaurant_Recommendation_System_YELP](https://github.com/kebiri-isam-dine/Restaurant_Recommendation_System_YELP)
