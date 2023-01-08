@@ -1,4 +1,4 @@
-# Restaurant_Recommendation_System_YELP
+# Restaurant Recommendation System YELP
 
 ![GitHub](https://img.shields.io/github/license/kebiri-isam-dine/UniversityProjects?color=g&style=for-the-badge)
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=red&style=for-the-badge)
