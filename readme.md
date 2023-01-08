@@ -11,6 +11,7 @@
 
 ## About The Project
 <img src="./Project/YELP_restaurents.png">
+
 #### Study context :
 Le cas d’étude proposé concerne le site participatif d’avis Yelp décrit dans le document « Contexte d’étude - Analyse de données Yelp ». Globalement, des utilisateurs donnent leur avis sur des restaurants. Ces utilisateurs possèdent ou non des amis qui sont aussi des utilisateurs du site.
 
