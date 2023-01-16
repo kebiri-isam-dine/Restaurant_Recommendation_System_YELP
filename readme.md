@@ -4,9 +4,10 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=red&style=for-the-badge)
 ![GitHub contributors](https://img.shields.io/github/contributors/kebiri-isam-dine/Restaurant_Recommendation_System_YELP?color=yellow&style=for-the-badge)
 
-![GitHub dev_language](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
-![GitHub dev_language](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![GitHub dev_language](https://img.shields.io/badge/json-6aa84f?style=for-the-badge&logo=json&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/Neo4j-blue?style=flat&logo=solidity&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/Python-yellow?style=flat&logo=python&logoColor=white)
+![GitHub dev_language](https://img.shields.io/badge/Pandas-6aa84f?style=flat&logo=pandas&logoColor=white)
+
 
 ![GitHub Org's stars](https://img.shields.io/github/stars/kebiri-isam-dine?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/kebiri-isam-dine?style=social)
