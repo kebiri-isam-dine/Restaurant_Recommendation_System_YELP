@@ -65,6 +65,10 @@ Les trois Dataset YELP en json :
 ➥ [yelp_review.json](Dataset/Json_OriginalDdata/yelp_review.json)       
 
 
+## Modelisation
+Afin de couvrir l’ensemble du cas d’étude et pouvoir répondre à l’ensemble des requêtes traité dans l'interrogation des données, la figure suivante représente la modélisation que nous proposons, deux types de nœuds : user et restaurants ainsi que deux types de relations : friends et review, chacun avec ces propres attributs.
+<img src="./Modeliation.jpg">
+
 
 ## Output
 
